@@ -1,0 +1,41 @@
+{
+  "name": "nyx-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for leaderboard, ranked matches, and server mgmnt :>",
+  "homepage": "https://github.com/gowtham-2oo5/nyx-bot#readme",
+  "bugs": {
+    "url": "https://github.com/gowtham-2oo5/nyx-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowtham-2oo5/nyx-bot.git"
+  },
+  "license": "ISC",
+  "author": "Gowtham A",
+  "type": "module",
+  "main": "src/index.ts",
+  "dependencies": {
+    "discord.js": "14.18.0",
+    "dotenv": "16.5.0",
+    "drizzle-orm": "^0.45.2",
+    "hono": "4.7.7",
+    "mysql2": "3.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.3",
+    "bun-types": "^1.3.13",
+    "drizzle-kit": "0.31.9",
+    "typescript": "5.8.3"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "bun run src/index.ts",
+    "deploy-commands": "bun run src/deploy-commands.ts",
+    "db:push": "bunx drizzle-kit push",
+    "db:studio": "bunx drizzle-kit studio",
+    "check-db": "bun check-db.js",
+    "test": "bun test src/__tests__"
+  }
+}
