@@ -1,0 +1,8 @@
+{
+  "mastery": "Earn mastery by defeating opponents (0.50%), daily quests (4-5%), or beating The Prototype boss (5-13%). Required to unlock Mastered versions of characters.",
+  "ranked": "Ranked is a competitive Gamemode in Heroes Battlegrounds that allows you to fight players at a similar skill level as you. To join ranked, click the crossing swords icon on the top left of your screen. When joining, you will be teleported to the ranked lobby. When joining the lobby, there will be two matchmaking boxes to choose from; the 1v1 box or 2v2 box.\n\n==1v1==\nOn the 1v1 platform of the ranked lobby, you get matched against whichever person is also standing on the platform that has a ranked level most similar to your own. After the queue, you and your opponent will spawn in the arena. Th",
+  "iwo": "Interaction With Objects. Unblockable attacks using environment (trees, pillars, trashcans, jukebox, TV, bench). No cooldown. Great for combo extending and ult gain.",
+  "dash": "Front dash (attack), side dash (dodge), back dash (retreat). Front dash has a hitbox. Side dash has i-frames. Key mechanic for movement and combos.",
+  "ultimate": "Fill awakening bar by dealing damage/getting kills. Activate to enter awakened state with new moveset. Duration is limited. Some ults have cutscenes.",
+  "the_prototype": "Boss with 500 HP. Spawns every 5 hours (public) or 30 min (private server). Drops Warp Portal character. Gives 5-13% mastery. Has moves: M1s, Raging Strikes, Brutish Slams, Thunderclap, Debris Toss, Furious Roar, Wild Lunge, Ferocious Slam, Reckless Pummel. Don't use barrage moves or he heals."
+}

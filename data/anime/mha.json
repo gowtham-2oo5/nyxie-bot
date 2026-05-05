@@ -1,0 +1,65 @@
+{
+  "title": "My Hero Academia",
+  "rank": 2,
+  "opinion": "grew up with it, post-war arc is peak, ending was mid but the journey was worth it",
+  "author": "Kohei Horikoshi",
+  "status": "completed",
+  "episodes": "138 (main series)",
+  "score": "7.89/10",
+  "power_system": {
+    "quirks": "Superpowers that 80% of population has",
+    "ofa": "One For All: stockpiling quirk, 9 users. Sub-quirks: Blackwhip, Float, Danger Sense, Smokescreen, Fa Jin, Gear Shift",
+    "afo": "All For One: steals/gives quirks, main villain",
+    "notable_quirks": {
+      "Explosion": "Bakugo - nitroglycerin sweat explosions",
+      "Half-Cold Half-Hot": "Todoroki - ice right, fire left",
+      "Decay": "Shigaraki - disintegrates with 5 fingers",
+      "Erasure": "Aizawa - erases quirks by looking",
+      "Overhaul": "Chisaki - disassemble/reassemble matter",
+      "Fierce Wings": "Hawks - feather control and flight",
+      "Bloodcurdle": "Stain - paralyze by ingesting blood"
+    }
+  },
+  "class_1a": {
+    "Deku": "Izuku Midoriya, OFA user, was quirkless, protagonist",
+    "Bakugo": "Katsuki, explosion quirk, rival, died and came back in final war",
+    "Todoroki": "Shoto, half-cold half-hot, Endeavor's son, daddy issues",
+    "Uraraka": "Ochaco, zero gravity, loves Deku",
+    "Iida": "Tenya, engine legs, class rep, Ingenium"
+  },
+  "villains": {
+    "All For One": "Ancient villain, steals quirks, manipulated Shigaraki",
+    "Shigaraki": "Tenko Shimura, decay, AFO's successor, tragic backstory",
+    "Dabi": "Toya Todoroki, blue flames, Endeavor's son, reveal was massive",
+    "Stain": "Hero Killer, only respects All Might, paralysis via blood",
+    "Toga": "Transform quirk, obsessed with blood",
+    "Overhaul": "Kai Chisaki, disassemble/reassemble, Eri's captor",
+    "Kurogiri": "Warp gate, actually Oboro Shirakumo"
+  },
+  "arcs": [
+    "USJ",
+    "Sports Festival",
+    "Hero Killer Stain",
+    "Training Camp",
+    "Hideout Raid",
+    "Overhaul",
+    "Joint Training",
+    "My Villain Academia",
+    "Paranormal Liberation War",
+    "Dark Hero",
+    "Final War"
+  ],
+  "best_arcs": [
+    "Post-War/Dark Hero",
+    "Hero Killer Stain",
+    "Paranormal Liberation War"
+  ],
+  "hot_takes": [
+    "Post-war arc is peak MHA, anyone who says sports festival is nostalgic not correct",
+    "Ending was rushed, Deku losing powers felt hollow",
+    "Bakugo death fake-out was cheap",
+    "Dabi reveal was peak but his fight was underwhelming",
+    "Horikoshi was clearly exhausted by the end",
+    "Stain arc is universally goated"
+  ]
+}

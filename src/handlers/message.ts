@@ -15,11 +15,15 @@ import {
   calculateTotalRounds, generateFirstRound, buildBracketDisplay, advanceRound,
 } from "../lib/bracket";
 import { ensureOnLeaderboard, displaceRank, setRankPosition, isOnLeaderboard, removeFromLeaderboard, getLeaderboardSize } from "../lib/rank-ops";
+import { refreshLeaderboard } from "../lib/leaderboard";
 import { checkForfeitCooldown, applyForfeitCooldowns, voidForfeitCooldown, getActiveForfeitCooldowns } from "../lib/forfeit";
 import { getPresenceData, formatActivity, formatStatus } from "../lib/presence";
 import { invalidatePrefixCache } from "../lib/prefix-cache";
 
 import { chat } from "../lib/chat";
+import { addServerContext, removeServerContext, listServerContext } from "../lib/memory";
+
+const NYXIE_ADMINS = new Set(["979259360733696040", "750971711314329681"]); // gowtham & wen
 
 // ─── Alias map ───
 
@@ -366,7 +370,7 @@ const handlers: Record<string, (msg: Message, args: string[]) => Promise<void>> 
       },
       admin: {
         title: "🛡️ Admin",
-        text: "`!admin leaderboard view @player`\n`!admin leaderboard set @player <stat> <value>`\n`!admin leaderboard adjust @player <stat> <amount>`\n`!admin leaderboard remove @player`\n`!admin leaderboard reset`\n`!admin forfeit void @player`\n`!admin forfeit list [@player]`\n\nStats: `rank_position`, `total_wins`, `total_losses`, `tournaments_won`, `tournaments_played`",
+        text: "`!admin leaderboard view @player`\n`!admin leaderboard set @player <stat> <value>`\n`!admin leaderboard adjust @player <stat> <amount>`\n`!admin leaderboard remove @player`\n`!admin leaderboard reset`\n`!admin cd cancel @player`\n`!admin cd list [@player]`\n\nStats: `rank_position`, `total_wins`, `total_losses`, `tournaments_won`, `tournaments_played`",
       },
       register: {
         title: "📝 Register",
@@ -374,7 +378,7 @@ const handlers: Record<string, (msg: Message, args: string[]) => Promise<void>> 
       },
       forfeit: {
         title: "🏳️ Forfeit System",
-        text: "Forfeits = no contest, no rank change.\n\n**Cooldowns (24hr):**\n• Forfeiter → unavoidable\n• Other player → voidable (`!c cancelcd`)\n\n**Commands:**\n`!c forfeit <reason>` — Forfeit challenge\n`!admin forfeit void @player` — Admin void CD\n`!admin forfeit list` — View active CDs",
+        text: "Forfeits = no contest, no rank change.\n\n**Cooldowns (24hr):**\n• Forfeiter → unavoidable\n• Other player → voidable (`!c cancelcd`)\n\n**Commands:**\n`!c forfeit <reason>` — Forfeit challenge\n`!admin cd cancel @player` — Admin cancel CD\n`!admin cd list` — View active CDs",
       },
     };
 
@@ -613,8 +617,24 @@ const handlers: Record<string, (msg: Message, args: string[]) => Promise<void>> 
       else if (sub === "remove" && args[2]) {
         const userId = parseMention(args[2]);
         if (!userId) return err(msg, "Usage: `!admin leaderboard remove <@player>`");
+        const entry = await db.select().from(leaderboard)
+          .where(and(eq(leaderboard.guildId, guildId), eq(leaderboard.userId, userId)))
+          .then((r) => r[0]);
+        if (entry) {
+          const member = await msg.guild!.members.fetch(userId).catch(() => null);
+          if (member) {
+            const role = await db.select().from(rankRoles)
+              .where(and(eq(rankRoles.guildId, guildId), eq(rankRoles.position, entry.rankPosition)))
+              .then((r) => r[0]);
+            if (role) await member.roles.remove(role.roleId).catch(() => {});
+            const cfg = await db.select().from(guildConfig).where(eq(guildConfig.guildId, guildId)).then((r) => r[0]);
+            if (cfg?.top10RoleId && entry.rankPosition <= 10) await member.roles.remove(cfg.top10RoleId).catch(() => {});
+          }
+        }
         await removeFromLeaderboard(guildId, userId);
-        await ok(msg, "Player removed from leaderboard.");
+        const { client } = await import("../index");
+        await refreshLeaderboard(client, guildId);
+        await ok(msg, "Player removed from leaderboard and roles stripped.");
       }
       else if (sub === "reset") {
         await db.delete(leaderboard).where(eq(leaderboard.guildId, guildId));
@@ -635,30 +655,62 @@ const handlers: Record<string, (msg: Message, args: string[]) => Promise<void>> 
         await err(msg, "Usage: `!admin leaderboard <view|set|adjust|remove|reset|move> [args]`");
       }
     }
-    else if (group === "forfeit") {
-      if (sub === "void" && args[2]) {
+    else if (group === "cd" || group === "cooldown") {
+      if (sub === "cancel" && args[2]) {
         const userId = parseMention(args[2]);
-        if (!userId) return err(msg, "Usage: `!admin forfeit void <@player>`");
+        if (!userId) return err(msg, "Usage: `!admin cd cancel <@player>`");
         const voided = await voidForfeitCooldown(guildId, userId, msg.author.id);
-        if (!voided) return err(msg, "No voidable forfeit cooldown found.");
-        await ok(msg, "Forfeit cooldown voided.");
+        if (!voided) return err(msg, "No active cooldown found for this player.");
+        await ok(msg, "Cooldown cancelled.");
       }
       else if (sub === "list") {
         const userId = args[2] ? parseMention(args[2]) : undefined;
         const entries = await getActiveForfeitCooldowns(guildId, userId ?? undefined);
-        if (!entries.length) return reply(msg, new EmbedBuilder().setColor(COLORS.brand).setDescription("No active forfeit cooldowns."));
+        if (!entries.length) return reply(msg, new EmbedBuilder().setColor(COLORS.brand).setDescription("No active cooldowns."));
         const lines = entries.map((e) => {
           const expires = `<t:${Math.floor(e.expiresAt.getTime() / 1000)}:R>`;
           return `<@${e.userId}> — **${e.type}** — expires ${expires}\n> ${e.reason}`;
         });
-        await reply(msg, new EmbedBuilder().setColor(COLORS.brand).setTitle("⚠️ Forfeit Cooldowns").setDescription(lines.join("\n\n")));
+        await reply(msg, new EmbedBuilder().setColor(COLORS.brand).setTitle("⚠️ Active Cooldowns").setDescription(lines.join("\n\n")));
       }
       else {
-        await err(msg, "Usage: `!admin forfeit <void|list> [args]`");
+        await err(msg, "Usage: `!admin cd <cancel|list> [args]`");
       }
     }
     else {
-      await err(msg, "Usage: `!admin <leaderboard|forfeit> <subcommand> [args]`");
+      await err(msg, "Usage: `!admin <leaderboard|cd> <subcommand> [args]`");
+    }
+  },
+
+  // ─── Nyxie Context Management ───
+  async nyxie(msg, args) {
+    if (!NYXIE_ADMINS.has(msg.author.id))
+      return err(msg, "Only authorized users can manage Nyxie's context.");
+
+    const sub = args[0];
+    const guildId = msg.guildId!;
+
+    if (sub === "add") {
+      const context = args.slice(1).join(" ");
+      if (!context) return err(msg, "Usage: `!nyxie add <context>`");
+      addServerContext(guildId, context, msg.author.id);
+      await ok(msg, `Added context: "${context}"`);
+    }
+    else if (sub === "list") {
+      const items = listServerContext(guildId);
+      if (!items.length) return err(msg, "No server context added yet.");
+      const lines = items.map((i) => `**#${i.id}** — ${i.context}`).join("\n");
+      await reply(msg, new EmbedBuilder().setColor(COLORS.brand).setTitle("🧠 Nyxie Context").setDescription(lines));
+    }
+    else if (sub === "remove") {
+      const id = parseInt(args[1]);
+      if (!id) return err(msg, "Usage: `!nyxie remove <id>`");
+      const removed = removeServerContext(guildId, id);
+      if (!removed) return err(msg, "Context not found.");
+      await ok(msg, `Removed context #${id}`);
+    }
+    else {
+      await err(msg, "Usage: `!nyxie <add|list|remove> [args]`");
     }
   },
 };

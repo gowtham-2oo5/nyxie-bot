@@ -61,8 +61,7 @@ describe("rank roles config", () => {
       guildId: TEST_GUILD,
       roleId: "900000000000000001",
       label: "#1",
-      minRank: 1,
-      maxRank: 1,
+      position: 1,
     });
 
     const roles = await db
@@ -72,8 +71,7 @@ describe("rank roles config", () => {
 
     expect(roles).toHaveLength(1);
     expect(roles[0].label).toBe("#1");
-    expect(roles[0].minRank).toBe(1);
-    expect(roles[0].maxRank).toBe(1);
+    expect(roles[0].position).toBe(1);
   });
 
   test("multiple rank roles for different positions", async () => {
@@ -81,8 +79,7 @@ describe("rank roles config", () => {
       guildId: TEST_GUILD,
       roleId: `90000000000000000${i + 1}`,
       label: `#${i + 1}`,
-      minRank: i + 1,
-      maxRank: i + 1,
+      position: i + 1,
     }));
 
     await db.insert(rankRoles).values(entries);
@@ -99,9 +96,9 @@ describe("rank roles config", () => {
     await seedLeaderboard(8);
 
     await db.insert(rankRoles).values([
-      { guildId: TEST_GUILD, roleId: "900000000000000001", label: "Champion", minRank: 1, maxRank: 1 },
-      { guildId: TEST_GUILD, roleId: "900000000000000002", label: "Elite", minRank: 2, maxRank: 5 },
-      { guildId: TEST_GUILD, roleId: "900000000000000003", label: "Veteran", minRank: 6, maxRank: 8 },
+      { guildId: TEST_GUILD, roleId: "900000000000000001", label: "Champion", position: 1 },
+      { guildId: TEST_GUILD, roleId: "900000000000000002", label: "Elite", position: 2 },
+      { guildId: TEST_GUILD, roleId: "900000000000000003", label: "Veteran", position: 3 },
     ]);
 
     const roles = await db.select().from(rankRoles).where(eq(rankRoles.guildId, TEST_GUILD));
@@ -111,21 +108,14 @@ describe("rank roles config", () => {
     const p3 = await db.select().from(leaderboard)
       .where(and(eq(leaderboard.guildId, TEST_GUILD), eq(leaderboard.userId, USERS.p3)))
       .then((r) => r[0]);
-    const p7 = await db.select().from(leaderboard)
-      .where(and(eq(leaderboard.guildId, TEST_GUILD), eq(leaderboard.userId, USERS.p7)))
-      .then((r) => r[0]);
 
     // p1 rank 1 → Champion
-    const p1Role = roles.find((r) => p1!.rankPosition >= r.minRank && p1!.rankPosition <= r.maxRank);
+    const p1Role = roles.find((r) => p1!.rankPosition === r.position);
     expect(p1Role?.label).toBe("Champion");
 
-    // p3 rank 3 → Elite
-    const p3Role = roles.find((r) => p3!.rankPosition >= r.minRank && p3!.rankPosition <= r.maxRank);
-    expect(p3Role?.label).toBe("Elite");
-
-    // p7 rank 7 → Veteran
-    const p7Role = roles.find((r) => p7!.rankPosition >= r.minRank && p7!.rankPosition <= r.maxRank);
-    expect(p7Role?.label).toBe("Veteran");
+    // p3 rank 3 → Veteran
+    const p3Role = roles.find((r) => p3!.rankPosition === r.position);
+    expect(p3Role?.label).toBe("Veteran");
   });
 
   test("remove rank role", async () => {
@@ -133,8 +123,7 @@ describe("rank roles config", () => {
       guildId: TEST_GUILD,
       roleId: "900000000000000001",
       label: "#1",
-      minRank: 1,
-      maxRank: 1,
+      position: 1,
     });
 
     await db.delete(rankRoles).where(

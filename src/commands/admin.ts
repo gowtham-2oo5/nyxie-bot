@@ -13,7 +13,7 @@ import { registerCommand, registerButton } from "../handlers/interaction";
 import { addCommandData } from "../deploy-commands";
 import { COLORS, errorEmbed, successEmbed } from "../lib/embeds";
 import { db } from "../db";
-import { leaderboard } from "../db/schema";
+import { leaderboard, rankRoles, guildConfig } from "../db/schema";
 import { eq, and, sql } from "drizzle-orm";
 import {
   ensureOnLeaderboard,
@@ -93,18 +93,18 @@ const data = new SlashCommandBuilder()
   )
   .addSubcommandGroup((g) =>
     g
-      .setName("forfeit")
-      .setDescription("Forfeit cooldown management")
+      .setName("cooldown")
+      .setDescription("Cooldown management")
       .addSubcommand((s) =>
         s
-          .setName("void")
-          .setDescription("Void a player's voidable forfeit cooldown")
+          .setName("cancel")
+          .setDescription("Cancel a player's unavoidable cooldown (admin override)")
           .addUserOption((o) => o.setName("player").setDescription("Player").setRequired(true))
       )
       .addSubcommand((s) =>
         s
           .setName("list")
-          .setDescription("List active forfeit cooldowns")
+          .setDescription("List active cooldowns")
           .addUserOption((o) => o.setName("player").setDescription("Filter by player"))
       )
   );
@@ -219,9 +219,31 @@ const lbAdjust = async (i: ChatInputCommandInteraction) => {
 const lbRemove = async (i: ChatInputCommandInteraction) => {
   const player = i.options.getUser("player", true);
   const region = i.options.getString("region") ?? "default";
-  await removeFromLeaderboard(i.guildId!, player.id, region);
-  await i.reply({ embeds: [successEmbed(`Removed ${player.username} from the leaderboard.`)] });
-  await triggerRefresh(i.guildId!);
+  const guildId = i.guildId!;
+
+  // Strip roles before removing from DB
+  const guild = i.guild!;
+  const member = await guild.members.fetch(player.id).catch(() => null);
+  if (member) {
+    const entry = await db.select().from(leaderboard)
+      .where(and(eq(leaderboard.guildId, guildId), eq(leaderboard.userId, player.id), eq(leaderboard.region, region)))
+      .then((r) => r[0]);
+    if (entry) {
+      // Remove position rank role
+      const role = await db.select().from(rankRoles)
+        .where(and(eq(rankRoles.guildId, guildId), eq(rankRoles.region, region), eq(rankRoles.position, entry.rankPosition)))
+        .then((r) => r[0]);
+      if (role) await member.roles.remove(role.roleId).catch(() => {});
+
+      // Remove top10 role
+      const cfg = await db.select().from(guildConfig).where(eq(guildConfig.guildId, guildId)).then((r) => r[0]);
+      if (cfg?.top10RoleId && entry.rankPosition <= 10) await member.roles.remove(cfg.top10RoleId).catch(() => {});
+    }
+  }
+
+  await removeFromLeaderboard(guildId, player.id, region);
+  await i.reply({ embeds: [successEmbed(`Removed ${player.username} from the leaderboard and stripped roles.`)] });
+  await triggerRefresh(guildId);
 };
 
 const lbView = async (i: ChatInputCommandInteraction) => {
@@ -254,9 +276,9 @@ const lbView = async (i: ChatInputCommandInteraction) => {
   });
 };
 
-// ─── Forfeit Subcommands ───
+// ─── Cooldown Subcommands ───
 
-const forfeitVoid = async (i: ChatInputCommandInteraction) => {
+const cdCancel = async (i: ChatInputCommandInteraction) => {
   const player = i.options.getUser("player", true);
   const voided = await adminVoidCooldown(i.guildId!, player.id, i.user.id);
 
@@ -264,10 +286,10 @@ const forfeitVoid = async (i: ChatInputCommandInteraction) => {
     return i.reply({ embeds: [errorEmbed(`${player.username} has no active cooldown.`)], flags: MessageFlags.Ephemeral });
   }
 
-  await i.reply({ embeds: [successEmbed(`Voided cooldown for ${player.username}.`)] });
+  await i.reply({ embeds: [successEmbed(`Cancelled cooldown for ${player.username}.`)] });
 };
 
-const forfeitList = async (i: ChatInputCommandInteraction) => {
+const cdList = async (i: ChatInputCommandInteraction) => {
   const player = i.options.getUser("player");
   const entries = await getActiveForfeitCooldowns(i.guildId!, player?.id);
 
@@ -354,9 +376,9 @@ const execute = async (interaction: ChatInputCommandInteraction) => {
     return;
   }
 
-  if (group === "forfeit") {
+  if (group === "cooldown") {
     const handlers: Record<string, (i: ChatInputCommandInteraction) => Promise<void>> = {
-      void: forfeitVoid, list: forfeitList,
+      cancel: cdCancel, list: cdList,
     };
     await handlers[sub]?.(interaction);
   }

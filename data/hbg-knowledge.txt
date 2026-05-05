@@ -1,0 +1,2054 @@
+=== HEROES BATTLEGROUNDS (HBG) - ROBLOX GAME ===
+Anime fighting game based on My Hero Academia. Players pick characters (called 'quirks' colloquially), fight in arenas with M1 combos, abilities, ultimates (awakenings), and IWO (Interaction With Objects).
+
+== TIER LIST ==
+==This page is made by mono_gramm (Sovereign).==
+* In this page, you will see how much damage deals one moveset without using any other damaging means (Aerial Downslam, Ultimate Mode start-up (Unless TENTH TORCH, because it's partly a move), M1's and Dash), including absolutely everything except for variants.
+** If you want to see how much the character deals with surely everything (Including everything except for other damaging means that is listed above), it will be shown here, too.
+
+==Tier List==
+ First Place // Mastered Hero Slayer - The moveset is already versatile and powerful, dealing 67% with all 7 moves (And Black Flash passive). However, if including both damage variants of Whirlwind Pierce and move variants - it will be 102%, thus making the character bear the second strongest base moveset.
+* Conviction - Because the character's Awakening is not done yet, it deals 95%, exactly the same damage can deal its normal counterpart.
+
+ Second Place // Warp Portal - The worst character, as the community says, and can deal the easiest One Shot combo without waiting for cooldowns at all, dealing 62%. If counting in the damage from every single object Matter Absorption can regurgitate, the damage will be 141%, thus making the character the strongest.. and the most deranged in terms of damage.
+* Quantum Jump - The worst awakening, even Sovereign can say so. Deals 135% and can dish the easiest One Shot if the enemy lacks Evasive, but the most of the moves can be dodged or blocked.
+
+ Third Place // Symbol of Fear - Deals absolutely clear 60% damage with its tricky and versatile moveset, and without counting other damaging means, such clear damage is too much.
+* Everything For One - Fearsome and deadliest Awakening with powerful and brutal-looking moves, which deals absolutely clear 179% (If not counting TRUE EVIL, it'll be 79%, obviously.).
+
+ Fourth Place // Explosion Hero - This moveset is powerful, but requires for the opponent to lack Evasive, due to moves lacking Tru
+
+== GREEN HERO ==
+Category:Characters
+{{Character heros|GreenHero=Green Hero |image1=
+File:Green Hero Icon.webp|New Icon
+Hero green.webp|Old Icon
+Green Spawn.gif|Spawn Animation
+Green hero in game.png|Base
+Dekus.png|Awakening 
+GreenHeroBaseAura.gif|Awakening Aura
+awakening_name=Maximum Overdrive |cost=Free|caption-image1=|NameOfCharacter=Green Hero|Archetype=Rushdown}}
+==Description==
+Green Hero is the first character developed in Heroes Battlegrounds, based on Izuku Midoriya, and is generally considered the easiest to use. Green Hero is a free character, serving as the default choice for new players. Green Hero possesses decent combo potential and a powerful ultimate when utilized effectively. Players can master this character to unlock Mastered Green Hero.
+Achieving Mastered Green Hero requires gaining mastery. Mastery points are earned by defeating opponents while playing as Green Hero (0.50%), completing quests from the Daily Quest Giver (4-5%), and defeating The Prototype (5-13%).
+== Pros and Cons==
+===Pros===
+* Can deal somewhat high damage.
+* The Ultimate ability can inflict significant damage against both passive and aggressive playstyles.
+* Players have ample time to execute combos on grounded opponents.
+* Hyper grants hyper armor during its animation.
+* Several moves can extend combos: Hyper (Air Variant), Focus Shot (Air Variant), and Blitz.
+* Hyper (Air Variant) deals increased damage based on the user's height.
+* Maximum Overdrive, offers excellent mobility options with OVERCHARGE (9 tiles), Cosmic Smash (12 tiles), and 1,000,000% (37 tiles).
+* Following the Overkick rework, all base moves became unblockable.
+* Opponents hit by Cosmic Smash cannot use ragdoll cancel to escape the move's effect.
+* Hyper (Air Variant) stuns long enough to allow for a follow-up downslam, enabling potential triple downslam combos.
+* Blitz can hit opponents out of ragdoll state, useful for initiating moves like Hyper or Focus Shot on opponents who were previously grounded.
+* The Full Cowling passive allows for significant Ultimate bar gain upon kills, with minimal recoil damage taken by the player.
+* Both Hyper and Focus Shot deal high amounts of damage to players.
+* Hyper can be used as a prediction tool for predicting front dashes, due to it having super-armor.
+===Cons===
+* Green Hero's Awakening, Maximum Overdrive, is predictable and easily countered by experienced opponents.
+* Hyper and Overkick have telegraphed startups, making them easy to predict and counter.
+* The reworked Overkick animation is highly predictable.
+* 1,000,000% lacks invincibility frames (I-frames) during its startup, meaning the user can be interrupted, cancelling the move entirely and wasting the Ultimate activation for its duration.
+* Cosmic Smash is punishable if blocked.
+* OVERCHARGE is difficult to aim accurately, cannot hit grounded opponents and is vulnerable to interruption during its startup phase.
+** OVERCHARGE also has an unreliable hitbox.
+* Overkicks prominent visual effects can obscure the player's view, potentially causing misses.
+* Successful combos often depend on baiting out the opponent's evasive maneuvers. A failed bait can leave the player vulnerable to counter-attack.
+* Focus Shot, while unblockable close up, is blockable at farther distances.
+* The base moveset is very basic and does not have much room for creative combos, and does not have much combo potential.
+==Movesets==
+-|Base Moveset=
+Attack
+Damage
+Cooldown
+Info
+Valor Breakers (M1)
+1 hit: 4% Damage
+All hits: 16%
+~0.5 seconds
+The user performs a three-punch combo followed by a kick emitting green electric sparks, knocking the opponent down.
+Hyper
+15% 
+----
+(5% if used on a ragdolled opponent)
+rowspan="2" |17 seconds
+The player charges up a powerful strike and releases it.
+----
+*Has easily punishable endlag.
+*Creates a noticeable Area of Effect (AOE) in front of the user.
+*Grants super-armor during the attack.
+*Both the initial punch and the user landing impact deal damage.
+*Can hit ragdolled opponents.
+*Unblockable.
+*Combo-ender.
+Hyper (Air)
+6.4%
+----~17.5% (After using Delaware's air variant)
+----~22.2% (After using OVERCHARGE)
+----80% (Maximum Damage Cap)
+The user of "One For All" smashes the ground, creating an energy crater.
+----
+*Can break block.
+*Can hit ragdolled opponents.
+*Can potentially hit airborne opponents (Needs confirmation).
+*Short endlag.
+*Combo-extends into every other move.
+Overkick
+12%
+----4-5% (if blocked)
+17 seconds
+The user leaps up while powering a Shoot Style leg kick that sends the enemy back.
+----
+*Provides hyper armor during the move.
+*Can hit ragdolled opponents.
+*Can be cancelled during startup.
+*If launched upwards, the user spins until reaching the ground.
+*Looking upwards during activation increases travel distance slightly (~8 tiles vs. 6).
+*Has punishable endlag on miss.
+*Combo-ender.
+Focus Shot
+6% (Initial)
+----11% (After hitting the ground)
+rowspan="2" |16 seconds
+The user flicks their fingers with enough force to release a long-range air pressure projectile.
+----
+*Ground variant has longer range than Triple Dagger Throw, but is generally ineffective as a primary ranged attack.
+*Can hit ragdolled opponents.
+*Unblockable.
+*Deals very low damage at maximum range.
+*Combo ender.
+Focus Shot (Air)
+6% (Initial)
+----11% (After hitting the ground)
+The user launches into the air and fires an air blast downwards, propelling both themselves and the opponent upward, potentially disorienting the opponent.
+----
+*Can hit ragdolled opponents.
+*Sends the opponent airborne, further disorienting them.
+*Opponents can dash out (with or without ragdoll cancel) if not hit directly.
+*Can break block and cause ragdoll if landed directly on the opponent.
+*Hitting precisely for full stun and damage can be difficult due to the move's inconsistent hitbox.
+*Combo extends into Hyper (Air Variant) and Blitz (potentially Overkick).
+Blitz
+29 seconds
+The user unleashes a flurry of punches, concluding with a final, powerful punch.
+----
+*Can hit ragdolled opponents.
+*All hits except the final blow are blockable.
+*Provides enough stun to guarantee an M1 chain or a follow-up Focus Shot.
+*Allows for the last two hits of an M1 chain to connect afterwards.
+
+== HERO SLAYER ==
+Spoilers Ahead!
+Spoilers 
+Spoilers for Hero Killer: Stain
+==Description==
+Hero Slayer is the second character released in Heroes Battlegrounds, based on Chizome Akaguro (also known as Hero Killer Stain). He is the first villain character added to the game. Hero Slayer is relatively easy to learn but challenging to master, featuring a moveset capable of executing deadly combos despite its longer cooldowns. This character can be mastered to unlock Mastered Hero Slayer.
+Achieving Mastered Hero Slayer requires gaining mastery. Mastery points are earned by defeating opponents while playing as Hero Slayer (0.50%), completing quests from the Daily Quest button (4-5%), and defeating The Prototype (5-13%).
+==Pros and Cons==
+===Pros===
+* Thousand Slashes or Triple Dagger Throw can substitute for a side dash if the M1 attack range is insufficient.
+* Curdle Pierce and Thousand Slashes can cancel a forward dash if timed correctly.
+* Blackout Clutch grants invincibility frames (I-frames), making it useful against multiple opponents (teamers).
+* The Ultimate Mode, Conviction, is highly effective against teamers.
+* High combo potential, allowing for freestyle gameplay.
+* Beginner-friendly; relatively easy character to pick up initially.
+* Can stun an opponent upon the second activation of Curdle Pierce by applying the "Blood Curdle" status (requires landing the first hit).
+* Thousand Slashes and Triple Dagger Throw are effective combo extenders due to their speed and strong stun properties.
+* Blackout Clutch provides temporary safety against teamers, granting I-Frames upon landing the move.
+* Curdle Pierce is a strong tool for countering or initiating aggression due to its hyper armor.
+* Triple Dagger Throw can extend combos off Blackout Clutch when followed by a side dash.
+* Possesses one of the fastest Ultimate activation animations currently in the game.
+* Capable of dealing high damage with True Combos (approximately 45-60%).
+* Conviction (Ultimate) moves have very low cooldowns.
+* Can consistently extend combos after catching an opponent with an Interaction With Objects (IWO) attack (unless used after the fourth M1).
+* Capable of performing relatively easy One-Shot combos with proper timing.
+* Effective character against The Prototype boss due to high Ultimate move damage and the ability to gain ultimate charge with Indomitable Aura.
+* Crimson Parry has an insanely long counter window out of every counter in the game, making it incredibly easy to fall for if you are impatient.
+* Curdle Pierce is an effectively good combo starter.
+* Even if Curdle Pierce is missed, it doesn't have enough endlag to prevent you from blocking afterwards.
+===Cons===
+* May cause performance issues (lag) on lower-end devices.
+* Most moves are punishable if missed or blocked.
+* Difficult to fully master (player dependent).
+* Utilizing advanced techniques requires significant practice and precise timing.
+* The forward dash has a vulnerable hitbox for a few frames.
+* Curdle Pierce has significant endlag, often leading to punishment if missed.
+* A basic combo (Thousand Slashes > Triple Dagger Throw > Blackout Clutch) can deal around 50% damage but is predictable.
+* Conviction has no actual mobility moves to catch runners.
+* Attempting the Triple Dagger Throw wakeup tech on the ragdolled opponent only grants the user 4th M1 instead.
+==Attacks==
+-|Base Moveset=
+Attack
+Damage
+Cooldown
+Info
+Crimson Blood (M1)
+1 hit: 4% Damage
+All hits: 16%
+~0.5 seconds
+A sequence of sword slashes. Each swing possesses slightly more range than standard M1 attacks due to the sword's length.
+Thousand Slashes
+7.8%
+23 seconds
+The user performs a flurry of wide, circular slashes around themselves.
+----
+*Hits opponents in a 360-degree radius, making it effective against predicted dashes, teamers, and third-party attackers.
+*Useful when performed after a side dash due to its range.
+*Easy combo extender if the opponent has used their evasive maneuver.
+*Allows the user to perform two M1 attacks afterward; the second M1 is the final hit of the chain and ragdolls the opponent.
+*Has a slight vertical hitbox, capable of hitting opponents during the aerial slam animation.
+*Has a slight startup delay despite the animation.
+*Can hit grounded opponents.
+Triple Dagger Throw
+rowspan="2" |17 seconds
+The user quickly throws three daggers towards the cursor's location.
+----
+*Can be blocked.
+*Provides enough stun to combo into M1s if executed quickly.
+*Can be used effectively after a side dash.
+*The finisher animation can be activated on defeated opponents' bodies, granting a small amount of ultimate charge.
+*Can bypass wakeup invincibility but only allows one M1 follow-up unless used after Blackout Clutch.
+Triple Dagger Throw Variant
+The user quickly throws three daggers towards the cursor's location while airborne.
+----
+*Can be blocked.
+*Provides enough stun to combo into M1s if executed quickly.
+*Using this move mid-air alters the throwing animation and allows free aiming.
+*Can bypass wakeup invincibility but only allows one M1 follow-up unless used after Blackout Clutch.
+*The finisher animation can be activated on defeated opponents' bodies, granting a small amount of ultimate charge.
+Blackout Clutch
+15%
+23 seconds
+The user grabs an opponent, slams them down, stabs them with their katana, and kicks them away.
+----
+*Can hit grounded/ragdolled opponents.
+*The direction cannot be aimed after the grab connects.
+*The kicked opponent damages and ragdolls any other players they collide with.
+*With precise timing, the user can jump and side dash over the kicked opponent, following up with an aerial slam for further combo potential.
+*Can immediately follow up with a forward dash attack, but this will launch the opponent further away.
+*This move bypasses block.
+Curdle Pierce (first use)
+---- Curdle Pierce (second use)
+7%, 12%(if landed on a player waking up from ragdoll)
+19 seconds
+The user of the "Bloodcurdle" quirk lingers briefly before delivering a graceful circular slice that applies the "Blood Curdle" status to the opponent. Reactivating the move paralyzes afflicted opponents.
+----
+*First hit applies "Blood Curdle" status.
+*Grants super armor during the attack.
+*Grants the user I-frames upon successfully landing the hit.
+*Certain techniques can delay the visual animation slightly (without changing the actual windup time), making the slice appear faster and harder to react to.
+*Similarly, performing the move after the 4th M1 or an uppercut, the animation would play a lot more slower.
+*This move bypasses block.
+*If multiple opponents are hit, all receive "Blood Curdle"; reactivating again will paralyze everyone.
+*Landing this on an opponent during their wakeup invincibility prevents applying "Blood Curdle," but deals increased damage (12%).
+-|Finishers=
+Attack
+Info
+Thousand Slashes
+The user performs two vicious slashes, stabs their blade into the opponent's neck, then rips it out, simultaneously beheading and launching the opponent.
+-----
+*Execution threshold starts below 15% health (assumes all initial hits connected).
+Triple Dagger Throw
+The user appears behind the enemy. If the finisher connects, the user performs a stab that sends the opponent flying. (Animation is the same for ground and air variants).
+-----
+*Execution threshold starts below 10% health (assumes all daggers hit).
+Blackout Clutch
+When connected, the user slams the enemy down, pulls them back up with their blade, performs a slashing motion sending them flying, and finishes with a brief pose.
+-----
+*Execution threshold starts below 14% health.
+Curdle Pierce
+The user grabs the target's chest, stabs them, rips the sword out, slashes their lower torso, leaps up, uses their legs to spin the target around, stabs them in the back, and retracts the sword as the target falls, leaving a crater.
+
+== SPLIT ICE ==
+Category:Characters
+== Description==
+Split Ice is a free-to-play character in Heroes Battlegrounds, based on Shoto Todoroki from My Hero Academia. He is the fourth character added to the game. This character excels in close-range and mid-range combat, possessing strong combo potential. Players can master this character to unlock Mastered Split Ice.
+Achieving Mastered Split Ice requires gaining mastery. Mastery points are earned by defeating opponents while playing as Split Ice (0.50%), completing quests from the Mastery UI (4-5%), and defeating The Prototype boss (5-13%).
+==Pros & Cons==
+=== Pros ===
+* Frost Burst has a medium-to-large area of effect (it's slightly inconsistent hitbox can sometimes provide a minor advantage to the user).
+* Ice Javelin features a ranged variant, activated by using the skill when no opponent is in the user's immediate melee range.
+* Frost Burst is an excellent tool for finishing off low-health opponents.
+* Capable of a high-damage (approximately 50%) true combo using only two moves and M1 attacks.
+* Frost Counter, if landed, stuns the hit opponent(s) for 4 seconds (up to 6 seconds with the passive-boosted version).
+* Successfully landing Frost Counter allows the user to inflict significantly more damage.
+* Frost Counter can counter any non-ultimate move in the game.
+* Sub Zero has four distinct variants, offering versatility.
+* The Glacial Resonance passive, which enhances freeze effects, is useful against multiple opponents (teamers).
+* The Grab and Uppercut Variants of Sub Zero grant invincibility frames (I-frames).
+* Sub Zero's Uppercut Variant can be timed to hit opponents just before they use an evasive maneuver, leading to high-damage true combos.
+* Possesses simple combos that can be developed into deadly sequences with proper execution.
+* Can deal substantial damage when played effectively.
+* Ice Javelin provides an M1 reset, though it reduces subsequent M1 damage to approximately 1% per hit.
+* Frost Counter is an effective combo starter when successfully landed.
+* Frost Burst has a high finisher threshold (14%) and its finisher activates immediately.
+* Heatwave Strike grants Super Armor during its animation.
+* Blazing Soul has a long duration (26 seconds), which can be used to drain an opponent's ultimate bar if they are caught in the cutscene.
+* Due to Burning Flames (both the activation and ultimate moves) dealing significant amount of damage makes Split Ice a very good choice against the The Prototype boss.
+** This is also useful for gaining mastery for this character.
+* Ice Javelin (Ranged Variant) is a very good combo starter, due to being able to be used at a distance.
+* The ultimate is very good for boss farming.
+=== Cons ===
+* Blazing Soul can be difficult to control and may hit unintended targets.
+* Using the same Sub Zero variant multiple times consecutively incurs a longer cooldown.
+* Sub Zero's Downslam and Ranged variants can be easily dodged with a ragdoll cancel.
+* The character's basic M1 combo damage is relatively low.
+* Opponents can perform a forward dash towards the user during the startup of Ice Javelin's ranged variant, leading to an easy punish.
+* The hitbox for Ice Javelin's ranged variant is the projectile model itself, making it avoidable with a simple jump or side dash.
+* The ranged variant of Sub Zero is considered one of its weaker options.
+* Blazing Soul has the longest ultimate move cutscene in the game, which can be disruptive if an unintended target is hit.
+* Both melee and ranged versions of Ice Javelin severely reduce subsequent M1 damage.
+* Opponents with fast reactions or low latency can evade Frost Counter with a side dash.
+* The Burning Flames ultimate has only one dedicated mobility move (Blazing Soul), and its other moves have limited range.
+* Sub Zero’s ranged variant is very inaccurate
+* The base moveset is very basic and does not have much room for creative combos, and does not have much combo potential.
+==Movesets==
+-|Base Moveset=
+Moves
+Damage
+Cooldown
+Information
+Glacial Strikes (M1)
+4% per M1
+Full combo: 16%
+~0.5 seconds
+The user delivers a series of punches. These are faster than Green Hero's M1s but slightly slower than Mastered Green Hero's M1s, with slightly reduced damage per hit.
+Sub Zero (Neutral)
+15%
+rowspan="4" |18 seconds
+(22 seconds when using the same variant twice or more in a row)
+The user grabs the opponent by the face, freezing them, then strikes them with their other ice-covered hand, causing a ragdoll.
+----
+*Grants I-frames upon successfully landing the grab.
+*Has very short endlag.
+*Possesses a larger hitbox than the visual effect suggests.
+Sub Zero (Downslam)
+15%
+The user jumps into the air and slams down onto the opponent(s). After landing, the user punches the opponent.
+----
+*The target can sometimes move out of the punch's radius.
+*Easily dodged by opponents.
+*Has a moderate amount of endlag if the move misses.
+*Can extend combos if the user's ping is above 120ms.
+Sub Zero (Uppercut)
+15%
+(21% AOE from iceberg projectile)
+The user grabs the opponent, slams them to the ground, creates an ice pile, slams the enemy onto the ice pile again, and then launches them with an iceberg projectile.
+----
+*Grants I-frames upon successfully landing the grab.
+*Can be used after three M1 attacks if timed correctly.
+*Has a higher finisher threshold than other variants due to dealing 2% less base damage.
+*Extremely fast startup animation.
+Sub Zero (Ranged)
+8.5% Damage per spike, 17% total.
+The user sends out two ice spikes in a V-shaped trajectory. Hitting an enemy causes a red screen flash.
+----
+*Can be interrupted during startup.
+*The spikes may miss if not aimed precisely or used quickly.
+*Can also be used after three M1 attacks if timed correctly.
+*Typically used after the fourth M1 in a combo.
+Animation 1Ice Javelin (Melee)Animation 2
+11%
+rowspan="2"|Melee: 25 seconds
+Ranged: 16 seconds
+The user slices the target with a spear formed from ice.
+----
+*Extends M1 combos, but subsequent M1s deal 70% less damage.
+*Can hit grounded opponents.
+*Has a low finisher threshold (7%).
+Animation 1Ice Javelin (Ranged)Animation 2
+5%, 7% when blocked.
+The user throws a spear made of ice. If it hits an opponent, they are frozen for a short period.
+----
+*Can be aimed freely when used in mid-air.
+*If the opponent is blocking, they will not be frozen but will be knocked back.
+*Can hit grounded opponents.
+*Similar to its melee variant, this move reduces subsequent M1 damage by 50% if used as an extender.
+Frost Counter
+N/A
+31 seconds
+The user assumes a stationary stance. If struck by an attack, the user dodges and retaliates with a blast of ice, stunning the enemy.
+----
+*The enemy will be frozen for 4 seconds if hit by the ice blast.
+*Has a limited effective range.
+*Can be dodged by quick opponents.
+*Deals no direct damage but is a significant combo starter when landed.
+Frost Burst
+15% Damage
+29 seconds
+The user raises their arm, causing a glacier to erupt from the ground, ragdolling any opponent hit.
+----
+*Can extend combos with a forward dash and precise spacing.
+*The finisher version has a very large radius and can finish multiple opponents simultaneously.
+
+== EXPLOSION HERO ==
+Spoilers! Spoilers
+Spoilers 
+Spoilers for Bakugo
+coding credits
+==Description==
+Explosion Hero is the 7th character added to Heroes Battlegrounds (10th character overall, including Private Server exclusives). This character is based on Katsuki Bakugo from the series My Hero Academia. His abilities revolve around his Quirk, which allows him to create explosions from his nitroglycerin-like sweat.
+Explosion Hero is unique as the first character to possess two distinct Ultimate Modes: Fury Ignition and TENTH TORCH. To activate TENTH TORCH, the user must deal sufficient damage while in the Fury Ignition state (approximately 85% of an opponent's health bar or equivalent damage dealt to any target) and then use the fourth ability slot within the Fury Ignition moveset. This multi-stage ultimate system contributes to Explosion Hero being considered a highly effective yet the strongest choice against the The Prototype boss.
+==Pros and Cons ==
+===Pros===
+* Possesses very simple yet high-damage combos.
+* The character offers significant mix-up potential and combo opportunities, particularly with his first and second base moves.
+* Features two Ultimate forms, allowing the user to enter two separate invincibility-frame (I-frame) states, potentially avoiding high-damage enemy attacks.
+* Exploding Star pauses the Ultimate bar drain for its entire cinematic duration, enabling the user to maximize their ultimate mode uptime and safely wait for other ability cooldowns.
+* Ground Cannon can extend combos into every other base move, including Blast Catapult.
+* Fury Ignition is effective against multiple opponents (teamers).
+* All moves in the Fury Ignition ultimate have low cooldowns.
+* Every base move has a finisher, facilitating easier activation of the character's passives.
+* Fury Ignition provides high mobility with the Eruption Dive ability.
+* Eruption Dive has a large Area of Effect (AoE), making it effective for damaging multiple opponents.
+* THE TENTH TORCH, when all its moves and the transformation sequence are landed, can deal astonishing damage (up to approximately 348%).
+* Due to it's higher damage output of both Ultimate activations and their subsequent moves makes Explosion Hero a stronger choice for defeating the The Prototype boss.
+* BLAST AWAY is almost a guaranteed kill if landed after three M1s against an opponent with no evasive options remaining.
+* BLAST AWAY grants I-Frames during its animation, even if it does not hit a target.
+* All base moves can combo-extend into each other.
+* NUKE preserves the user's killstreak despite the self-destruct mechanic.
+* Due to having two ultimates, using both on teamers is very effective and rewarding.
+* Since you do not have to use Powered Shot and Ground Cannon's second use right away, you can use the second use as another move in a combo.
+* His passive allows for more reliable combos with moves like Explosion Combo.
+* Powered Shot's second use has a large amount of range.
+* Every move can be used after Explosion Combo.
+===Cons===
+* Blast Catapult can sometimes launch targets too far for a reliable follow-up, or occasionally fail to launch them at all.
+* The base moveset arguably has one of the lowest total damage outputs per individual hit among all characters.
+* The first use of Powered Shot has recoil, which can cause the user to miss follow-up attacks (e.g., a frontal dash). The second use of Powered Shot also has specific timing requirements.
+* If the user does not deal enough damage to unlock THE TENTH TORCH, Fury Ignition effectively only has three offensive ultimate moves.
+* The character initially struggles with consistent, high-damage combos as it lacks true combo extenders in its base kit, relying on opponents wasting their evasive maneuvers.
+* Although TENTH TORCH deals immense damage, its duration is shorter than other ultimates, and its moves can be punished if misused.
+* The startup animation of NUKE does not have I-Frames, allowing opponents to interrupt it.
+* BLITZ KICK is easily punishable if used without setup (raw) or if it misses.
+* Ground Cannons timer was decreased, forcing you to use it quickly.
+== Moves ==
+-|Base Moveset=
+Moves
+Damage
+Cooldown
+Information
+Grenadier Strikes (M1)
+1 hit: 4% Damage
+All hits: 16%
+~0.5 seconds
+The user delivers a series of punches ending with a ranged orange explosion.
+Ground Cannon (first use)
+rowspan="2"|19 sec
+The user of the "Explosion" quirk touches the ground, creating a small explosion that burns the immediate area.
+----
+*Ragdolls the opponent and allows for a combo extension.
+*Deals a "soft" ragdoll (opponent can be hit by M1s) when used on an already ragdolled opponent.
+*Grants a second use if the first hit ragdolls an opponent.
+*Soft ragdoll is only applied if this move hits an already ragdolled enemy.
+Ground Cannon (second use)
+11%
+The user fires a concentrated blast of explosive energy a short distance in front of them, knocking the opponent back.
+----
+*Unblockable.
+*Can hit ragdolled opponents.
+*Only gives the player 2 M1s.
+Powered Shot (first use)
+rowspan="2"|20 sec
+The user unleashes a blast of orange flames, knocking the enemy away.
+----
+*Unblockable.
+*Can hit ragdolled opponents.
+*Applies burn damage (1%).
+Powered Shot (second use)
+The user dashes quickly towards their opponent, grabbing and flinging them upwards with a powerful explosion.
+----
+*Blockable.
+*Can hit ragdolled opponents.
+*Reliably leads to a downslam if the target has no evasive options.
+Explosion Combo
+12% (2% per punch x2, 8% actual move)
+22 seconds
+The user unleashes a short barrage of punches, followed by two explosion-infused punches (a right hook then a left hook). They then grab the opponent, using explosions to spin while traveling forward slightly, before slamming them onto the ground.
+----
+*Blockable.
+*Cannot hit ragdolled opponents.
+*Best used immediately after Ground Cannon.
+*Can hit opponents during their wakeup invincibility, becoming unblockable if timed correctly (similar to Triple Dagger Throw).
+*If timing the move properly after the mini uppercut and after landing the first use of Ground Cannon, the move will land it.
+Blast Catapult
+15% (11% Initial move, 4% ground impact)
+22 seconds
+The user grabs their opponent, spins while traveling a short distance, and then throws them far away with an explosion.
+----
+*Unblockable.
+*Difficult to extend combos from.
+-|Finishers=
+Attack
+Info
+Ground Cannon (second use)
+The user performs a sequence of three explosive punches, with a brief slow-motion effect on the third hit, before incinerating and blasting the opponent.
+-----
+*Execution threshold starts below 13% health.
+Powered Shot (first use)
+----Powered Shot (second use)
+Similar to the normal move, but the opponent is visibly burned after being blasted away.
+---- Similar to the normal move, but the upward blast sends the opponent higher and burns them, leaving a crater on the ground where the user executed the finisher.
+-----
+*First use finisher starts at 1% or 2% health.
+*Second use finisher starts at 8% health.
+Explosion Combo
+Similar to the normal move; however, after the final slam, the opponent is bounced upwards, after which the user delivers a point-blank explosion that launches them away.
+-----
+*Execution threshold starts below 14% health (assuming the first two hits connect).
+Blast Catapult
+At the end of the spin, there is a brief slow-motion moment before the user launches the opponent an extreme distance with a more powerful explosion.
+-----
+*Execution threshold starts below 12% health (sometimes 13%, but may not grant passive correctly).
+-|Fury Ignition=
+Attack
+
+== AZURE FLAMES ==
+Spoilers Ahead!
+Spoilers for Dabi
+coding credits
+WARNING: This contains spoilers for the "My Hero Academia" Manga and spoilers for The Paranormal Liberation War. Read with caution.
+==Description==
+Azure Flames is a free-to-play character in Heroes Battlegrounds, based on Toya Todoroki, also known as Dabi. He is the third character added to the game and the elder brother of Split Ice. Driven by hatred, this character utilizes a mix of close-to-long-range combat tactics. While his base damage output is relatively low, he possesses excellent combo potential and spam capabilities. Azure Flames arguably has one of the most potent Ultimates, dealing significant damage with strong combo opportunities. Players can master this character to unlock Mastered Azure Flames.
+Achieving Mastered Azure Flames requires gaining mastery. Mastery points are earned by defeating opponents while playing as Azure Flames (0.50%), completing quests from the Daily Quest Giver (4-5%), and defeating The Prototype boss (5-13%).
+== Pros & Cons ==
+=== Pros ===
+* Ember Eruption has a large Area of Effect (AoE) and is difficult to avoid
+* The Ultimate, Spite, deals substantial damage over time.
+* The base moveset offers significant combo potential.
+* Infernal Burn functions as a long-range attack.
+* The burn status effect can disrupt inexperienced players.
+* Effective in team fights due to AoE moves like Ember Eruption and Infernal Burn, and moves like Azure Grab and Ember Assault that can separate opponents.
+* Ultimate moves possess good range and AoE coverage.
+* Good overall combo potential, with moves having relatively low cooldowns.
+* Even in Ultimate, there is some combo potential, Flamewave Burst (if you are close enough to the opponent) can allow you to combo into any other move in the Ultimate if you follow up with a front dash.
+=== Cons ===
+* The knockback distance of Infernal Burn can be inconsistent due to player latency.
+* Peaking Scorch does not bypass block.
+* Can be challenging for beginners, though basic combos are manageable.
+* Ember Assault is easily punishable if blocked.
+* Ember Eruption can be interrupted during its startup animation.
+* No capability for true combos after Ember Assault's rework and Azure Grab's changes
+-|Base Moveset=
+Moves
+Damage
+Cooldown
+Information
+Flaming Punches (M1)
+4% per M1. 16% in total.
+~0.5 second
+The user throws punches wreathed in blue flames, finishing with a ranged blue fire strike.
+-----
+* Final hit is a projectile.
+Azure Grab
+18.5% + 0.5% (From burn damage)
+26 seconds
+The user grabs the opponent and uppercuts them into the air, slamming them to the ground before the user bursts them away using a fire-powered fist.
+-----
+*Unblockable.
+*A dash punch will knock the opponent away.
+*Pseudo-combo extender (like Quintuple Smash)
+Infernal Burn
+8.5% + 0.5% (Burn damage)
+18 seconds
+The user charges up infernal fire before shooting it in a cosmic-blue orb.
+-----
+*Blockable, becomes unblockable at range (1-2 tiles from the opponent).
+*Maximum range is approximately the width of the central arena platform.
+*Will ragdoll the opponents towards you.
+*Hitting a ragdolled opponent will give the opponent dash knockback and knock them away too far to extend.
+**Opponents are granted M1 immunity during the knockback.
+Ember Eruption
+11.5%
+27 seconds
+The user slams their fist into the ground, cracking the floor and bursting with flames before a second, more powerful shockwave hits the enemy.
+-----
+*Interruptible throughout the entire animation.
+*If the first burst is blocked, the second burst occurs with a delay.
+*Has recovery frames (endlag).
+*First hit is blockable, second is not.
+Ember Assault
+11.3% + 0.9% from hitting the ground
+25 seconds
+The user gets on a running motion before rushing through with their own quirk, grabbing their opponent and dragging them along the ground before throwing them far away.
+-----
+*Blockable and punishable on block.
+*Grabs anyone near the flames while rushing.
+*Throws the opponent roughly 13 tiles away.
+*Throwing the opponents at the right distance against the environment will shorten the distance.
+**If directed towards an I.W.O., said object may or may not be destroyed (needs more testing).
+-|Finishers=
+Moves
+Information
+Azure Grab
+The final fiery blast of the move becomes significantly stronger, launching the opponent further.
+-----
+*Execution threshold starts below 17% health.
+Infernal Burn
+In a split second,the user teleports behind the hit opponent and finishes them with a swift, flaming uppercut.
+-----
+*Execution threshold starts below 9% health.
+Ember Eruption
+The final burst launches affected opponents high into the air.
+-----
+*Execution threshold starts below 12% health.
+Ember Assault
+The user throws a punch to the gut that launches the opponent into the air, where the user teleports above them to deliver another punch, sending them to the ground. The user's eye flashes for a moment before releasing a wave of fire towards the opponent. Dropping to the ground before the opponent, they walk closer before landing a couple of punches, then throw the opponent into the air. The user follows up with a leap and releases another wave of fire, incinerating them.
+-----
+*Execution threshold starts below 15% health.
+-|Spite=
+Moves
+Damage
+Cooldown
+Information
+SPITE
+~35% (Includes fire damage)
+N/A
+The user knees down on one leg, charging their left hand with fire before standing up and creating a infernal crater, flying up and ascending to a point where the fire creates an X-shape around the user's chest.
+Lifeless Rage (M1)
+~25%
+~0.5 seconds
+The user now, instead of punches, shoots out small-ranged fire that ends with a two-handed fire flame.
+----
+* Final hit bypasses block.
+Azure Flames Blitz
+40%
+22 seconds
+The user grabs the opponent and slams them to the ground with force, shattering the ground. After the initial slam, the user charges up an even more powerful fire-powered slam that keeps the enemy on the ground.
+----
+*Has a very small grab hitbox.
+*Grants I-frames during the cutscene animation.
+*Interrupts any opponent moves that lack I-frames upon successful grab.
+Frostflame Eruption
+28.5%
+18 Seconds
+The user presses their hands onto the ground, causing ice to rapidly form and freeze nearby opponents. They then slightly lift and press down again, causing the ice to explode, knocking back affected players.
+----
+
+== WARP PORTAL ==
+{{Character heros|NameOfCharacter=Warp Portal|awakening_name=Quantum Jump|cost=Pity when killing The Prototype|image1=
+New Kurogiri Icon.png|New Icon
+Wrap.webp|Old Icon
+WarpPortalSpawn.gif|Spawn Animation
+New Warp Base.png|Base
+Portall.png|Awakening
+WarpPortalAura.gif|Awakening Aura
+caption-image1=none}}
+== Description ==
+Warp Portal is a character in Heroes Battlegrounds, based on the villain Kurogiri from My Hero Academia. He was the 6th character added to the game (7th including Huge Lady). As a master of spatial manipulation through his 'Warp Gate' quirk, Warp Portal's moveset revolves around teleportation, creating portals for offensive and defensive maneuvers, and disorienting opponents with unpredictable attacks.
+The Warp Portal moveset is an unlockable character. It is obtained by defeating The Prototype boss, with an obtainment chance ranging from 7% to 100% based on the player's accumulated Pity. Pity is gained when a player is among the top three damage dealers in a successful The Prototype defeat but does not receive Warp Portal. The amount of pity gained depends on placement: 3rd place grants 1% pity, 2nd place grants 2% pity, and 1st place grants 3% pity. Warp Portal is awarded if the random number generated (shown in a notification) is lower than the player's current pity percentage.
+== Pros and Cons ==
+=== Pros ===
+* The Ultimate, Quantum Jump, can effectively separate teamers, allowing the user to engage opponents individually.
+** This makes the character particularly strong in ranked modes and 2v2 scenarios.
+* Even if the ultimate move Crush is blocked, its finisher will still activate if the opponent is at approximately 15% health or less.
+* Possesses very good combo potential.
+* Timing Dimensional Volley correctly can allow it to hit opponents on their wakeup, enabling continued M1 combos. (Only after Reality Barrage)
+* Dimensional Volley can combo extend into some M1's if close enough and if done with good timing can create a HBG version of "Kyoto combos"
+* If timed correctly, Portal Cascade can hit a ragdolled (mainly after an uppercut) opponent, to do this you must do it immediately after or wait until they are within head height.
+* Dimensional Volley can be a good setup for other moves such as Reality Barrage and Portal Cascade, as well as Gateway (Both Variants).
+* High damage combos that don't require high skill. 
+=== Cons ===
+* The end of Reality Barrage lacks invincibility frames (I-frames) and has minor endlag, which can be disadvantageous when fighting multiple opponents.
+* Quantum Jump is generally considered a less impactful ultimate compared to those of other characters.
+* Only two base moves can pick up ragdolled enemies, and both of these moves also cause ragdoll themselves, making extended ground combos somewhat more challenging.
+* The character relies heavily on the opponent having already used their evasive.
+* Very punishable when using most moves.
+==Moveset==
+-|Base Moveset=
+Moves
+Damage
+Cooldown
+Information
+Quantum Punches M1
+16% (full chain)
+~0.5 seconds
+A basic punch sequence seemingly imbued with quantum energy.
+Reality Barrage
+17%
+24 sec
+The user grabs the victim and teleports them to a city environment (similar to that seen in Decaying Hatred's ultimate). The user slams the victim into a building wall, then teleports again to slam them onto a car, shattering its window. Finally, the user grabs the victim, teleports back to the original location, and launches them away.
+----
+*This move can hit grounded/ragdolled opponents.
+*This move bypasses block.
+*Possesses a fast startup animation.
+*Features one of the most visually impactful finishers in the game.
+*If an opponent uses their evasive just before hitting the ground after being launched, they will only take 12% damage, as the ground impact deals an additional 5%.
+*Still lacks I-frames at the end of the animation.
+Portal Cascade
+13%
+19 sec
+The user grabs their opponent by the neck and walks forward slightly while holding them, then throws the opponent away, causing them to stumble. Shortly afterward, the user raises their arms, and several portals appear. As the user swings their arms downwards, a portal above the opponent launches a random object onto them.
+----
+*Cannot hit opponents who are already ragdolled/grounded but can land immediately after a downslam or shortly after an uppercut.
+**Alternatively, it can be used with precise timing (similar to the Not Done Yet Tech with Triple Dagger Throw), activating it just before the opponent recovers from ragdoll.
+*This move can be blocked; however, there is no distinct blocking sound effect or animation (unlike moves like Headbutt), and it does not inflict extra stun when blocked.
+*Can be extended with Dimensional Volley if spammed as the animation concludes.
+Dimensional Volley
+20 sec
+The user flips forward before launching a small portal projectile from their hand. If the projectile hits a target, the target is knocked into the air, and two portals appear (one on the floor, one mid-air). The target is then caught in an infinite loop between these portals, with their speed increasing on each pass, until the portals release them towards the user.
+----
+*Blockable.
+*Will always send the opponent towards the user, regardless of the user's orientation.
+*Reduces subsequent M1 damage by 78% upon a successful connection. Downslams and Dash Punches are unaffected by this M1 damage debuff.
+*Has a total range of approximately 16 arena tiles (portal ball covers ~13.5 tiles, initial lunge covers ~2.5 tiles).
+*Will not hit grounded/ragdolled opponents.
+**Can bypass Wakeup Armor, similar to Triple Dagger Throw & Infernal Assault.
+*Has endlag if blocked.
+Gateway First VariantGatewayGateway Second Press VariantGateway Close Variant
+6% (First Use), 6% (Second Use), 6% (Close Variant)
+22 sec
+The user of the "Warp Gate" quirk utilizes their portals in various ways:
+----
+First Variant (Rushdown): Opens a portal linked to another portal some distance away, then runs through. If an enemy is hit during the rush, the user grabs them and throws them away.
+----
+Second Variant (Reactivation): After the Rushdown, pressing the move again teleports the user to the opponent and slams them into the ground.
+----
+Non-Hit Version (Rushdown): If the initial rush misses, the user runs through the portal and performs an uppercut if an enemy is hit at the end of the animation.
+----
+Near-Enemy Version (Proximity Activation): If used close to an opponent, the user teleports through a dimensional portal appearing above the enemy, falling and crashing onto them.
+----
+*The initial Rushdown variant is blockable on startup; however, the uppercut performed on a whiff (miss) is unblockable.
+*The Rushdown variant has a range of approximately 9 arena tiles.
+*Can pick up grounded/ragdolled opponents.
+*Features a "Use Twice" mechanic for the Rushdown variant.
+*Deals 6% damage upon a successful initial hit. Reactivating deals an additional 6% if it hits; if the second use misses, the initial hit still dealt 6%.
+*The second use of the Rushdown variant turns the move into an extender.
+*Has severe endlag if the Rushdown variant is missed entirely.
+*The proximity activation (slam) deals 6% damage.
+*The proximity activation (slam) is blockable.
+*Automatically picks up opponents positioned between the portals when using the Rushdown variant.
+*If an opponent uses their evasive before the second use of the Rushdown variant is activated, the second hit will not connect.
+-|Finishers=
+Moves
+Information
+Reality Barrage
+Upon grabbing the enemy, the move proceeds as normal (with slightly different sound effects). Instead of throwing the enemy back into the arena, the user throws the opponent through a portal into mid-air. While the opponent is disoriented, the user grasps them by the head and pile-drives them into a building. The user then drops the opponent, and as they fall, the user warps to their left and delivers a powerful kick to their head/neck area. Both user and opponent then teleport back to the main arena.
+----
+*Both the user and the enemy are teleported to the middle of the arena, which can be useful for escaping.
+*Execution threshold starts below 17% health.
+Dimensional Volley
+The user begins punching their enemy in a series of blows, then portals off-screen. The opponent looks around for the user. The user reappears, throws the enemy through a portal, reaches out to throw them into another portal, and holds them in a lock between two portals. The user then proceeds to rip off their opponent's right arm, throws them through the other portal, and rips off the other arm.
+-----
+*Execution threshold starts below 8% health.
+ Gateway
+For the proximity variant, the user creates a portal for the enemy to fall into on the floor, then smashes the enemy's head, defeating them instantly. (For the rushdown variant finisher, the enemy is simply sent flying further).
+-----
+*Execution threshold starts below 8% health.
+Crush
+The user creates a large portal under the opponent as they fall into it. A meteor then drops from the portal, striking the opponent. From the opponent's perspective, they are shown flying through endless space while still attached to the meteor.
+----
+*Execution threshold starts below 40% health.
+Spatial Fury
+After the user and target warp to the moon, the target rolls backward into a portal in the ground before emerging from a portal mid-air. The user then appears and delivers a punch to the target's back, sending them back through both portals, before delivering an upward strike to the target's back. The user then stretches their arms before entering a fighting stance and delivering a cascade of blows to the target, using portals to ensure the target doesn't escape. The user then stretches their shoulder before delivering one final blow to decapitate the target.
+-----
+*Execution threshold starts below 22% health.
+-|Quantum Jump=
+Moves
+Cooldown
+
+== MASTERED GREEN HERO ==
+coding credits
+cost=100% Mastery for Green Hero|caption-image1=The Vigilante Version.|Original Name=Izuku Midoriya}}
+==Description==
+Mastered Green Hero, also known as Verdant Hope by its badge name, is an unlockable character in Heroes Battlegrounds, obtained by achieving 100% mastery with Green Hero. Mastery can be gained by defeating players, defeating The Prototype boss, or completing daily quests. He also is the 5th character added to the game.
+Mastered Green Heros moveset is designed around close-combat attacks that deal massive damage by locking enemies into deadly combos, and the character itself is based on Izuku Midoriya's appearance and abilities during Season 6 of the anime, which corresponds to the Dark Hero Arc in the My Hero Academia manga.
+==Pros and Cons==
+===Pros===
+* All moves can hit or grab ragdolled enemies.
+* Most moves are grabs, providing extremely safe damage opportunities.
+* Shadow Whip has two variants.
+** Shadow Whip's ground variant is an effective combo starter and extender.
+* Quintuple Smash can be combined with any move except Vicious Grab (unless Side Dash + Aerial Variant of Vicious Grab) for easy damage.
+* Vicious Grab's aerial variant is good for avoiding damage from Awakening users and escaping dangerous situations. It also has a shorter cooldown than its ground counterpart.
+* Electric Smash can punish opponents who consistently hold block, as well as Quintuple Smash's last punch.
+* Vicious Grab is a useful combo finisher due to the distance it creates between the user and the opponent.
+** This is primarily because it is difficult to extend a combo after landing it.
+* Quintuple Smash functions as both a combo starter and extender.
+* Electric Smash is effective against teamers and incoming third-party attackers.
+* Every base and ultimate move has a finisher animation.
+* Three of the four base moves knock back the opponent, which is useful for positioning them into an I.W.O. interaction.
+* The Awakening, namely The Ninth, offers some surprising combo potential, despite how the moves work.
+* The Ninth has two abilities with long range, with Lightning Crush having the furthest reach.
+* Quintuple Smash is a high-damage combo extender when used after a front dash.
+* The Ninth ultimate offers more combo potential than Green Hero's Awakening, Maximum Overdrive, though it sacrifices some raw damage output.
+* The Ninth Awakening moves chain together seamlessly.
+* Vicious Grab (both variants) are useful for knocking opponents back and dealing with teamers or third-party attackers.
+* Jumping before using Electric Smash can increase its damage output.
+* Seven out of eight moves (including those in The Ninth Ultimate) are unblockable. (For Quintuple Smash, rapidly turning the camera can help bypass the block, as well as the final hit doing the same work).
+* Quintuple Smash can reportedly grab an infinite number of people (needs further verification; confirmed for up to 15).
+* Whiplash has a lingering hitbox that can hit enemies even after the initial contact.
+* Can approximately deal 5% damage to {{The Prototype|The Prototype}} boss if all moves land without interruption.
+* Vicious Grab (Aerial Variant) is excellent for dodging ultimates and confusing players and can be used to increase the damage output of Electric Smash.
+* Vicious Grab can be used as a spacing move; this makes it effective against teamers.
+* Lightning Crush can combo into Whiplash, 120% or 45% if executed correctly.
+* Vicious Grab can be used to hit moves mid air (such as Electric Smash and Shadow Whip)
+** It can also be used to attack opponents midair that were launched by moves like Focus Shot (Aerial Variant) and against Winged Assassin players.
+* Vicious Grab (Aerial Variant) can be a good setup for unexpected attacks from the air.
+* The reworked passive gives the user Danger Sense (or, more specifically, 3 dodges), making it useful against teamers. If Burst is used, the user gains 5 dodges instead of 3 dodges, making this character ideal for teamers and third partiers.
+===Cons===
+* All base moves have very long cooldowns, except for Vicious Grab (Aerial Variant).
+* The Ninth is easily punishable when moves are used recklessly, so it's the best to fight with the Awakening used in a close-range like all players normally do.
+* The Ninth heavily relies on the enemy having wasted their evasive and successfully chaining moves together for optimal damage.
+* The Ninth Awakening takes significantly longer to fill its gauge compared to {{Green Hero|Green Hero's}} Maximum Overdrive.
+** The reason of it is that Green Hero has a special passive for filling the gauge.
+* Acquiring 100% mastery for Green Hero can be time-consuming, even with consistent {{The Prototype|Prototype}} farming.
+* Electric Smash can be punishable if missed, though not as severely as Hyper (Air Variant) or Overkick from the base Green Hero.
+* Shadow Whip has considerable endlag if missed, and even more if it is blocked.
+* Shadow Whip's neutral (ground) variant pushes players extremely far away, which can sometimes be a disadvantage.
+* Vicious Grab is easily punishable.
+* The passive ability (Teleport Dashes) is not consistently useful, as it is instant upon activation and can sometimes make landing subsequent attacks difficult.
+* Awakening moves can be dodged or missed easily if not set up properly.
+* Green Hero's Awakening deals more total damage than the mastered version's own Awakening (The Ninth) (180% & 117%).
+* Base moves have longer cooldowns compared to their non-mastered version, Green Hero.
+* The reworked passive can be easily wasted by certain moves.
+==Movesets==
+-|Base Moveset=
+Attack
+Damage
+Cooldown
+Information
+Justice Shock (M1)
+1 hit: 4% Damage
+All hits: 16%
+~0.5 seconds
+The user punches forward multiple times, emitting a green electrical shock on the last M1. The animation is slightly faster and more fluid than the base Green Hero's M1s.
+Quintuple Smash
+15%
+27 seconds
+The user rapidly punches the enemy in the chest four times, with the third punch stunning them. The user then punches them in the head, knocking them away.
+----
+*If a side or front-dash is performed after the knockback, it can be used as a combo extender into an M1 chain and every other move, or using .
+*All hits are blockable except the final hit.
+*The only move in-game to have instant activation.
+*Can hit grounded opponents.
+*Can hit multiple people (needs verification for an infinite amount; confirmed for up to 10).
+*If timing the move after the uppercut, it will land it instantly.
+Electric Smash
+7% (Normal)
+----~9%-10.5% (After jumping)
+----~18.8% (Used after Vicious Grab's air variant)
+----~60% (Maximum damage cap)
+18 seconds
+The user of "One for All" jumps up and spins before delivering a powerful kick to the ground, creating an explosion.
+----
+*Unblockable.
+*Deals more damage the higher the user is when initiating the kick.
+*Appears to have hyper-armor.
+*Has low horizontal range.
+*Can hit grounded opponents.
+*Short endlag.
+*Combo extends into every other move.
+*Holding onto a wall before using this move can maximize scaling damage (user's screen flashes green, finisher effects appear, AoE increases). Best performed after Vicious Grab (Aerial Variant) at maximum height (requires skill for "Superhit").
+*(Console players): Temporarily disables lock-on until the move ends.
+Vicious Grab
+24 seconds
+The user grabs the opponent, punches them twice, slams them into the ground, punches them up into the air, then unleashes an empowered finger flick (Delaware Smash) that launches the opponent further away.
+----
+*Unblockable.
+*Can grab grounded opponents.
+*Combo-ender due to the large distance created (best used as a finisher or for disengaging).
+*If the opponent is pushed against a wall by the punches, they will fall behind the user, but the finger flick will push them closer.
+Vicious Grab (Aerial Variant)
+8.5%
+7 seconds
+The user jumps into the air and performs an empowered finger flick (Delaware Smash Air Force) that propels themselves further upwards.
+----
+*Can hit grounded opponents.
+*Can be used to evade attacks.
+*Cooldown is 3x faster than the ground variant while dealing similar damage.
+*Combo extends into Electric Smash if timed correctly; otherwise, it's a combo-ender.
+*Projectile direction is dependent on camera positioning, meaning wherever your camera is pointed is where the move will be aimed
+*Because of the projectile being camera dependent, looking all the way up with the move will completely negate all upward movement with this move, allowing more unique and creative combo routes
+*The same can be said for the reverse; looking all the way down will maximise height, allowing electric smash to do more damage, or create more air time to evade an opponents attack easier
+Shadow Whip
+6.5%
+33 seconds
+The user commands "Blackwhip" tendrils from their right hand to wrap around the opponent and pull them closer. Once in range, the user unleashes a combo of punches before uppercutting them up slightly then punching them away, rolling the enemy back a slightly far distance.
+----
+*Blockable.
+*"Barely" extendable (requires two side dashes then a front dash executed as fast as possible).
+
+== MASTERED HERO SLAYER ==
+Spoilers Ahead!
+Spoilers for Hero Killer: Stain
+Category:Characters
+==Description==
+Mastered Hero Slayer, also known as Crimson Justice by its badge name, is an unlockable character in Heroes Battlegrounds, obtained by achieving 100% mastery with Hero Slayer. Mastery can be gained by completing daily quests, defeating the The Prototype boss, or accumulating kills (0.5% per kill, requiring 200 kills total without other sources). Released on June 21st, 2024, he is the 8th character added to the game.
+Mastered Hero Slayer represents a more potent and versatile version of his base counterpart. His core gimmick revolves around stance switching between a Katana-focused moveset and a Fists-based moveset, triggered by the Katana Throw ability. This dynamic allows for varied combo routes and adaptations mid-fight. Furthermore, landing specific finishers grants temporary weapon passives (Knife, Knuckledusters, or both), which alter his M1 attacks and damage, rewarding skillful execution and diverse combo completions. His awakening, Judgement, is distinct from that of the base Hero Slayer.
+==Pros & Cons==
+=== Pros===
+* Possesses amazing combo potential due to stance switching and diverse move interactions.
+* Certain finishers grant temporary weapon passives (Knife, Knuckledusters), increasing M1 damage and altering M1 animations.
+* Dagger Cascade has a second use, allowing for more daggers to be thrown compared to the base Hero Slayer's Triple Dagger Throw.
+* Shadow Rush's air variant is an easy combo starter if landed correctly.
+* Whirlwind Pierce deals extra damage if timed to hit an opponent during their wakeup invincibility.
+* Has access to a defensive Armor skill (Whirlwind Pierce) that is available in both Katana and Fist stances.
+* Can access two long-ranged moves in his base (Katana) moveset.
+* The follow-up to Shadow Rush can lead into either Katana Throw (stance switch) or an Attack Dash for continued pressure.
+* If an opponent lacks ragdoll cancel, using Whirlwind Pierce immediately after Headbutt guarantees either the stun or the bonus wakeup damage.
+* Features four distinct True Combos.
+* The Mixed Martial Arts passive (Knuckledusters + Knife) boosts M1 damage to approximately 24% per full chain.
+* The combined damage potential of Mastered Hero Slayer's stance moves (Detrimental Division and Blitzing Talon in Ultimate) can reach 66-67%, making it one of the highest damaging movesets in the game.
+* One Million Slashes breaks block on its initial contact and its final slash.
+* Dagger Cascade and Katana Throw can stun opponents on wakeup, similar to Triple Dagger Throw.
+* The two distinct movesets (Katana and Fists) greatly enhance combo extension possibilities.
+* Rewards players who experiment with move interactions, as nearly every move can function as a combo extender with proper techniques.
+* The Judgement ultimate offers great mobility.
+* Blitzing Talon teleports the user to the opponent after the Katana hits them.
+* If an opponent's evasive is baited, the second use of Shadow Rush can be combo-extended with a front dash by quickly turning the camera to hit the opponent's back, causing a roll that allows for a side dash M1 follow-up.
+* If used immediately after an uppercut, Shadow Rush can hit the player if done correctly.
+* After a downslam, if you wait a bit, you can use Whirlwind Pierce to hit your opponent and apply the Bloodcurdle effect.
+===Cons===
+* High learning curve for beginners due to being a complex character with numerous moves and stance mechanics.
+* A very advanced character; effective use requires a strong understanding of game mechanics.
+* Takes a long time to unlock due to the mastery requirement (200 kills without daily missions or The Prototype farming).
+* Very low base damage on individual skills, forcing reliance on M1 attacks and passive weapon buffs.
+* Lacks easily accessible, high-mobility moves in his base kit.
+* Executing most advanced combos requires frame-perfect inputs.
+* The Black Flash-like M1 passive can be escaped if the opponent times their evasive correctly.
+* If the Black Flash M1 passive is missed, it cannot be used and goes away.
+* Whirlwind Pierce can be punished, countered, and missed easily due to its recovery.
+* One Million Slashes and Shadow Rush (both variants) have significant endlag if missed, leading to easy punishes.
+* Shadow Rush (Air Variant) can be easily missed or dodged.
+* One Million Slashes does not extend combos on already ragdolled enemies.
+* One Million Slashes and Shadow Rush (Air Variant) have very low finisher thresholds (6-8%), making them unreliable for securing finishers.
+* Headbutt has almost no I-frames after the move finishes, leaving the user vulnerable to immediate counter-attacks from teamers.
+* Attempting the Dagger Cascade wakeup tech on a ragdolled opponent only grants the fourth M1 hit instead of a full M1 reset.
+* Obtaining certain weapon passives, like the Knuckledusters and Knife simultaneously, can be challenging, and the individual M1 boosts from single weapons are relatively small.
+* Mastered Hero Slayer has less raw base damage than his non mastered counterpart, Hero Slayer.
+* Mastered Hero Slayer can be complex to learn due to the amount of moves and functions of the moveset.
+* Whirlwind Pierce, despite having super armor, CAN be bypassed.
+** This can be done by hitting the user enough to ragdoll them, or if they are on low health, kill them, or using a grab move or a move that puts you in an animation.
+*** This can also be said for Curdle Pierce, one of Hero Slayer's moves.
+==Movesets==
+-|Katana=
+Moves
+Damage
+Cooldown
+Information
+Crimson Swordsmanship (M1)
+16%
+~0.5 seconds
+A basic chain of katana slashes, leaving red trails and energy expulsions.
+First UseShadow RushSecond Use
+14% total (10% first use, 4% second use)
+14 seconds
+The user charges forward with their katana in a quick dash. Upon hitting, they spin and slam the opponent into the ground with the blade, then follow up with a fist slam. Reactivating the move causes the user to leap and stab downwards; if this hits, they fling the opponent off their sword.
+----
+*First use is easily punishable if blocked.
+*Second use breaks block, unlike the first use.
+*First use leaves the enemy ragdolled long enough for an Uppercut or Downslam.
+*Second use ragdolls the enemy for half the normal duration.
+*A forward dash after the second use can enable an adaptation of the "twisted tech" for combo extension.
+Shadow Rush Air Variant
+17 seconds
+While airborne, the user is suspended as they aim and unleash two crimson slashes.
+----
+*Unlike the ground variant, this version breaks block but deals less damage.
+*If used without setup (raw), it functions as a combo starter but sends the enemy far back if used after M1s or on a grounded opponent.
+ThrowKatana ThrowTake back
+10.5% total (1.5% on throw, 9% when retrieved from enemy on 4th M1)
+12 seconds
+The user spins once before throwing their katana.
+----
+*Throwing the katana switches the user's moveset to Fists until 40 seconds pass, the blade is manually picked up, or it is ripped out of an enemy (triggering the "Take back" animation).
+*If an opponent is within finisher range, this move will not defeat them unless they are hit by one of the user's other moves, an ally's attack, or the user's 4th M1 while the katana is embedded.
+*If timed correctly on a ragdolled opponent, this move can bypass wakeup armor and allow the user to start an M1 chain.
+One Million Slashes
+4.8%
+24 seconds
+The user briefly retreats before lunging forward with increased momentum, delivering an initial slash followed by a barrage of a million red cuts in a 360-degree area.
+----
+*The initial slash breaks block; however, the subsequent AoE barrage is blockable.
+*Can be cancelled if the user is hit before the AoE attack begins, or by ranged moves at any point during the animation.
+*The actual damaging part of the move ends slightly before the visual effects dissipate, allowing players to dash in and hit the user.
+*Has significant endlag if missed.
+First UseWhirlwind PierceSecond Use
+7% (17% if hit during ragdoll wakeup)
+28 seconds
+The user of the "Bloodcurdle" quirk jumps backward, tosses a knife into the air with an audible cue, then slashes horizontally. On a successful hit, reactivating the move applies the "Bloodcurdle" (paralysis) effect to the target.
+----
+*This skill has Armor on startup and is unblockable but has slow recovery.
+*If the attack hits an opponent during their wakeup invincibility from ragdoll, it deals more damage but cannot apply the Bloodcurdle effect.
+*Available and functions identically in both Katana and Fist stances.
+-|Fists=
+Moves
+Damage
+Cooldown
+Information
+Streetfighter's Art (M1)
+16%
+~0.5 seconds
+A basic combo of punches. Damage is similar to Katana M1s without passives.
+Without Second UseUppercutWith Second Use
+10% total (10% first use, 0% second use)
+20 seconds
+The user uppercuts their opponent, creating segmented impacts visualized as red explosions, sending both airborne. Reactivating the move slams the enemy downwards, causing a ragdoll with no additional damage.
+----
+*This move breaks block.
+*The finisher threshold is higher if the follow-up slam is used (around 13% with follow-up, 10% without).
+Without Second UseDagger CascadeWith Second Use
+12% total (7.5% first use, 4.5% second use). Has a random chance to apply poison, draining the opponents HP by 4.5% (~0.2%/0.1s) over a few seconds and prevents side dashing as well as side dash evasives.
+
+== MASTERED SPLIT ICE ==
+==Description==
+Mastered Split Ice, also known as Scorching Winter by its badge name, is the 13th character released in the Heroes Battlegrounds. This character can be unlocked after achieving 100% mastery by defeating The Prototype, completing daily tasks, or accumulating kills (0.5% for each kill, totaling at 200 kills) with its base form, Split Ice. Based on Shoto Todoroki during the Final War Arc, Mastered Split Ice captures the resolute last stand of Todoroki and his versatility with his unique Temperature gimmick, allowing him to switch between Fire and Ice. The Fire moveset, which stresses the application of pure and aggressive power, is the first moveset the user uses. His Ice moveset, which centers on freezing and is ideal for combo setups, may be switched by tapping the awakening key (holding it triggers the awakening itself). The user is encouraged to balance between the two types, otherwise the unique gimmick it possesses would backfire and put you at disadvantage. 
+==Pros and Cons==
+=== Pros ===
+* Once in the right hands, it deals a lot of damage.
+* Extreme combo-potential and versatility.
+* Lots of combo variations.
+* Freeze effect allows for deadly combos.
+* Freeze effect lasts notably longer than its non-mastered counterpart.
+* Flame Moveset deals a lot of damage.
+* Frost Moveset is useful for beginning combos.
+* The majority of the moves are unblockable, making it very useful for pressure and chipping away health, especially with the Flame Moveset.
+* Most moves have a high finisher threshold.
+* Arctic Flare, Frozen Aegir, Searing Steps and other moves can lead into Glacial Effigy.
+* Flash Tempo is good for neutral.
+* Arctic Flare will freeze the opponent regardless of whether they are blocking or not.
+* Glacial Aegir can be used as an escape tool, perfect against teamers.
+* Searing Steps and Inferno Impact grants the user super armor and hyper armor respectively during the run.
+* Ignition Drive is an easy combo extender with a very fast start-up, making it unescapable when performed quickly after any of the variants of the 4th M1s.
+* Arctic Flare has exceptional damage, making it a rewarding move to hit.
+=== Cons ===
+* High learning curve for beginners due to its Fire and Ice and Temperature gimmick.
+* Getting carried away backfires heavily.
+* Flash Tempo doesn't do much damage.
+* Frostbite makes it very hard to block moves, as your character becomes slower, therefore being more vulnerable to being hit from the back.
+* Glacial Effigy can be hard to hit if the user doesn't know how to "set up" their moves. 
+* Flash Tempo is not optimal for combos. 
+* Staying around Glacial Effigy freezes you, so camping around it is not a good strategy.
+* Moves like Inferno Impact, Flash Tempo, and Searing Steps become inconsistent with high ping.
+==Movesets==
+-|Frost Moveset=
+----
+Moves
+Damage
+Cooldown
+Information
+Cryoburn Fist (M1)
+16% in total
+~0.5 sec
+The user punches the opponent with their right fist, imbued with ice, then follows up with a punch from their left hand, covered in fire. They then kick the opponent with their right foot, imbued with ice, and follow up with a kick from their left foot, imbued with fire.
+Flash Tempo
+~25 sec
+The user runs forward, leaving a trail of ice in their wake. Upon reaching an enemy, the user spins their right leg around, sweeping the opponent off their feet and leaving a brief curve of ice spikes on the ground.
+----
+* Unblockable
+* Hits grounded opponents
+* Travels around 7 tiles ahead
+* Ignores wake-up invincibility
+* Mixes really well with Glacial Effigy put beforehand
+Arctic Flare (First Use)
+4% Freeze
+----
+8.1% Glacier
+----
+10.1% In the Middle
+rowspan="2"|~25 sec
+The user raises their left leg before swiftly stomping it against the ground, causing a wave of spiky glacier to erupt from it and freeze or ragdoll the enemies.
+----
+* Blockable
+* Has decent reach (3-4 tiles ahead)
+* Using it near an opponent will cause them to freeze
+* Opponents will still be frozen, even if they blocked
+* Ragdolls opponents if used far enough
+* The freeze lasts 3 seconds
+* Deals extra damage if the opponent is well placed. The reason is that they were damaged by being frozen and by the glacier itself.
+* Has moderate endlag even if the move landed on an opponent
+Arctic Flare (Second Use)
+8.1%
+The user raises their left hand as flames gather to their fist for the user to cast a fiery blade, before swinging the blade counter-clockwise towards the opponent, flinging them away.
+----
+* Nigh-blockable
+** Causes the blocking opponents to receive a knockback upon impact
+* Can hit ragdolled opponents
+* Increases Flame points
+* Mixes really well with Glacial Effigy put beforehand
+Glacial Effigy
+~25 sec
+The user spins in place, forming an ice clone of themselves right after the spin. Upon contact, the ice clone explodes into a freezing frost that freezes bystanders.
+----
+* It takes 4 seconds for it to be able to freeze after its creation
+* An unorthodox extender, with multiple ways of pushing an opponent near it
+* Cancels attacks from the opponent
+* Serves as an escape tool if the opponent is careless enough
+* The freeze time is similar to Split Ice's Frost Counter
+* Reduced M1 damage against freezing opponents
+* Front-dash will always roll back the opponent
+* After 1 second of its creation, the user will start freezing.
+** The user will be inflicted with Frostbite once it reaches the max point
+* Opponents can perform counters and hit the user if they're close enough
+*Will place the effigy even if hit by m1 during the animation
+Frozen Aegir
+~25 sec
+The user jumps high in the air as they swing their right hand to throw an icicle towards the ground, which creates an ice wall on the ground upon impact, as well as freezing nearby opponents.
+----
+* Unblockable
+* The user flies backwards from where they threw the icicle, while also being able to maneuver
+* Little to no endlag
+* Has the same freeze duration as Glacial Effigy, and can be mixed well with it
+* The freeze duration is reduced to 1.3 seconds if successfully blocked
+Frozen Aegir (Wall Combo)
+N/A
+The user grabs and spins the opponent, throwing them against the wall, following up with a right kick to the gut before forcibly pushing the opponent with both of their hands, destroying the wall in the process.
+----
+* Acts as an I.W.O
+* The user can land 1 M1 hit before performing the wall combo with the next hit
+* Landing a front dash initiates the wall combo instantly
+* Opponents can utilize the wall if you're not careful enough
+* High finisher threshold despite the damage
+-|Flame Moveset=
+----
+Moves
+Damage
+Cooldown
+Information
+Cryoburn Fist (M1)
+20% in total
+~0.5 sec
+The user punches the opponent with their right fist, imbued with ice, then follows up with a punch from their left hand, covered in fire. They then kick the opponent with their right foot, imbued with ice, and follow up with a kick from their left foot, imbued with fire.
+Inferno Impact
+5% Initial Kick
+
+== MASTERED AZURE FLAMES ==
+Spoilers! Spoilers
+Spoilers!
+Spoilers for Dabi V2
+coding credits
+==Description==
+Mastered Azure Flames, also known as Violet Inferno by its badge name, is the 11th character released in Heroes Battlegrounds (13th including Huge Lady and The Strongest). This character is unlocked by achieving 100% mastery with the base Azure Flames, based on Toya Todoroki during the Final War Arc, Mastered Azure Flames embodies Dabi's escalating power and deteriorating mental state. His core gimmick revolves around two distinct combat forms: Azure Form and Violet Form. The user starts in Azure Form and can transition into the more volatile Violet Form using Scorching Surge. Violet Form enhances abilities and reduces cooldowns but constantly drains the user's health, referencing Dabi's inability to fully control his intense flames without self-harm. Successfully landing finishers, especially in Violet Form, can grant significant health regeneration, creating a high-risk, high-reward playstyle. This character also features unique passives, such as gaining Split Ice's Ice Javelin after a specific finisher (Glacial Cinder).
+==Pros and Cons==
+===Pros ===
+* Amazing Combo Potential due to two distinct movesets and their interactions.
+* Possesses two movesets (Azure Form and Violet Form), offering versatility.
+* Moves generally have long animations, which can be strategically used to stall and waste an opponent's awakening bar if they are caught in a combo.
+* Features very low cooldowns, which decrease further while in Violet Form.
+* Cinder Bind (Violet Form) has a huge Area of Effect (AoE), excellent for slowing down multiple opponents (teamers) and deterring third-party interference.
+* Cinder Bind is difficult to punish even if missed or blocked due to its lingering hitbox that persists until the fire circle disappears. Attempting to M1 trade with the user before the final burst can result in being stunned, creating an opening.
+* The user can hide within the fire circle created by Cinder Bind to regenerate health (if passives allow) and wait for cooldowns, as opponents can still be hit by the lingering effect if they enter or were not hit by the initial cast.
+* Most moves grant invincibility frames (I-frames), making Mastered Azure Flames a good candidate against teamers or third-parties.
+* Moves have very high finisher execution ranges, along with great general range and mobility.
+* Cooldowns recover 20% faster while in Violet Form.
+* Opponents near the user's moves, such as Glacial Cinder, can also be hit, ragdolled, or launched by the collateral effects.
+* Depending how many HP the player has, landing a finisher while in Violet Form (Hell Assault, Phantom Shot and the 2nd usage of Scorching Surge) grants more HP regeneration on kill compared to Azure Form kills, making it excellent for clutching situations at low HP, especially against teamers.
+* Landing the Glacial Cinder finisher grants the user an Ice Javelin for their M1s, identical to the one used by Split Ice and Mastered Split Ice (including its passive properties if applicable). The same goes for **Hell Shot**, which grants the user the **Frigid Scythe.**
+* By switching back between Violet Form and Azure Form it is possible to use the moves in each form to combo into each other.
+* Possess one of the most destructive Awakenings.
+* Retribution possesses immense damage in his ultimate. (300 HP)
+* Hell-Scorched Execution can be confirmed with a Downslam or 3 M1's, making it very deadly.
+* Hellfire Bloom has a lot of range (The entire map) making it very easy to hit.
+* Inferno Spider can be confirmed by landing Cluster Spark.
+* All of the moves in the ultimate have I-frames or Hyperarmor, meaning you can effectively use all the moves raw without being punished.
+===Cons ===
+* Low damage on individual moves without incorporating M1s and chaining skills, compared to other characters.
+* Violet Form generally deals less overall burst damage per move than Azure Form, trading it for utility and faster cooldowns.
+* Can be harder to use than base Azure Flames due to managing two different movesets. While technically possible, seamlessly extending combos while switching forms is difficult (more feasible switching from Violet to Azure Form).
+* The ultimate gauge takes longer to fill compared to its non-Mastery counterpart.
+* Violet Form constantly drains HP (approximately 0.8% per second), making natural health regeneration impossible without securing a kill. If health isn't regained, the user automatically reverts to Azure Form with full HP after about 5 minutes.
+* Cooldowns are shared between both Azure and Violet forms (unlike Mastered Hero Slayer's stance switch), requiring careful timing and reliance on low cooldowns to chain moves effectively.
+* Cinder Bind doesn't bypass blocking, which can be an issue against skilled opponents or coordinated teamers who block effectively.
+* Unlike Phantom Shot, Hell Shot (Azure Form) can be escaped easily due to its longer startup animation.
+* Attempting to combo extend after Hell Shot's (Second Use) by turning the camera away from the opponent is high risk because of the endlag unless the opponent has high ping (250 or higher).
+* Heavily relies on the enemy wasting their evasive maneuver before being able to consistently deal significant damage.
+* Violet Form is very risky to use due to the immense life drain when you are in the form, making combos more deadly.
+==Movesets==
+-|Azure Form=
+Moves
+Damage
+Cooldown
+Information
+Hellish Fire (M1)
+16% total
+~0.5 sec
+A combination of punches and kicks, concluded by the user punching their opponent away with a fire-powered punch.
+Infernal Assault (First Charge)
+11% (1% charge, 10% move)
+rowspan="3" |25 sec
+The user rushes forward, strikes the enemy, executes an uppercut, and then kicks them with their right leg.
+-----
+*Cannot hit grounded players.
+*Contains "false" Super-armor (user will still take damage from other moves, but may resist flinching from some).
+*Cannot combo-extend on grounded players.
+*Fast activation.
+*Blockable.
+*Can hit opponents during their wakeup invincibility, similar to Triple Dagger Throw.
+*(Console players): Temporarily disables lock-on until the move ends.
+Infernal Assault (Second Charge)
+14% (2% charge, 12% move)
+The user rushes forward, strikes the enemy, executes an uppercut, and then kicks them away with their right leg.
+-----
+*Cannot hit grounded players or combo-extend on them.
+*Blockable.
+*Opponents will enter a spinning knockback instead, granting them M1-immunity while traveling a shorter distance.
+*Can hit upon ragdoll wakeup to bypass wakeup armor, similar to Triple Dagger Throw.
+*(Console players): Temporarily disables lock-on until the move ends.
+Infernal Assault (Third Charge)
+12% (4% charge, 8% move)
+The user rushes forward, strikes the enemy, executes an uppercut, and then kicks them using their right leg.
+-----
+*Can combo-extend with a side dash.
+**Leaves the user with only 2 m1s.
+*Forward dashes knock the opponents away.
+*Unblockable.
+*Cannot hit grounded players.
+*Can hit upon ragdoll wakeup and combo extend, similar to Triple Dagger Throw.
+*Range increases further compared to other charges.
+*The direct attack damage decreases (7%), but the charge-up damage compensates, totaling 11% if the move lands on a non-ragdolled enemy.
+*(Console players): Temporarily disables lock-on until the move ends.
+Only 1st UseHell ShotWith 2nd Use
+13% (4.8% first use, 8.2% second use)
+18 sec
+The user retracts their left arm briefly before firing a wave of fire. Upon second use, the user travels forward while conjuring an ice scythe and strikes the target's midsection with an upward slash.
+-----
+*Cannot combo-extend with a forward or side dash.
+*This move is blockable.
+*Has decent range (approximately 3 tiles) but leaves the user stationary during the first part.
+*Great setup for Glacial Cinder.
+*Ragdolls the enemy just enough for a downslam or uppercut.
+Glacial Cinder
+16%
+22 sec
+The user throws a right hook at the opponent, knocking them down before stomping on their chest with strength enough to cause a flame crater, whereupon sliding the opponent across the floor and conjuring a large ice construction out of the ground at them, blasting them away.
+----
+*Grants I-frames upon landing the grab.
+*Launches the enemy far away; best for ending a combo or creating distance.
+*Unblockable (functions as a grab-type move).
+*Finisher execution threshold starts below 14% health.
+*The ice construction also sends nearby bystanders very far away 
+Scorching Surge
+0% (No damage)
+4 sec
+The user shifts to Violet Form, gaining access to three buffed versions of previous moves while taking small damage-over-time (DoT) effects. Health can be regenerated with each kill in Violet Form (amount depends on remaining HP).
+-----
+*Increases M1 damage scaling by up to 10% based on the user's health; scaling begins when health falls below 50%.
+*Deals damage to the user (0.8% HP per second), disabling natural health regeneration.
+*Can hit grounded players with the transformation AoE, but doesn't extend their ragdoll duration.
+*Grants hyper armor upon use.
+*If the user is below 9% health, the move will not activate, and they will remain in Azure Form.
+*The user can move while activating Violet Form.
+-|Violet Form=
+Moves
+Damage
+Cooldown
+Information
+
+== DECAYING HATRED ==
+Spoilers Ahead!
+Spoilers for Shigaraki from MHA (My Hero Academia)
+coding credits
+{{Deku|title1=Decaying Hatred|awakening_name=Everything For One|Cost=Free|Herogreen.png=
+New Shigaraki Icon.png|New Icon
+Rots.webp|Old Icon
+Fear Spawn.gif|Spawn Animation
+Fear base.png|Base
+Shigik.png|Awakening
+SymbolOfFearAura.gif|Awakening Aura
+==Description==
+Decaying Hatred is the 9th character (11th if counting Huge Lady and The Strongest as PS+ exclusive characters) and the fourth villain character added to Heroes Battlegrounds. He is based on Tenko Shimura, currently known as Tomura Shigaraki, who is the main villain and primary antagonist of the My Hero Academia series.
+==Pros and Cons==
+===Pros===
+* All base moves have finisher animations that execute at relatively high opponent health, enabling rapid kills.
+* Vanquish possesses a 360° hitbox and bypasses block.
+* Decaying Counter deals significant damage (22%) and can extend combos with an Aerial Slam, Vanquish, or Void Steps due to the spin-knockback. (Knockback distance is similar of that of Warp Portal's old 3rd move, Portal Combo.)
+* Deteriorate is an effective and easy-to-use combo extender.
+* Capable of dealing high damage with combos.
+* Relatively simple to use, with the exception of Void Steps.
+* While Void Steps is difficult to land consistently, its potential damage output is substantial.
+* The base moveset deals a total of 59% damage (excluding M1s), making it one of the highest-damage base kits in the game.
+* Deteriorate covers a distance similar to a side dash.
+* If Radio Blast successfully hits, the opponent loses access to their moveset for 10 seconds.
+* Scatter has sufficient range to extend combos after Radio Blast if timed correctly.
+* Reflective Counter steals a move from the target character's moveset. If the countered attack is not a specific move (e.g., a front dash), a random move from that character is stolen.
+* Reflective Counter can counter both melee and ranged attacks.
+* Reflective Counter can counter all moves in the game except for other counter-type abilities (e.g., Indomitable Will), awakening activations, Tenth Torch, and Nuke.
+* Scatter can extend combos after Radio Blast and Reflective Counter.
+* Possesses the strongest single ultimate move in terms of potential damage (excluding The Strongest), requiring the user to hit all Quick Time Events (QTEs) and the target to miss all of theirs for a one-shot (110% max damage).
+* TRUE EVIL deals either 46% or 110% damage, depending on the success of QTE inputs by both the user and the target.
+* Vanquish has an AOE and can also be used in a combo, this makes it good for teamers due to being able to combo and also use an AOE to prevent being interrupted.
+* Decaying Counter can combo extend with Void Steps making it a very rewarding counter to land.
+* Killing certain opponents can be useful due to the Quirk Snatch passive.
+====Cons====
+* Cannot gain passive effects by defeating dummies or The Prototype boss.
+* Reliant on successfully executing a finisher on another player to activate the Quirk Snatch passive.
+* The follow-up hits of Void Steps are challenging to execute, requiring precise timing for a total of six inputs to achieve worthwhile damage, which can be difficult for mobile players.
+* The follow-up hits of Void Steps lack I-frames or hyper-armor even if the initial hit lands, making the move vulnerable to interruption in team fights.
+* Has only two low-damage True Combos in the base kit.
+* Moves are easily punishable if missed.
+* In exchange for its high potential damage, TRUE EVIL does not pause the ultimate bar's depletion during its animation.
+* Stealing Split Ice's Spear of Ice passive grants a shorter duration for the ice javelin buff.
+* Opponents can easily evade TRUE EVIL due to its slow walking startup, making it less effective unless the opponent's evasive is baited or they are caught off guard (e.g., after a downslam or against new players).
+* Heavily relies enemy to waste evasive to use to maximum effectiveness (Base & Ultimate)
+* Enemy players can evasive out of void steps to avoid the damage.
+* Radio Blast is one of the ultimate moves with the lowest amount of damage.
+* Radio Blast does not disable m1 attacks.
+* Combo extending off Radio Blast is very inconsistent.
+* All moves (especially Vanquish) have moderate to high amounts of endlag if missed.
+==Moveset==
+-|Base Moveset=
+Moves
+Damage
+Cooldown
+Info
+Hooked Decay (M1)
+1 hit: 4% Damage
+All hits: 16%
+0.5 seconds
+The user delivers three basic hook punches before kneeing them in the stomach and then striking the enemy with a decaying touch, knocking them away.
+Vanquish
+12.5%
+17 seconds
+The user of the "Decay" quirk quickly spin-ascends into the air, then lands, unleashing multiple decaying explosions around themselves that ragdoll opponents and slightly knock them away.
+----
+* Unblockable.
+* The finisher animation is particularly brutal.
+* Effective for baiting opponent reactions.
+* If the target lacks ragdoll cancel, a downslam can be landed safely.
+* On hit, the user can act freely during the explosions; otherwise, it is very punishable if missed.
+Deteriorate
+20 seconds
+The user rushes forward with their hand extended. If an enemy is hit, the user grabs them by the neck, continues moving forward, and slams them into the ground. The user then applies heavy force to pin the enemy before kicking them aside, causing them to roll away.
+----
+* Reduces subsequent M1 damage by 30% on successful hit.
+* Has a short windup and can be interrupted.
+* Extends combos effectively if followed by a correctly timed side-dash or frontal-dash.
+* Good for baiting opponent actions.
+* Finisher activates when the opponent is at 8-11% health.
+* An M1 can be landed immediately after the move ends for an inescapable follow-up (ping dependent).
+* (Console players): Temporarily disables lock-on when move connects until the move ends.
+Decaying Counter
+20%
+24 seconds
+The user assumes a hug-like stance, preparing to counter an incoming attack. If successful, the user dodges to the left while grabbing the attacker's arm, spins them around, and lands a two-hit strike, launching them a considerable distance with the final hit.
+----
+* The target receives a knockback short enough to leave them vulnerable to other moves minus M1's and/or Grab-type moves.
+** This knockback obviously serves as a combo-extender if you know what you're doing, however this is ping-dependent.
+* The highest damaging single attack in a base moveset in the game.
+Void Steps
+7% initial hit + ~1.5% per successful consecutive hit, capping at 19.6% damage
+18 sec
+The user lunges forward and side-kicks the opponent, launching them. The user can then press the skill key again within a specific timeframe (press it when the screen flashes) to teleport around the opponent and strike from their blind spots up to five times, keeping the victim stunned. The final hit is a kick that sends them far away.
+----
+* Long recovery time, making it easy to punish if the initial hit misses.
+* High total damage potential if all follow-up hits connect.
+* Narrow and short initial hitbox.
+* Cannot be directly extended into other moves.
+* Covers the distance of a frontal dash but has slower travel speed.
+* This move breaks block but can be cancelled by M1s before the full sequence.
+* Players can use their ragdoll cancel to escape after the initial hit.
+* Can hit grounded players.
+*Has a somewhat wonky hitbox
+-|Finishers=
+Moves
+Info
+Vanquish
+The user kicks the opponent into the air, grabs their arms and tears them off, then lands as the severed arms decay into nothing.
+-----
+*Execution threshold starts at 12% health.
+Deteriorate
+The user rushes at the enemy, slams them into the ground, and begins deteriorating their head, disfiguring their face. The user then places their foot on the enemy's face and crushes their head.
+-----
+*Execution threshold starts at 11% health.
+Decaying Counter
+The user slams the enemy to the ground and relentlessly punches them with both fists. Finally, the user delivers a powerful two-handed punch, leaving the enemy completely decayed.
+-----
+*Execution threshold starts at 21% health.
+Void Steps
+
+== FULL THROTTLE ==
+==Description==
+Full Throttle is the 10th character released in Heroes Battlegrounds (12th, including The Strongest and Huge Lady, who are PS+ characters), added on December 1st, 2024. This character is based on Tenya Ida from the series My Hero Academia.
+==Pros and Cons==
+===Pros ===
+* Recipro Assault can hit grounded players, allowing for maximum damage if the user is quick enough.
+* The variants of Recipro Assault stun opponents long enough for an uppercut follow-up.
+* Recipro Assault’s range allows the user to hit opponents even if they attempt to evasive with a side dash, due to the final kick in the dash portion (requires quick execution).
+* Sound Breaker (Air Variant) is an excellent combo extender.
+* Turbine Drive (Ground Variant) can be used as a combo starter or following the second or third gear of Recipro Assault.
+* The Air Variant of Turbine Drive resets the user's M1s and can function as an aerial combo extender (unblockable for the same reason as other M1 resets).
+* All variants of Recipro Assault propel the user further than most base moves in the game, making Full Throttle effective for travel and chasing down opponents, especially those with low health.
+* Despite their considerable startups, the first and second gears of Recipro Assault and Sound Breaker are quick once active, useful for catching opponents off guard.
+* The majority of moves can hit grounded opponents.
+* Despite its long startup, Jet Stream (Held Variant) allows the user to combo extend with Recipro Assault (Third Gear), Turbine Drive (Air Variant for M1s), or Sound Breaker (Air Variant).
+* Recipro Assault (Second and Third Gear) can also combo extend with I.W.O. interactions (particularly Tree, Trash Cans, and Pillars) when followed by a front dash.
+* Possesses high-damage combos, as all moves can chain into each other, and long ragdoll times facilitate linking certain moves.
+* Aerial combos consistently utilize Recipro Assault's Third Gear, allowing for safer, high-damage play.
+* Aerial combos, while having a longer setup time, are effective against teamers, as the user can float above them, making it difficult for other opponents to hit while dishing out damage.
+* Ground combos are also strong against teamers, as moves like Sound Breaker and Recipro Assault (First and Second Gear) deal significant AoE damage and can leave opponents vulnerable to air combos.
+====Cons====
+* The first and second gears of Recipro Assault have significant endlag (due to covering long distances quickly).
+* The first gear of Recipro Assault have a very strict hitbox, making it unreliable on neutral.
+* The Motor Combo passive only lasts for 25 seconds after defeating an opponent.
+* Sound Breaker is avoidable due to its long startup animation.
+* Jetstream (Held) have a significant endlag on top of being extremely predictable.
+* Most moves have extreme endlag if they miss.
+* Turbo Release is harder to hit due to its smaller hitbox unless the opponent's evasive has been baited.
+* If an opponent is familiar with Full Throttle's ultimate, Chronos can be easily dodged or interrupted.
+* Turbo Release Finisher does not pause the ultimate bar.
+* Chronos can be avoided by standing on environmental objects like rocks.
+* The Aerial Variant of Turbine Drive is somewhat buggy.
+== Moveset ==
+-|Base Moveset=
+Moves
+Damage
+Cooldown
+Information
+Recipro Kicks (M1)
+4% (per hit), 16% (full chain)
+~0.5 Sec
+Standard M1 combo, but with kicks instead of punches.
+Recipro Assault (First Gear)
+rowspan="3"|24 sec
+The user kicks the enemy into the air, then follows up with a downward slam, using the jets in their legs to propel themselves up and forward.
+----
+*Noticeable endlag if missed, with the character animation showing heavy breathing (applies to the Second Gear aswell).
+*Can hit ragdolled or grounded opponents.
+*Cannot hit opponents during the dash (Only during the startup and last kick).
+*Combo Starter/Extender.
+*(Console players): Turns off lock-on when charging and running. This applies to all variants.
+Recipro Assault (Second Gear)
+11%
+The user kicks the enemy into the air, slams them downwards, kicks them a few more times, then spins on their hands to deliver rapid kicks, using their leg jets for propulsion.
+----
+*To perform: Hold the move button until the second wind circle appears around the character.
+*Can hit ragdoll or grounded opponents.
+*Unlike the First Gear, this one can hit opponents during the dash.
+*Can be used after an M1 chain if the move is held immediately upon the 4th M1 hit to prevent side-dash escapes.
+*Can combo extend with I.W.O. interactions using a front dash.
+Recipro Assault (Third Gear)
+14%
+The user kicks the opponent, follows with a right leg strike, spins, and delivers another identical kick, repeating this twice. On the third repetition, the user feints the kick, instead kicking the opponent's stomach, then their head with the same leg, spins left, delivers a right leg strike, smashes the same leg into the opponent's face, and finishes with a left leg strike to the opponent's right side.
+-----
+* To perform: Hold the move button for the maximum charge duration.
+*If charged immediately after M1s, it can become a guaranteed hit.
+*Offers extreme mobility (approximately 10-13 tiles).
+*Can hit opponents during their wakeup invincibility.
+*The running phase does not hit grounded opponents. However, the last kick does.
+*With a front dash after the move, can combo extend with I.W.O.
+*Less endlag compared to the last two variants if missed.
+Turbine Drive (Distant)
+----Turbine Drive (Close)
+20 sec
+The user runs forward before initiating a slide. Upon reaching an enemy, they perform a quick leg sweep or a spinning kick if the user slides long enough.
+----
+*Blockable.
+*Does not hit an opponent until the user slides.
+*Wakes up ragdolled players.
+*Grants two extra M1 hits.
+*If using 4 M1s or an uppercut (not a downslam) and using this move immediately, turn your camera to the left or right side, and if the move lands, it resets your M1s instead of granting two extra M1 hits.
+*Has decent range (8-11 tiles).
+*The distant variant does not initiate a finisher when it hits an opponent.
+Turbine Drive (Air Variant)
+6% Damage
+20 Sec
+The user performs a kick that launches both themselves and the enemy into the air.
+----
+*Combo Extender.
+*Resets all M1s, but the final M1 behaves like Jet Stream's (Held Variant).
+*Similarly, using Recipro Assault will always execute its Third Gear Variant, regardless of charge time.
+*Can wake up ragdolled players.
+*Reduces subsequent M1 damage by half.
+Sound Breaker
+14%
+rowspan="2"|20 sec
+The user of the "Engine" quirk shoots forward, using their leg jets for propulsion towards the cursor, landing with a short skid. If an enemy is in the path, they are dropkicked and land in front of where the user stops.
+----
+* Combo Extender.
+* Can be interrupted during startup.
+* Long startup animation.
+* Has a deceptive lingering hitbox.
+* Has decent range (7-9 tiles)
+Sound Breaker (Air Variant)
+11%
+The user kicks the enemy in the head four times, each kick forcing both parties slightly higher, before ending with a final right kick to the head.
+----
+* Combo Extender.
+* Can be interrupted during startup.
+* If not near an opponent (around 2 tiles), the user lunges forward with the same length.
+* Originally named "Turbine Barrage."
+* Endlag on block & miss.
+Jet Stream
+6% (initial kick)
+7% (slam)
+13% (total)
+rowspan="2"|24 sec
+The user crouches, legs stretched behind, charging a powerful kick that strikes the opponent's chin, sending them flying. The user then uses this momentum to leap and instantaneously deliver an axe kick, slamming the opponent into the ground and creating a small crater.
+----
+* Moderately long startup.
+* After landing the slam, a follow-up move is possible if executed quickly.
+
+== WINGED ASSASSIN ==
+==Description==
+Winged Assassin is a new character released into Heroes Battlegrounds as an Early Access character, currently having four moves with each having a finisher and a passive that allows the user to fly, which alternates three out of the four moves currently. The user of the character gains a pair of wings (With them being automatically removed during combat for best gameplay, this can be changed in settings) and two feather blades, which can be colorized via VIP Gamepass (Only by Primary Color). The character is based on Keigo Takami, otherwise known as Hawks. This character is under development, and his base moveset is finished; his awakening and potential finishers for his Flight-variant moves are left to make.
+==Pros and Cons ==
+=== Pros ===
+* Flight allows you to fly high enough for other players to not be able to hit you normally.
+* Twin Talons can catch opponents off-guard, on top of the first hit being unblockable.
+* Can easily run away with the passive.
+* Plume's Flight Variant also travels a great distance if aimed slightly upwards.
+* Using Awakening will heal you to 100%, making it easier for your survival until it is added.
+* Easy to team with in "Air Combos" with Full Throttle users due to the Flight passive.
+* Easy to evade certain moves using flight, making it easier to heal during fights
+* Hitting someone with Aerial Twin Talons sends both of you and the opponent far away, perfect against teamers.
+* Most moves have at least 1 other variant, the only exception being Crimson Heaven
+* High combo potential
+* Not terrible for beginners to use, considering that most of the moves are easy to land and chain into combos. 
+* The character is the only moveset that can activate its passive without needing to land a finisher (although if you get the passive via landing a finisher, it lasts longer)
+* Plume has a decent range, despite the wind-up animation making it look like a close-range only move, making it very effective against new players and players that aren't used to fighting against Winged Assassin
+* The Wings can be hidden in combat, which can be done in the settings, making it easier to see during fights.
+=== Cons ===
+* No Awakening is built in yet, thus making Ult vs Base confrontations harder.
+* Wings cosmetic get in the way, forcing you to zoom out.
+* All moves (besides m1s) end flight.
+* Relatively low damage output compared to other movesets.
+* Landing Aerial Twin Talons and Plume after Crimson Heaven can be deemed challenging with high ping.
+* Twin Talons' Flight Variant, despite being the most damage out of the three variants, is slow and predictable.
+* The passive is required for most variants of moves, the only exception being Twin Talons' Aerial Variant
+==Movesets==
+-|Moveset=
+Moves
+Damage
+Cooldown
+Information
+Featherlike Swordsmanship (M1)
+16% in total
+~0.5 sec
+The user swings their feather blades at the opponent left and right, before thrusting them forward and ending with swinging each feather blade side-to-side, slashing the opponent away.
+Twin Talon
+14% Total
+----
+*2% Initial Burst
+*12% Follow-up Strikes
+rowspan="2"|~25 sec
+The user roars, making a red visible shockwave and wings projection around them before lunging forward and swinging their feather blades. Upon hit, the opponent is knocked away as the user crouches behind them, blitzing at the opponent as they assault them with feather blades, whereupon spinning in the air and thrusting the blades into the opponent from above, making both the user and the opponent land on the ground and make a big crater upon impact.
+----
+* The initial burst is unblockable, the following dash itself is blockable.
+* The burst rolls back opponents on a successful hit.
+* Grants I-frames after a successful grab.
+* The AOE slam is unblockable and ragdolls opponents away
+* Can pick up grounded opponents.
+* Moderate Endlag if missed.
+Twin Talons (Aerial)
+----
+Ditto, but in the air.
+Instead of blitzing and mauling the opponent, the user pierces their feathered blade into the victim's torso as they fly both in the air for short time before the user twirls and slams the opponent down with both of their blades.
+----
+* Grants I-frames on successful hit.
+* Aiming with the camera can change the direction, including upwards.
+* Opponents stay in ragdoll slightly longer than the ground variant.
+Scarlet Dance
+10.4% Total
+----
+*1.5% Each inital hit.
+*up to ~4.9% Cyclone of slashes, depending on how long the enemy is in the cyclone.
+*2.5% Follow-up Strike.
+~25 sec
+The user performs two diagonal slashes in which they would unleash a cyclone of slashes in the direction they were facing. Afterwards, the user lunges towards them as a final hit, causing them to roll to their direction.
+----
+* The first slash is blockable, but the second slash is unblockable.
+* The cyclone is blockable.
+* Extender, but leaves you with only 2 m1s.
+* Whiffing the initial slashes does not initiate the follow-up strike, but the cyclone slightly deals more damage.
+* The second initial slash and cyclone pick up grounded opponents.
+* The cyclone always flings the opponents towards the user.
+Crimson Heaven
+7.9% Total
+~32 sec
+The user winds up for a diagonal slash before charging up another that launches the opponent with a flurry of slashes, leaving them stationary in the air as a barrage of feathers hits them before they fall.
+----
+* Unblockable.
+* Opponents are left stuck in the air for a moment before ragdolling.
+* Therefore, a perfect setup for aerial Twin Talons or Plume.
+* Opponents will always ragdoll in the direction the user's camera is currently facing.
+Plume
+10.6% Total
+~30 sec
+The user winds up as they spin above the ground before throwing one of their feathers towards their general direction. As the feather lands on an opponent, the user immediately teleports behind them, launches them into the air, and then performs a spinning slash before ending with a slam.
+----
+* Blockable, becomes unblockable if it lands from 2 tiles away.
+* Ignores wake-up invincibility.
+* Has an amazing range, being 16-17 tiles.
+* Can be aimed vertically by jumping beforehand.
+** Can hit grounded opponents by aiming directly onto them.
+* Moderate endlag if missed.
+* Can catch opponents during or after Crimson Heaven.
+-|Moveset (Flight)=
+Moves
+Damage
+Cooldown
+Information
+Twin Talons
+15%
+25 sec
+The user soars in the air, before thrusting downward with their feather blades and making a small crater.
+----
+* Unblockable.
+* Has a slow wind-up.
+* Shares the same ragdoll duration as Aerial Twin Talons.
+Scarlet Dance
+8% Total
+25 sec
+The user launches a barrage of feathers into the direction they looking at.
+----
+* Blockable.
+* If used close enough to the opponent, it serves as a starter/ex.
+* Little to no endlag.
+Crimson Heaven
+TBA
+TBA
+Isn't in the game yet.
+Plume
+
+== HUMAN ARCHITECT ==
+==Description==
+Human Architect is the twelfth character released in Heroes Battlegrounds, based on the antagonist Kai Chisaki (Overhaul) from My Hero Academia.
+His core gimmick is a highly adaptive and versatile moveset centered around the Conjure ability. Using other base moves (Renovation, Dirty Work, Stone Weaponry) before Conjure changes its properties, offering different offensive and combo-extending options. This rewards strategic sequencing of abilities. Furthermore, Human Architect possesses a unique, multi-stage awakening. The first stage, Flesh Chimera, enhances his abilities. By meeting specific conditions within this form, the user can then activate Final Fusion, a second awakening that temporarily transforms them into a giant, Kaiju-like monster with immense power, before transitioning into a final, powered-up humanoid form with a devastating new moveset.
+==Pros and Cons==
+===Pros ===
+* Offer an excellent combo potential, with most moves flowing seamlessly into one another, especially with the different variants of Conjure.
+* Renovation disables a random move from the opponent's own moveset, creating a significant disadvantage for them in the battle.
+* The pillar created by Dirty Work can be used for an I.W.O. interaction.
+* Dirty Works endlag can be oddly deceptive, allowing for an easy block if the opponent punishes slightly late.
+* Conjure (after Renovation) is an easy follow-up to the said move.
+* Conjure (after Dirty Work) has one of the highest finisher execution thresholds for a base move, finishing at 20% health.
+* Using Conjure after Stone Weaponry offers a seamless and deadly combo.
+* Calamity has a fast startup, and can be followed up with Creation Field seamlessly.
+* During the Kaiju form (achieved via Final Fusion), the user is seemingly invulnerable to most attacks, with Split Ice's Blazing Soul and Decaying Hatred's Reflective Counter being an exception. This, along with the powerful moves in the final awakened state, makes the character's ultimate state exceptionally strong.
+* Doubtlessly, Kaiju form is the character against teamers, since use of Final Fusion, and then CREATE, can provide invulnerability (if not counting moves that make you attack unwillingly, e.g. BUTCHER) for a really long time.
+* The Kaiju form lasts an entire ultimate, which means that if someone uses ultimate while you use Final Fusion, by the time it finishes, their ultimate will have likely run out.
+* BUTCHER (Aerial Variant) can be used to catch an opponent from a distance.
+* RUPTURE covers a massive amount of range in front of the user.
+===Cons ===
+* His base moveset possesses below-average damage by itself, relying more on creative combos to deal maximum damage.
+* Stone Weaponry has a very low finisher execution threshold (8%).
+* Conjure (Neutral Variant) has extreme endlag if it is blocked or misses.
+* The landing shockwave from Dirty Work can sometimes be easily countered by parry moves.
+* The pillar created by Dirty Work deals reduced damage as an I.W.O. compared to standard map pillars.
+* Disfigurations finisher does not pause the ultimate bar, potentially wasting time for the activation of Final Fusion.
+* Activating the Kaiju form requires meeting two conditions: filling the DEATH gauge (a secondary ultimate meter) and then landing a finisher on another player, which can be difficult to set up. Using a Weakest Dummy may not grant the necessary finisher credit.
+==Movesets==
+-|Moveset=
+Moves
+Damage
+Cooldown
+Information
+Roundhouse Spikes (M1)
+16% total
+~0.5 sec
+The user punches with their right fist, knees the opponent's stomach, follows with a roundhouse kick, and concludes by summoning ground spikes that launch the opponent.
+Renovation
+11%
+20 seconds
+The user punches their opponent in the gut, spins, kicks them from behind, then shoots them in the back of the neck with a Quirk-disabling pistol.
+----
+* Disables a random move on cooldown from the victim, similar to Radio Blast.
+* Has endlag if blocked or missed. 
+Dirty Work
+11%
+19 seconds
+The user of the "Overhaul" quirk summons a rock pillar from the ground, then after a delay, jumps off it and smashes their fist into the ground, knocking nearby opponents off their feet.
+----
+* The rock pillar can remain on the map temporarily and be used for I.W.O. interactions.
+* Small endlag.
+Stone Weaponry
+27 seconds
+The user stomps to forge a stone dagger, lunges forward with a downward slice, then an upward stab that launches the opponent. The user then reforges the dagger into a stone hammer and spins to smash the opponent's skull, knocking them away.
+----
+* Landing this move decreases subsequent M1 damage by 60%.
+* Can be used to position opponents near the pillar created by Dirty Work.
+* Can hit grounded opponents.
+* Blockable, and has endlag if missed.
+Conjure (Neutral)
+14%
+20 seconds
+The user raises their hand, causing a large wave of spikes to erupt from the ground, knocking nearby players away.
+----
+* Blockable.
+* This base variant has severe endlag if it misses or is blocked.
+* All variants can function as combo-extenders, except for the variant used after Dirty Work.
+Conjure (After Renovation)
+14%
+20 seconds
+The user punches the ground, causing three long spikes to erupt from it, sending nearby players flying upwards.
+----
+* Unblockable.
+* Minor endlag.
+Conjure (After Dirty Work)
+14%
+20 seconds
+The user conjures and throws five stone javelins at their opponent, knocking them back. The user then runs up, pulls one of the javelins from the opponent's body (knocking them away again), and throws the spear back, piercing them as they fall.
+----
+* Unblockable.
+Conjure (After Stone Weaponry)
+16%
+20 seconds
+After smashing their opponent with the stone hammer, the user stomps to lift a chunk of ground, forges it into the stone hammer, and swings it twice at the opponent. They then reforge it into a stone dagger, stab the opponent, and kick them to the ground.
+----
+*Blockable, but the final hammer swing breaks block.
+*This is the only variant that does NOT hit grounded or ragdolled opponents.
+*Stuns immediately on usage.
+-|Finishers=
+Moves
+Information
+Renovation
+The user's punch knocks the opponent away. The opponent attempts to retaliate, but the user dodges and strikes with a swift palm swing, triggering their Quirk and causing the opponent's top half to burst from the inside.
+----
+*Execution threshold starts below 14% health.
+Dirty Work
+As the opponent is launched upwards from the user's landing, they are impaled from behind by a spike. The user then pummels them, attracting rubble to their body, encasing them in a rock.
+----
+*Execution threshold starts below 13% health.
+----
+Yo, Angelo!
+Stone Weaponry
+The opponent rolls backwards following the user's dagger strike, they then swiftly get on their feet, conffused, before the user suddenly appears behind them, their eye flashing yellow. The user touches the opponent's head, causing it to explode, then simply brushes the blood off their arm.
+----
+*Execution threshold starts below 8% health.
+Conjure (Neutral)
+When the opponent is sent flying, a long spike erupts and impales them, which then retracts into the ground. As the user approaches, their fist is coated with purple and yellow energy. The user touches the opponent's face, causing each of their limbs to disassemble.
+----
+*Execution threshold starts below 13% health.
+Conjure (After Renovation)
+After the spikes erupt, the user catches their opponent by the leg, smashes them into the ground and pulls out their pistol to shoot them to death.
+----
+*Execution threshold starts below 13% health.
+Conjure (After Dirty Work)
+As the opponent is knocked away by the spear throw, the user runs up, hauls them over their head and tosses them outward.
+----
+*Execution threshold starts below 23% health.
+Conjure (After Stone Weaponry)
+After swinging the stone hammer twice, the user forges a dagger, stabs the opponent violently as they falls to their knees. The user then activates their Quirk, tears off the opponent's arms, uses them to forge stone daggers and then beheads their opponent with them.
+----
+*Execution threshold starts below 23% health.
+
+== THE STRONGEST ==
+Category:Characters
+|image1=
+Strong.webp|Icon
+GojoTSbase.png|Base
+TheHonoredOne.png|Awakening
+awakening_name=Awakening|cost=499 Robux (Private Server +)
+Free (If obtained via The Strongest NPC)|NameOfCharacter=The Strongest|caption-image1=The Honored One}}
+==Description==
+The Strongest is a special character in Heroes Battlegrounds based on the immensely powerful sorcerer Satoru Gojo from the series Jujutsu Kaisen. True to his inspiration, this character possesses overwhelmingly potent abilities, focusing on high burst damage, unique defensive capabilities and devastating area-of-effect attacks in his awakened state.
+== Ways to Obtain ==
+There are two methods to obtain The Strongest:
+1. The Strongest NPC (Daily Chance): Players can interact with the Gojo NPC once every 24 hours.
+* If the NPC responds with "Better luck in 24 hours," the player did not receive the character and must try again the next day.
+* If the NPC says "YES YES YOU ARE... at least for 24 hours", the player has successfully unlocked the character for a temporary 24-hour period, usable in both public and private servers. The chance of obtaining the character this way is extremely low (approximately 1 in 1,350,000, or 0.000074%).
+2. Private Server Plus Gamepass: Purchasing the Private Server Plus gamepass for 499 Robux grants permanent access to The Strongest, but only within the owner's private server.
+== Keep in Mind ==
+* If obtained via the NPC, your character will be switched back to Green Hero (or your default character) if you are playing on a public server when the 24-hour duration expires, and you cannot switch back without obtaining it again.
+* If The Prototype boss spawns while you are playing as The Strongest, your character will be automatically switched to Green Hero.
+==Pros and Cons==
+===Pros===
+* All moves deal exceptionally high, often one-shot, damage.
+* M1 attacks (The Strongest Punches) are incredibly powerful, capable of defeating opponents in a single combo.
+* Infinity provides a near-permanent counter, reflecting most incoming damage back to the attacker.
+* Possesses a couple of strong mobility options, especially Blue (if missed).
+* Ultimate moves (Purple, Red, Decapitate) are devastating and can eliminate multiple opponents in a single blow.
+* Unlimited Void offers powerful crowd control by immobilizing enemies caught in its activation.
+* Most moves gains massive amounts of ult if used on people/dummies.
+===Cons===
+* Extremely low chance of obtaining from the NPC, making it highly inaccessible for most players through that method.
+* Permanent access via gamepass is restricted to private servers only.
+* Infinity can be bypassed by specific counter moves (e.g., Hero Slayer's Crimson Parry).
+* Forced character switch if The Prototype spawns.
+* If obtained via NPC, access is temporary (24 hours).
+== Movesets ==
+-|Base Moveset=
+Moves
+Damage
+Cooldown
+Information
+The Strongest Punches (M1)
+65% (full chain)
+2 seconds
+The user performs a combo with white visual effects, launching the opponent far away on the last hit. Each hit feels significantly more impactful than other characters' M1s and deals substantial damage.
+LandedBlueMissed
+100% (instant kill)
+3 seconds
+The user of the "Limitless" cursed technique pulls the opponent to their hand and instantly vaporizes them with blue energy effects.
+----
+*If missed, the user teleports in the direction they are facing, providing excellent mobility.
+Infinity
+Equal to the damage of the reflected move (does not work on some counters)
+3 seconds
+The user activates 'Infinity', creating a barrier that essentially functions as a permanent counter, reverting most incoming damage back to the attacker.
+----
+*Hero Slayer's Crimson Parry can bypass Infinity.
+*Infinity can reflect Explosion Hero's Exploding Star, though the cutscene for Exploding Star will still play for its user.
+Slap
+72%
+6 seconds
+The user strikes with their elbow, launching the opponent back, then teleports and performs a downslam.
+Combo
+84%
+6 seconds
+The user unleashes a devastating barrage of punches at incomprehensible speed, ending by striking the enemy back, causing them to roll away.
+----
+*Cannot hit a downed/ragdolled player.
+-|Awakening=
+Moves
+Damage
+Cooldown
+Information
+Awakening
+N/A
+N/A
+The user falls to the ground, then stands and begins to float upwards with limbs hanging loosely, before eventually landing back down, awakened and ready to unleash their strongest techniques.
+Purple
+100% (instant kill AoE)
+OTU (One Time Use - Loses ultimate immediately after use)
+The user of the "Limitless" cursed technique combines the properties of 'Red' and 'Blue' to form a giant purple sphere of energy that evaporates everything in its path. Best used to target multiple opponents.
+Unlimited Void
+0.8% (initial hit, then passive DoT within domain if applicable)
+~30 seconds
+The user makes a hand sign, one of their eyes flashes blue, and creates a small dome representing their Domain Expansion, Unlimited Void. Players caught in the domain's activation are immobilized.
+Red
+100% (instant kill AoE)
+3 seconds
+The user extends their arm to the side, forming a red ball of cursed energy at their fingertips, then points their arm forward and shoots it out, causing a large red explosion.
+Decapitate
+100% (instant kill)
+12 seconds
+The user teleports behind a nearby target and instantly rips their head off, decapitating them. This move has a limited effective range.
+== Trivia ==
+* The Strongest is widely considered the most overpowered character currently in the game due to his exceptionally high damage output and unique defensive capabilities.
+* He is statistically the hardest character to unlock via the NPC method, with an approximate 1 in 1,350,000 chance (or 0.000074%).
+* The Infinity move can reflect almost every attack back at the person who used it, including most cutscene-based moves, causing the attacker to damage themselves or get caught in their own animations. However, it is not infallible and can be bypassed by certain specific counter-type moves like Hero Slayer's Crimson Parry.
+* This character is directly based on Satoru Gojo from the popular anime and manga series Jujutsu Kaisen.
+* The Awakening (ultimate activation) for The Strongest is one of three ultimates in the game that does not deal damage to other players upon activation, the others being Green Hero's Maximum Overdrive and Warp Portal's Quantum Jump.
+* The character model and some animations were reportedly created from previously unused assets.
+* As of current community tracking, only a very small number of players (reportedly around 30) have ever successfully obtained The Strongest through the NPC interaction.
+Characters
+Category:Special Characters
+Category:Private Server+ Characters
+
+== HUGE LADY ==
+== Description ==
+Huge Lady is a character in Heroes Battlegrounds based on the Pro Hero Mt. Lady (Yu Takeyama) from My Hero Academia. This character is exclusive to Private Servers that have the Private Server+ (PS+) gamepass active.
+Huge Lady's core gimmick revolves around her ability to drastically increase her size using her "Gigantification" quirk. Starting at a normal size, the user can activate Transform to grow larger, unlocking new moves and altering existing ones. The move Growing By The Day allows for continuous size increase with no apparent limit, significantly boosting the damage and AoE of her attacks, particularly Stomp and her M1s, at the cost of attack speed and mobility. Her ultimate, Rumbling, unleashes a devastating, map-wide attack.
+== Pros and Cons ==
+====Pros:====
+* Deals immense damage, especially at larger sizes.
+* M1 damage can be enhanced with Growing by the Day to the point where they can one-shot opponents.
+* The damage and range of Stomp increase significantly as the user grows larger.
+====Cons:====
+* Exclusive to Private Servers with the PS+ gamepass.
+* The Rumbling ultimate can be dodged by constantly moving and waiting out its duration.
+* If The Prototype boss spawns while Huge Lady is active, the user will be forcibly transformed into either Green Hero or Mastered Green Hero
+* Almost no traditional combo potential; the primary "combo" is a simple M1 chain into Stomp.
+* The Rumbling ultimate may cause the user to experience glitches or become stuck.
+* Possesses only one primary damaging move (Stomp) outside of M1s in her transformed state.
+* The forward dash does not have an attack/punch component.
+* Mobility is severely limited while transformed, as standard front, side, and back dashes have no effect or are significantly hindered.
+==Moveset==
+Moves
+Damage
+Cooldown
+Information
+Giant Punches (M1)
+Base: 23% (full chain)
+2-3 seconds
+Standard punches. The fourth M1 hit creates a small shockwave dealing an additional 4% damage.
+Seismic Smash (Transformed M1)
+10% per hit (scales with size)
+TBA (Attack speed decreases with size)
+A slow, powerful punch to the floor that creates huge cracks in the ground. Damage and AoE increase with size. (Only available after using Transform)
+Transform
+4 sec
+The user of the "Gigantification" quirk bites their arm and grows significantly larger, unlocking the Stomp and Growing By The Day abilities, and changing M1s to Seismic Smash.
+-----
+*Cannot revert to normal size unless the user resets their character.
+Stomp
+Base: 23% (scales with size)
+5 sec
+The user stomps their foot on the ground, creating cracks similar to those from Seismic Smash. Damage and AoE increase with size. (Only available after using Transform)
+Growing By The Day
+7 sec
+The user grows even larger after a golden flash engulfs the screen. This increases the size, AoE, and damage of Seismic Smash (M1s) and Stomp. There is no known limit to the size increase. M1 attack speed decreases as size increases. (Only available after using Transform)
+Rumbling (Ultimate)
+One-shot kill
+N/A (Ultimate Charge)
+Numerous "Weakest Dummies" (with old Roblox logo faces) spawn and slowly converge towards the center of the arena. Any player touched by a dummy is instantly defeated. The user of this move is unaffected.
+-----
+*Known ways to avoid this include using flight commands (if available) or abilities that provide extended invulnerability or out-of-bounds states. Other methods may exist.
+==Trivia/Notes==
+* The ultimate ability, Rumbling, and the Transform move (specifically the act of biting the arm to transform) are visual and thematic references to the popular anime and manga series Attack on Titan, particularly the Titan transformation process and the "Rumbling" event.
+* This character requires the Private Server Plus (PS+) gamepass to be unlocked and can only be used within private servers where this gamepass is active.
+* When transformed, Huge Lady's movement speed is significantly reduced, and standard dash mechanics are disabled or ineffective, emphasizing her colossal but cumbersome nature.
+* Although this character is meant to be based off of Mt. Lady, the moveset itself seems to be based off of the Titans in the series Attack on Titan, specifically Eren Jaeger.
+Characters
+Category:Characters
+Category:Special Characters
+Category:Private Server+ Characters
+
+== DULLAHAN ==
+, the Pumpkin King, for rewards!|In-game system message when USERNAME collects all four pieces.}}
+Category:Characters
+{{Character heros|Dullahan=DullahanDullahan|image1=
+DullahanFigure.png|Base
+DullahanInTheMoonlight.png|Awakening
+awakening_name=Moonlight|cost=Collect The Pieces of Him|caption-image1=|NameOfCharacter=Dullahan|Archetype=Playable Boss}}
+==Description==
+Dullahan, also known as Pumpkin King, was a Halloween 2025 Boss in Heroes Battlegrounds a player can play the game with upon a certain condition.
+To become Dullahan, you need to wait for the Pumpkin Moon to rise (Every 75 Minutes in Public Servers), which is seen by skybox turning orange. After it does, you need to collect four pieces of him: his armor, his head, his greatsword and his horse.
+Once Dullahan dies, the system will note: "Dullahan's ghost rests... USERNAME, the Pumpkin King, has died! They managed to gather (Kills during Dullahan) Souls!"
+== Pros and Cons==
+=== Pros ===
+* All of Dullahan's moves are uninterruptable when start-up is not interrupted.
+* False Sun has auto aim and deals a lot of damage.
+* The minions from using the Rise of Pumpkins can interrupt other players attempts to attack you.
+=== Cons ===
+* Lack of i-Frames after move end leaves Dullahan vulnerable.
+* Some moves are punishable after they end.
+==Movesets==
+-|Base Moveset=
+Attack
+Damage
+Cooldown
+Info
+Harrowing Tearing (M1)
+20%
+~0.5 seconds
+Dullahan swings upward, then horizontally to the left before thrusting his sword into the ground and ending with spinning and swinging his sword diagonally.
+Rise of Pumpkins
+34,1%
+45 seconds
+Dullahan plunges his sword into the ground, flaming it until he pulls it out, creating a orange/blue explosion that sends bystanders flying and summons two pumpkin clones to aid him.
+Soul Harvest
+15% (First Slash)
+----
+25% (Second Slash w/o Burn)
+45 seconds
+Dullahan surrounds themselves with flames in start-up before swinging their sword to the left. Once hit, Dullahan raises their sword, collecting the souls and finishing off with a demolishing spin with their sword.
+----
+* Can serve as a combo-extender if missing second slash on purpose
+Ghost Rider
+12,7% (Per Swing)
+----
+43,6% (Final Land)
+60 seconds
+Dullahan's horse appears and roars as Dullahan rides it. Upon repeatedly using Ghost Rider, Dullahan will swing his sword left and right, flinging outward those who have been caught in. Upon the move ending, Dullahan's horse roars as Dullahan himself soars high in the air, landing down with plunging his sword into the ground, making a orange/blue explosion that sends enemies flying away.
+----
+* Dullahan's horse's first roar knocks nearby enemies away, yet which deals zero damage.
+False Sun
+21% (Per Pumpkin)
+40 seconds
+Dullahan raises his head as his eyes glow orange/blue, projecting flame pumpkins that auto-aim on nearby opponents and explode on contact as long as Dullahan user holds the move. If used one-tap, Dullahan's head's eyes will simply glow and nothing will happen.
+----
+* Inflicts Burn on contact
+-|Moonlight=
+Attack
+Damage
+Cooldown
+Info
+Moonlight
+N/A
+N/A
+Dullahan raises his sword skyward as he forms a miniature projection of moon, making it descend upon him and grant him a newfound look - changing his armor and sword color, as well as making his sword scorch.
+----
+* Dullahan's moves does not change, but only their effect color - from orange to blue. Activating it resets moves cooldown, and False Sun will spawn more pumpkins.
+Lunar Blaze (M1s)
+32%
+~0.5 seconds
+Dullahan performs the same M1 Chain as before, but with a icy white flaming sword.
+----
+* M1 Chain now inflicts Burn
+==Trivia/Notes==
+* If you try to perform an emote with Dullahan used, a notification will pop up and note: "Sorry, you cannot emote as Dullahan. Sorry, too many bugs."
+* When gaining a 10 Killstreak on Dullahan, you get a special emote called Horseman's Call.
+* Dullahan's moves can be customized via VIP Effect Color.
+* The minions uses Winged Assassin's M1 sound effect when they attack the player.
+* False Sun may be a reference to Demon Slayer, as Hinokami Kagura is known as the False Sun by the fanbase. It also may be a reference to False Rainbow.
+** For some, False Sun might refer to Cruel Sun.
+* This character was removed after the Christmas update, due to being Halloween-exclusive.
+** Could be brought back in the 2026 Halloween event.
+* Dullahan has much more Health Points than The Prototype, according to the first surviving NUKE without critical health drop.
+** Theoretically, Dullahan's Health Points might be '1,000'.
+* The best character to use in order to find the pieces to access this character may be Mastered Green Hero due to its awakening, as its move can dash you forward at accelerating speeds. 
+** Much better alternative is Full Throttle, due to the later having the moves that push player into a set direction both in base and awakening.
+* Soul Harvest can drain a small portion of the target's ultimate meter, both if the target is in ultimate mode or not.
+Characters
+Category:Books
+Category:Special Characters
+
+== MECHANICS ==
+MASTERY: == Mastered Movesets ==
+Mastery is required to unlock new movesets for Green Hero, Mastered Hero Slayer, Mastered Azure Flames and Mastered Split Ice. To unlock a mastered moveset you must obtain 100% mastery on the base variant of the move set. Mastering a character will grant a Badge corresponding to the character. 
+
+== Progress ==
+You can see your mastery progress by clicking the mastery button on the top left of your screen. There are currently 3 ways of getting mastery:
+
+* Quest UI: The Que
+RANKED: Ranked is a competitive Gamemode in Heroes Battlegrounds that allows you to fight players at a similar skill level as you. To join ranked, click the crossing swords icon on the top left of your screen. When joining, you will be teleported to the ranked lobby. When joining the lobby, there will be two matchmaking boxes to choose from; the 1v1 box or 2v2 box.
+
+==1v1==
+On the 1v1 platform of the ranked lobby, you get matched against whichever person is also standing on the platform that has a ranke
+IWO: Interaction With Objects (I.W.O.) is a game mechanic in Heroes Battlegrounds!
+
+You are able to interact with objects if there are any enemies nearby. You can interact with objects such as the trash cans, trees, pillars and so on.
+
+-|General=
+Objects
+Damage
+Information
+
+Tree'Hero Slayer Version
+8% (or 20% on 4th M1)
+The user punches the enemy in the stomach then takes them by their head smashing them into the tree.
+----
+If the user's M1 count is four, they hold an enemy then they smash said enemy
+DASH: ==Overview==
+Dash is an extra ability that aims for great mobility while also having it's own variants. By pressing Q, you can activate the ability, which will propel your avatar forward normally, though depending on if you are using any other keys while dashing, it will replace the forward dash with anything else. When your avatar reaches any subject (Player, Weakest Dummy, Leaderboard #1-3 Avata
+ULTIMATE/AWAKENING: ==Ultimate Bar==
+Whenever you deal damage to someone (Player, Weakest Dummy, Leaderboard #1-3 Avatars), you gain charge in your Ultimate Bar, and when it's filled to 100%, you can activate your Ultimate Mode by pressing G on keyboard, D-Pad up on controller or tapping the Ultimate Bar itself on mobile. When switching characters, the Ultimate Bar will be depleted by 1/4, and switching constantly can bring it to complete zero.
+
+Upon entering Ultimate Mode, a cutscene will play (for most characters) on your character along with exclusive music attached to it, with some cutscenes dealing damage to players in the surrounding area. After the cutscene ends, you gain access to your destructively powerful Ultimate Moves. Each character has different Ultimate Moves, devastating attacks that can turn
+
+== COMBOS (KEY INFO) ==
+==Green Hero==
+ Green Hero 
+----
+
+----
+
+-|mono_gramm (The1S0ver31gnty)=
+* mono_gramm's Combo: Forward Dash + 3 M1's + Uppercut + Focus Shot (Aerial) + Ragdolled M1's + Uppercut + Hyper (Aerial) + Ragdolled M1's + Uppercut + Blitz + 1 M1 + Uppercut + Overkick // 66% DMG
+
+-|Derribo de bosques=
+* SonicQue's Combo/Derribo de bosques: 3 M1s + Downslam + Blitz + 3 M1's (Shove)After using Blitz, the previous final blow of Blitz counts as the first M1 in a chain. Finish it off with three more. + Overkick (maneuver behind them) + Front Dash + 3 M1s + Downslam + Immediate Sidedash + Front Dash + Hyper (Aerial Variant)If you want me to explain a bit further why you have to perform the aerial variant of Hyper after the aerial variant of Focus Shot, I have no reason other than while playing ingame, (new player), I found that works really well for me. (Focus Shot AL-V transitions smoothly into Hyper AL-V...) You don't actually need to spam, but for people who are just that bad at timing. + Spam Hyper, (while midair to perform air variant) + 3 M1s + Downslam + Slow frontal dashDunno what you call the purposefully self-lag frontal dash. + Ragdoll + Sidedash (Immediate) + 3 M1s + Downslam //96-98%//
+
+===Reference notes===
+
+-|canadiankitsune=
+* canadiankitsune's Combo: Dash Punch + 4 M1's + Aerial Slam + Focus Shot (Aerial Variant) + 1 M1 (Midair as soon as possible) + Hyper (Aerial Variant) (Cancels the M1 animation) + 2 M1's + Uppercut + Jump + Blitz + 1 M1 + Side Dash + Front Dash + 4 M1's + Aerial Slam + Overkick // ONE SHOT
+-|Combo Slot 4=
+
+-|Combo Slot 5=
+
+----
+
+==Mastered Green Hero==
+ Mastered Green Hero 
+----
+
+----
+
+-|mono_gramm (The1S0ver31gnty)=
+* mono_gramm's Combo: Forward Dash + Slow 3 M1's + Uppercut + Timed Quintuple Smash + Forward Dash + 3 M1's + Uppercut + Shadow Whip + Ragdolled M1's + Immediate Downslam + Aerial Downslam + Electric Smash + Vicious Grab (Aerial) // 88% DMG
+
+-|544 (RegularCivillion)=
+* The "Regular" combo: Forward Dash + 3 fast M1's + Downslam + Vicious Grab (Aerial) + Front dash + 4 M1's + Shadow Whip + Side Dash and walk towards the opponent a little bit + Aerial Downslam + Electric Smash // 69% DMG
+-|canadiankitsune=
+* canadiankitsune's Combo: Dash Punch + 1 M1 + Jump + Look up + 1 M1 + Vicious Grab (AERIAL) + 2 M1s + Jump + Electric Smash + Shadow Whip + Aerial Slam + Quintuple Smash + Dash Punch + 4 M1's + Jump + 1 M1 (On Ragdoll) + Vicious Grab (AERIAL) + 2 M1s (On Ragdoll) + Uppercut + Aerial Slam + Electric Smash // ONE SHOT 
+
+ALTERNATE (Due to Shadow Whip currently having bugged knockback making it unable to extend consistently): Dash Punch + 1 M1/Jump/Look Up + 1 M1 + Vicious Grab // AERIAL + 2 M1's + Aerial Slam + Quintuple Smash + Dash Punch + 3 M1's/Jump + Electric Smash + Downslam + Jump/1 M1/Vicious Grab // AERIAL + 2 M1's + Ragdolled Uppercut + Aerial Slam + Shadow Whip // GROUNDED VAR. + Dash Punch // 110% DMG
+-|SomthinAsh9 (LimitlessGamble)= 
+* SomthinAsh9's combo: Forward dash + 3 M1s + Downslam + Quintuple Sm

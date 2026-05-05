@@ -1,0 +1,1806 @@
+{
+  "Green Hero": {
+    "based_on": "Izuku Midoriya (Deku)",
+    "cost": "Free",
+    "awakening": "Maximum Overdrive",
+    "moves": [
+      {
+        "name": "Hyper (Air Variant)",
+        "damage": "* ', offers excellent mobility options with OVERCHARGE (9 tiles), Cosmic Smash (",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "1,000,000%",
+        "damage": "* 1,000,000% lacks invincibility frames (I-frames) during its startup, meaning t",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Valor Breakers (M1)",
+        "damage": "|1 hit: 4% Damage",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Hyper",
+        "damage": "|15%",
+        "cooldown": "17s",
+        "info": ""
+      },
+      {
+        "name": "Hyper (Air)",
+        "damage": "|6.4%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Overkick",
+        "damage": "|12%",
+        "cooldown": "17s",
+        "info": ""
+      },
+      {
+        "name": "Focus Shot",
+        "damage": "|6% (Initial)",
+        "cooldown": "16s",
+        "info": ""
+      },
+      {
+        "name": "Focus Shot (Air)",
+        "damage": "|6% (Initial)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Blitz",
+        "damage": "|9%",
+        "cooldown": "29s",
+        "info": ""
+      },
+      {
+        "name": "Hyper",
+        "damage": "*Execution threshold starts below 13% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Hyper Air Variant",
+        "damage": "*Execution threshold starts below 6% health (increases based on height).",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Overkick",
+        "damage": "*Execution threshold starts below 10% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Focus Shot",
+        "damage": "*Execution threshold starts below 14% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Focus Shot Air Variant",
+        "damage": "*Execution threshold starts below 14% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Blitz",
+        "damage": "*Execution threshold starts below 12% health.",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Can deal somewhat high damage.",
+      "The Ultimate ability can inflict significant damage against both passive and aggressive playstyles.",
+      "Players have ample time to execute combos on grounded opponents.",
+      "Hyper grants hyper armor during its animation.",
+      "Several moves can extend combos: Hyper (Air Variant), Focus Shot (Air Variant), and Blitz.",
+      "Hyper (Air Variant) deals increased damage based on the user's height.",
+      "', offers excellent mobility options with OVERCHARGE (9 tiles), Cosmic Smash (12 tiles), and 1,000,000% (37 tiles).",
+      "Following the Overkick rework, all base moves became unblockable."
+    ],
+    "cons": [
+      "'s Awakening, , is predictable and easily countered by experienced opponents.",
+      "Hyper and Overkick have telegraphed startups, making them easy to predict and counter.",
+      "The reworked Overkick animation is highly predictable.",
+      "1,000,000% lacks invincibility frames (I-frames) during its startup, meaning the user can be interrupted, cancelling the",
+      "Cosmic Smash is punishable if blocked.",
+      "OVERCHARGE is difficult to aim accurately, cannot hit grounded opponents and is vulnerable to interruption during its st",
+      "OVERCHARGE also has an unreliable hitbox.",
+      "Overkicks prominent visual effects can obscure the player's view, potentially causing misses."
+    ]
+  },
+  "Hero Slayer": {
+    "based_on": "Stain (Chizome Akaguro)",
+    "cost": "Free",
+    "awakening": "Conviction",
+    "moves": [
+      {
+        "name": "Hero Slayer",
+        "damage": "Achieving  requires gaining mastery. Mastery points are earned by defeating oppo",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Triple Dagger Throw",
+        "damage": "*   Capable of dealing high damage with True Combos (approximately 45-60%).",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Curdle Pierce",
+        "damage": "*   A basic combo (Thousand Slashes > Triple Dagger Throw > Blackout Clutch) can",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crimson Blood (M1)",
+        "damage": "|1 hit: 4% Damage",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Thousand Slashes",
+        "damage": "|7.8%",
+        "cooldown": "23s",
+        "info": ""
+      },
+      {
+        "name": "Triple Dagger Throw",
+        "damage": "|6%",
+        "cooldown": "17s",
+        "info": ""
+      },
+      {
+        "name": "Triple Dagger Throw Variant",
+        "damage": "|6%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Blackout Clutch",
+        "damage": "|15%",
+        "cooldown": "23s",
+        "info": ""
+      },
+      {
+        "name": "Curdle Pierce",
+        "damage": "|7%, 12%(if landed on a player waking up from ragdoll)",
+        "cooldown": "19s",
+        "info": ""
+      },
+      {
+        "name": "Thousand Slashes",
+        "damage": "*Execution threshold starts below 15% health (assumes all initial hits connected",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Triple Dagger Throw",
+        "damage": "*Execution threshold starts below 10% health (assumes all daggers hit).",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Blackout Clutch",
+        "damage": "*Execution threshold starts below 14% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Curdle Pierce",
+        "damage": "*Execution threshold starts below 7% health (if \"Blood Curdle\" is active), or 10",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crimson Edge",
+        "damage": "|19%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crimson Parry",
+        "damage": "|23%",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Thousand Slashes or Triple Dagger Throw can substitute for a side dash if the M1 attack range is insufficient.",
+      "Curdle Pierce and Thousand Slashes can cancel a forward dash if timed correctly.",
+      "Blackout Clutch grants invincibility frames (I-frames), making it useful against multiple opponents (teamers).",
+      "The Ultimate Mode, ', is highly effective against teamers.",
+      "High combo potential, allowing for freestyle gameplay.",
+      "Beginner-friendly; relatively easy character to pick up initially.",
+      "Can stun an opponent upon the second activation of Curdle Pierce by applying the \"Blood Curdle\" status (requires landing",
+      "Thousand Slashes and Triple Dagger Throw are effective combo extenders due to their speed and strong stun properties."
+    ],
+    "cons": [
+      "May cause performance issues (lag) on lower-end devices.",
+      "Most moves are punishable if missed or blocked.",
+      "Difficult to fully master (player dependent).",
+      "Utilizing advanced techniques requires significant practice and precise timing.",
+      "The forward dash has a vulnerable hitbox for a few frames.",
+      "Curdle Pierce has significant endlag, often leading to punishment if missed.",
+      "A basic combo (Thousand Slashes > Triple Dagger Throw > Blackout Clutch) can deal around 50% damage but is predictable.",
+      "' has no actual mobility moves to catch runners."
+    ]
+  },
+  "Split Ice": {
+    "based_on": "Shoto Todoroki",
+    "cost": "Free",
+    "awakening": "Burning    Flames",
+    "moves": [
+      {
+        "name": "The Prototype",
+        "damage": "Achieving  requires gaining mastery. Mastery points are earned by defeating oppo",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Frost Burst",
+        "damage": "*   Capable of a high-damage (approximately 50%) true combo using only two moves",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Frost Counter",
+        "damage": "",
+        "cooldown": "4s",
+        "info": ""
+      },
+      {
+        "name": "Ice Javelin",
+        "damage": "*   Ice Javelin provides an M1 reset, though it reduces subsequent M1 damage to ",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Frost Burst",
+        "damage": "*   Frost Burst has a high finisher threshold (14%) and its finisher activates i",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Blazing Soul",
+        "damage": "",
+        "cooldown": "26s",
+        "info": ""
+      },
+      {
+        "name": "Glacial Strikes (M1)",
+        "damage": "|4% per M1",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Sub Zero (Neutral)",
+        "damage": "|15%",
+        "cooldown": "18s",
+        "info": ""
+      },
+      {
+        "name": "Sub Zero (Downslam)",
+        "damage": "|15%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Sub Zero (Uppercut)",
+        "damage": "|15%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Sub Zero (Ranged)",
+        "damage": "|8.5% Damage per spike, 17% total.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Ice Javelin (Melee)",
+        "damage": "|11%",
+        "cooldown": "25s",
+        "info": ""
+      },
+      {
+        "name": "Ice Javelin (Ranged)",
+        "damage": "|5%, 7% when blocked.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Frost Counter",
+        "damage": "",
+        "cooldown": "31s",
+        "info": ""
+      },
+      {
+        "name": "Frost Burst",
+        "damage": "|15% Damage",
+        "cooldown": "29s",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Frost Burst has a medium-to-large area of effect (it's slightly inconsistent hitbox can sometimes provide a minor advant",
+      "Ice Javelin features a ranged variant, activated by using the skill when no opponent is in the user's immediate melee ra",
+      "Frost Burst is an excellent tool for finishing off low-health opponents.",
+      "Capable of a high-damage (approximately 50%) true combo using only two moves and M1 attacks.",
+      "Frost Counter, if landed, stuns the hit opponent(s) for 4 seconds (up to 6 seconds with the passive-boosted version).",
+      "Successfully landing Frost Counter allows the user to inflict significantly more damage.",
+      "Frost Counter can counter any non-ultimate move in the game.",
+      "Sub Zero has four distinct variants, offering versatility."
+    ],
+    "cons": [
+      "Blazing Soul can be difficult to control and may hit unintended targets.",
+      "Using the same Sub Zero variant multiple times consecutively incurs a longer cooldown.",
+      "Sub Zero's Downslam and Ranged variants can be easily dodged with a ragdoll cancel.",
+      "The character's basic M1 combo damage is relatively low.",
+      "Opponents can perform a forward dash towards the user during the startup of Ice Javelin's ranged variant, leading to an ",
+      "The hitbox for Ice Javelin's ranged variant is the projectile model itself, making it avoidable with a simple jump or si",
+      "The ranged variant of Sub Zero is considered one of its weaker options.",
+      "Blazing Soul has the longest ultimate move cutscene in the game, which can be disruptive if an unintended target is hit."
+    ]
+  },
+  "Explosion Hero": {
+    "based_on": "Katsuki Bakugo",
+    "cost": "Free",
+    "awakening": "Fury Ignition",
+    "moves": [
+      {
+        "name": "Fury Ignition",
+        "damage": "is unique as the first character to possess two distinct Ultimate Modes: Fury Ig",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "THE TENTH TORCH",
+        "damage": "*   THE TENTH TORCH, when all its moves and the transformation sequence are land",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Grenadier Strikes (M1)",
+        "damage": "|1 hit: 4% Damage",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Ground Cannon",
+        "damage": "|3%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Ground Cannon",
+        "damage": "|11%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Powered Shot",
+        "damage": "|8%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Powered Shot",
+        "damage": "|6%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Explosion Combo",
+        "damage": "|12% (2% per punch x2, 8% actual move)",
+        "cooldown": "22s",
+        "info": ""
+      },
+      {
+        "name": "Blast Catapult",
+        "damage": "|15% (11% Initial move, 4% ground impact)",
+        "cooldown": "22s",
+        "info": ""
+      },
+      {
+        "name": "Ground Cannon",
+        "damage": "*Execution threshold starts below 13% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Powered Shot",
+        "damage": "*First use finisher starts at 1% or 2% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Explosion Combo",
+        "damage": "*Execution threshold starts below 14% health (assuming the first two hits connec",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Blast Catapult",
+        "damage": "*Execution threshold starts below 12% health (sometimes 13%, but may not grant p",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Fury Ignition",
+        "damage": "|25% per explosion (initial activation AoE)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Concentrated Power (M1s)",
+        "damage": "|1 hit: 6% damage",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Possesses very simple yet high-damage combos.",
+      "The character offers significant mix-up potential and combo opportunities, particularly with his first and second base m",
+      "Features two Ultimate forms, allowing the user to enter two separate invincibility-frame (I-frame) states, potentially a",
+      "Exploding Star pauses the Ultimate bar drain for its entire cinematic duration, enabling the user to maximize their ulti",
+      "Ground Cannon can extend combos into every other base move, including Blast Catapult.",
+      "Fury Ignition is effective against multiple opponents (teamers).",
+      "All moves in the Fury Ignition ultimate have low cooldowns.",
+      "Every base move has a finisher, facilitating easier activation of the character's passives."
+    ],
+    "cons": [
+      "Blast Catapult can sometimes launch targets too far for a reliable follow-up, or occasionally fail to launch them at all",
+      "The base moveset arguably has one of the lowest total damage outputs per individual hit among all characters.",
+      "The first use of Powered Shot has recoil, which can cause the user to miss follow-up attacks (e.g., a frontal dash). The",
+      "If the user does not deal enough damage to unlock THE TENTH TORCH, Fury Ignition effectively only has three offensive ul",
+      "The character initially struggles with consistent, high-damage combos as it lacks true combo extenders in its base kit, ",
+      "Although TENTH TORCH deals immense damage, its duration is shorter than other ultimates, and its moves can be punished i",
+      "The startup animation of NUKE does not have I-Frames, allowing opponents to interrupt it.",
+      "BLITZ KICK is easily punishable if used without setup (raw) or if it misses."
+    ]
+  },
+  "Azure Flames": {
+    "based_on": "Dabi (Toya Todoroki)",
+    "cost": "Free",
+    "awakening": "Spite",
+    "moves": [
+      {
+        "name": "Azure Flames",
+        "damage": "Achieving  requires gaining mastery. Mastery points are earned by defeating oppo",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Flaming Punches (M1)",
+        "damage": "|4% per M1. 16% in total.",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Azure Grab",
+        "damage": "|18.5% + 0.5% (From burn damage)",
+        "cooldown": "26s",
+        "info": ""
+      },
+      {
+        "name": "Infernal Burn",
+        "damage": "|8.5% + 0.5% (Burn damage)",
+        "cooldown": "18s",
+        "info": ""
+      },
+      {
+        "name": "Ember Eruption",
+        "damage": "|11.5%",
+        "cooldown": "27s",
+        "info": ""
+      },
+      {
+        "name": "Ember Assault",
+        "damage": "|11.3% + 0.9% from hitting the ground",
+        "cooldown": "25s",
+        "info": ""
+      },
+      {
+        "name": "Azure Grab",
+        "damage": "*Execution threshold starts below 17% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Infernal Burn",
+        "damage": "*Execution threshold starts below 9% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Ember Eruption",
+        "damage": "*Execution threshold starts below 12% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Ember Assault",
+        "damage": "*Execution threshold starts below 15% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "SPITE",
+        "damage": "|~35% (Includes fire damage)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Lifeless Rage (M1)",
+        "damage": "|~25%",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Azure Flames Blitz",
+        "damage": "|40%",
+        "cooldown": "22s",
+        "info": ""
+      },
+      {
+        "name": "Frostflame Eruption",
+        "damage": "|28.5%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Flamewave Burst",
+        "damage": "|31%",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Ember Eruption has a large Area of Effect (AoE) and is difficult to avoid",
+      "The Ultimate, , deals substantial damage over time.",
+      "The base moveset offers significant combo potential.",
+      "Infernal Burn functions as a long-range attack.",
+      "The burn status effect can disrupt inexperienced players.",
+      "Effective in team fights due to AoE moves like Ember Eruption and Infernal Burn, and moves like Azure Grab and Ember Ass",
+      "Ultimate moves possess good range and AoE coverage.",
+      "Good overall combo potential, with moves having relatively low cooldowns."
+    ],
+    "cons": [
+      "The knockback distance of Infernal Burn can be inconsistent due to player latency.",
+      "Peaking Scorch does not bypass block.",
+      "Can be challenging for beginners, though basic combos are manageable.",
+      "Ember Assault is easily punishable if blocked.",
+      "Ember Eruption can be interrupted during its startup animation.",
+      "No capability for true combos after Ember Assault's rework and Azure Grab's changes",
+      "|-|Base Moveset=",
+      "{| class=\"wikitable\" style=\"text-align:center\""
+    ]
+  },
+  "Warp Portal": {
+    "based_on": "Kurogiri",
+    "cost": "Beat The Prototype boss (RNG drop)",
+    "awakening": "Quantum Jump",
+    "moves": [
+      {
+        "name": "Warp Portal",
+        "damage": "The  moveset is an unlockable character. It is obtained by defeating  boss, with",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crush",
+        "damage": "*   Even if the ultimate move Crush is blocked, its finisher will still activate",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Quantum Punches M1",
+        "damage": "|16% (full chain)",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Reality Barrage",
+        "damage": "|17%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Portal Cascade",
+        "damage": "|13%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Dimensional Volley",
+        "damage": "|6%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Gateway",
+        "damage": "|6% (First Use), 6% (Second Use), 6% (Close Variant)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Reality Barrage",
+        "damage": "*Execution threshold starts below 17% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Dimensional Volley",
+        "damage": "*Execution threshold starts below 8% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Gateway",
+        "damage": "*Execution threshold starts below 8% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crush",
+        "damage": "*Execution threshold starts below 40% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Spatial Fury",
+        "damage": "*Execution threshold starts below 22% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Reality Shattering Beatdown (M1)",
+        "damage": "|22-32%",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Matter Barrage",
+        "damage": "|0-42% (Depending on debris hits)",
+        "cooldown": "18s",
+        "info": ""
+      },
+      {
+        "name": "Reality Collapse",
+        "damage": "|35%",
+        "cooldown": "17s",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "The Ultimate, , can effectively separate teamers, allowing the user to engage opponents individually.",
+      "This makes the character particularly strong in ranked modes and 2v2 scenarios.",
+      "Even if the ultimate move Crush is blocked, its finisher will still activate if the opponent is at approximately 15% hea",
+      "Possesses very good combo potential.",
+      "Timing Dimensional Volley correctly can allow it to hit opponents on their wakeup, enabling continued M1 combos. (Only a",
+      "Dimensional Volley can combo extend into some M1's if close enough and if done with good timing can create a HBG version",
+      "If timed correctly, Portal Cascade can hit a ragdolled (mainly after an uppercut) opponent, to do this you must do it im",
+      "Dimensional Volley can be a good setup for other moves such as Reality Barrage and Portal Cascade, as well as Gateway (B"
+    ],
+    "cons": [
+      "The end of Reality Barrage lacks invincibility frames (I-frames) and has minor endlag, which can be disadvantageous when",
+      "is generally considered a less impactful ultimate compared to those of other characters.",
+      "Only two base moves can pick up ragdolled enemies, and both of these moves also cause ragdoll themselves, making extende",
+      "The character relies heavily on the opponent having already used their evasive.",
+      "Very punishable when using most moves."
+    ]
+  },
+  "Mastered Green Hero": {
+    "based_on": "Deku (Dark Hero Arc)",
+    "cost": "Mastery unlock",
+    "awakening": "The Ninth",
+    "moves": [
+      {
+        "name": "The Ninth",
+        "damage": "|awakening_name=The Ninth|Cost=Free (Needs Mastery to 100%)|caption-Herogreen.pn",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Verdant Hope",
+        "damage": ", also known as Verdant Hope by its badge name, is an unlockable character in He",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Whiplash",
+        "damage": "*   Can approximately deal 5% damage to  boss if all moves land without interrup",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Lightning Crush",
+        "damage": "*   Lightning Crush can combo into Whiplash, 120% or 45% if executed correctly.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "The Ninth",
+        "damage": "*   Acquiring 100% mastery for  can be time-consuming, even with consistent  far",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Vicious Grab",
+        "damage": "*   Green Hero's Awakening deals more total damage than the mastered version's o",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Justice Shock (M1)",
+        "damage": "|1 hit: 4% Damage",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Quintuple Smash",
+        "damage": "|15%",
+        "cooldown": "27s",
+        "info": ""
+      },
+      {
+        "name": "Electric Smash",
+        "damage": "|7% (Normal)",
+        "cooldown": "18s",
+        "info": ""
+      },
+      {
+        "name": "Vicious Grab",
+        "damage": "|9%",
+        "cooldown": "24s",
+        "info": ""
+      },
+      {
+        "name": "Vicious Grab (Aerial Variant)",
+        "damage": "|8.5%",
+        "cooldown": "7s",
+        "info": ""
+      },
+      {
+        "name": "Shadow Whip",
+        "damage": "|6.5%",
+        "cooldown": "33s",
+        "info": ""
+      },
+      {
+        "name": "Shadow Whip (Ragdolled-target Variant",
+        "damage": "|7%",
+        "cooldown": "32s",
+        "info": ""
+      },
+      {
+        "name": "Quintuple Smash",
+        "damage": "*Execution threshold starts below 15% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Electric Smash",
+        "damage": "*Execution threshold starts below 7% health (increases based on height).",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "All moves can hit or grab ragdolled enemies.",
+      "Most moves are grabs, providing extremely safe damage opportunities.",
+      "Shadow Whip has two variants.",
+      "Shadow Whip's ground variant is an effective combo starter and extender.",
+      "Quintuple Smash can be combined with any move except Vicious Grab (unless Side Dash + Aerial Variant of Vicious Grab) fo",
+      "Vicious Grab's aerial variant is good for avoiding damage from Awakening users and escaping dangerous situations. It als",
+      "Electric Smash can punish opponents who consistently hold block, as well as Quintuple Smash's last punch.",
+      "Vicious Grab is a useful combo finisher due to the distance it creates between the user and the opponent."
+    ],
+    "cons": [
+      "All base moves have very long cooldowns, except for Vicious Grab (Aerial Variant).",
+      "The Ninth is easily punishable when moves are used recklessly, so it's the best to fight with the Awakening used in a cl",
+      "The Ninth heavily relies on the enemy having wasted their evasive and successfully chaining moves together for optimal d",
+      "The Ninth Awakening takes significantly longer to fill its gauge compared to  Maximum Overdrive.",
+      "The reason of it is that  has a special passive for filling the gauge.",
+      "Acquiring 100% mastery for  can be time-consuming, even with consistent  farming.",
+      "Electric Smash can be punishable if missed, though not as severely as Hyper (Air Variant) or Overkick from the base Gree",
+      "Shadow Whip has considerable endlag if missed, and even more if it is blocked."
+    ]
+  },
+  "Mastered Hero Slayer": {
+    "based_on": "Stain (evolved)",
+    "cost": "Mastery unlock",
+    "awakening": "Judgement",
+    "moves": [
+      {
+        "name": "Judgement",
+        "damage": "|awakening_name=Judgement|GreenHero=Mastered Hero Slayer|cost=100% Mastery for H",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crimson Justice",
+        "damage": ", also known as Crimson Justice by its badge name, is an unlockable character in",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Mixed Martial Arts",
+        "damage": "*   The Mixed Martial Arts passive (Knuckledusters + Knife) boosts M1 damage to ",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Detrimental Division",
+        "damage": "*   The combined damage potential of 's stance moves (Detrimental Division and B",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "One Million Slashes",
+        "damage": "*   One Million Slashes and Shadow Rush (Air Variant) have very low finisher thr",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crimson Swordsmanship (M1)",
+        "damage": "|16%",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Shadow Rush",
+        "damage": "|14% total (10% first use, 4% second use)",
+        "cooldown": "14s",
+        "info": ""
+      },
+      {
+        "name": "Shadow Rush Air Variant",
+        "damage": "|6%",
+        "cooldown": "17s",
+        "info": ""
+      },
+      {
+        "name": "Katana Throw",
+        "damage": "|10.5% total (1.5% on throw, 9% when retrieved from enemy on 4th M1)",
+        "cooldown": "12s",
+        "info": ""
+      },
+      {
+        "name": "One Million Slashes",
+        "damage": "|4.8%",
+        "cooldown": "24s",
+        "info": ""
+      },
+      {
+        "name": "Whirlwind Pierce",
+        "damage": "|7% (17% if hit during ragdoll wakeup)",
+        "cooldown": "28s",
+        "info": ""
+      },
+      {
+        "name": "\"Bloodcurdle\"",
+        "damage": "|16%",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Uppercut",
+        "damage": "|10% total (10% first use, 0% second use)",
+        "cooldown": "20s",
+        "info": ""
+      },
+      {
+        "name": "Dagger Cascade",
+        "damage": "|12% total (7.5% first use, 4.5% second use). Has a random chance to apply poiso",
+        "cooldown": "14s",
+        "info": ""
+      },
+      {
+        "name": "Headbutt",
+        "damage": "|8%",
+        "cooldown": "16s",
+        "info": ""
+      }
+    ],
+    "pros": [],
+    "cons": [
+      "High learning curve for beginners due to being a complex character with numerous moves and stance mechanics.",
+      "A very advanced character; effective use requires a strong understanding of game mechanics.",
+      "Takes a long time to unlock due to the mastery requirement (200 kills without daily missions or  farming).",
+      "Very low base damage on individual skills, forcing reliance on M1 attacks and passive weapon buffs.",
+      "Lacks easily accessible, high-mobility moves in his base kit.",
+      "Executing most advanced combos requires frame-perfect inputs.",
+      "The Black Flash-like M1 passive can be escaped if the opponent times their evasive correctly.",
+      "If the Black Flash M1 passive is missed, it cannot be used and goes away."
+    ]
+  },
+  "Mastered Split Ice": {
+    "based_on": "Shoto Todoroki (WHM/Final War)",
+    "cost": "Mastery unlock",
+    "awakening": "Burning Flames",
+    "moves": [
+      {
+        "name": "Burning Flames",
+        "damage": "|awakening_name=Burning Flames|cost=100% Mastery of Split Ice|caption-image1=Ult",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Scorching Winter",
+        "damage": ", also known as Scorching Winter by its badge name, is the 13th character releas",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Cryoburn Fist (M1)",
+        "damage": "|16% in total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Flash Tempo",
+        "damage": "|5%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Arctic Flare",
+        "damage": "|4% Freeze",
+        "cooldown": "3s",
+        "info": ""
+      },
+      {
+        "name": "Arctic Flare",
+        "damage": "|8.1%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Glacial Effigy",
+        "damage": "|5%",
+        "cooldown": "4s",
+        "info": ""
+      },
+      {
+        "name": "Frost Counter",
+        "damage": "",
+        "cooldown": "1s",
+        "info": ""
+      },
+      {
+        "name": "Frozen Aegir",
+        "damage": "|5%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Glacial Effigy",
+        "damage": "",
+        "cooldown": "3s",
+        "info": ""
+      },
+      {
+        "name": "Frozen Aegir",
+        "damage": "|7%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Cryoburn Fist (M1)",
+        "damage": "|20% in total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Inferno Impact",
+        "damage": "|5% Initial Kick",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Ignition Drive",
+        "damage": "|8.1%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Searing Steps",
+        "damage": "|12% + 0.1% from hitting the ground",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Once in the right hands, it deals a lot of damage.",
+      "Extreme combo-potential and versatility.",
+      "Lots of combo variations.",
+      "Freeze effect allows for deadly combos.",
+      "Freeze effect lasts notably longer than its non-mastered counterpart.",
+      "Flame Moveset deals a lot of damage.",
+      "Frost Moveset is useful for beginning combos.",
+      "The majority of the moves are unblockable, making it very useful for pressure and chipping away health, especially with "
+    ],
+    "cons": [
+      "High learning curve for beginners due to its Fire and Ice and Temperature gimmick.",
+      "Getting carried away backfires heavily.",
+      "Flash Tempo doesn't do much damage.",
+      "Frostbite makes it very hard to block moves, as your character becomes slower, therefore being more vulnerable to being ",
+      "Glacial Effigy can be hard to hit if the user doesn't know how to \"set up\" their moves.",
+      "Flash Tempo is not optimal for combos.",
+      "Staying around Glacial Effigy freezes you, so camping around it is not a good strategy.",
+      "Moves like Inferno Impact, Flash Tempo, and Searing Steps become inconsistent with high ping."
+    ]
+  },
+  "Mastered Azure Flames": {
+    "based_on": "Dabi (Final War)",
+    "cost": "Mastery unlock",
+    "awakening": "Retribution",
+    "moves": [
+      {
+        "name": "Spoilers for Dabi V2",
+        "damage": "|awakening_name=Retribution|cost=100% Mastery of Azure Flames|caption-image1=Ult",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Violet Inferno",
+        "damage": ", also known as Violet Inferno by its badge name, is the 11th character released",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Cinder Bind",
+        "damage": "*   Cooldowns recover 20% faster while in Violet Form.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Violet Form",
+        "damage": "*   Violet Form constantly drains HP (approximately 0.8% per second), making nat",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Hellish Fire  (M1)",
+        "damage": "|16% total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Infernal Assault",
+        "damage": "|11% (1% charge, 10% move)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Infernal Assault",
+        "damage": "|14% (2% charge, 12% move)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Infernal Assault",
+        "damage": "|12% (4% charge, 8% move)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Hell Shot",
+        "damage": "|13% (4.8% first use, 8.2% second use)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Glacial Cinder",
+        "damage": "|16%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Scorching Surge",
+        "damage": "|0% (No damage)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Hell Assault",
+        "damage": "|15%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Phantom Shot",
+        "damage": "|20.2% (9.6% first use, 10.6% second use)",
+        "cooldown": "4s",
+        "info": ""
+      },
+      {
+        "name": "Cinder Bind",
+        "damage": "|5.9%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Scorching Surge",
+        "damage": "|4%-12.9%",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Amazing Combo Potential due to two distinct movesets and their interactions.",
+      "Possesses two movesets (Azure Form and Violet Form), offering versatility.",
+      "Moves generally have long animations, which can be strategically used to stall and waste an opponent's awakening bar if ",
+      "Features very low cooldowns, which decrease further while in Violet Form.",
+      "Cinder Bind (Violet Form) has a huge Area of Effect (AoE), excellent for slowing down multiple opponents (teamers) and d",
+      "Cinder Bind is difficult to punish even if missed or blocked due to its lingering hitbox that persists until the fire ci",
+      "The user can hide within the fire circle created by Cinder Bind to regenerate health (if passives allow) and wait for co",
+      "Most moves grant invincibility frames (I-frames), making  a good candidate against teamers or third-parties."
+    ],
+    "cons": [
+      "Low damage on individual moves without incorporating M1s and chaining skills, compared to other characters.",
+      "Violet Form generally deals less overall burst damage per move than Azure Form, trading it for utility and faster cooldo",
+      "Can be harder to use than base  due to managing two different movesets. While technically possible, seamlessly extending",
+      "The ultimate gauge takes longer to fill compared to its non-Mastery counterpart.",
+      "Violet Form constantly drains HP (approximately 0.8% per second), making natural health regeneration impossible without ",
+      "Cooldowns are shared between both Azure and Violet forms (unlike 's stance switch), requiring careful timing and relianc",
+      "Cinder Bind doesn't bypass blocking, which can be an issue against skilled opponents or coordinated teamers who block ef",
+      "Unlike Phantom Shot, Hell Shot (Azure Form) can be escaped easily due to its longer startup animation."
+    ]
+  },
+  "Decaying Hatred": {
+    "based_on": "Tomura Shigaraki",
+    "cost": "Free",
+    "awakening": "Everything For One",
+    "moves": [
+      {
+        "name": "Decaying Counter",
+        "damage": "*   Decaying Counter deals significant damage (22%) and can extend combos with a",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Void Steps",
+        "damage": "*   The base moveset deals a total of 59% damage (excluding M1s), making it one ",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Radio Blast",
+        "damage": "",
+        "cooldown": "10s",
+        "info": ""
+      },
+      {
+        "name": "Scatter",
+        "damage": "*   Possesses the strongest single ultimate move in terms of potential damage (e",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "TRUE EVIL",
+        "damage": "*   TRUE EVIL deals either 46% or 110% damage, depending on the success of QTE i",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Hooked Decay (M1)",
+        "damage": "|1 hit: 4% Damage",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Vanquish",
+        "damage": "|12.5%",
+        "cooldown": "17s",
+        "info": ""
+      },
+      {
+        "name": "Deteriorate",
+        "damage": "|8%",
+        "cooldown": "20s",
+        "info": ""
+      },
+      {
+        "name": "Decaying Counter",
+        "damage": "|20%",
+        "cooldown": "24s",
+        "info": ""
+      },
+      {
+        "name": "Void Steps",
+        "damage": "|7% initial hit + ~1.5% per successful consecutive hit, capping at 19.6% damage",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Vanquish",
+        "damage": "*Execution threshold starts at 12% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Deteriorate",
+        "damage": "*Execution threshold starts at 11% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Decaying Counter",
+        "damage": "*Execution threshold starts at 21% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Void Steps",
+        "damage": "*Execution threshold starts at 12% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Scatter",
+        "damage": "*Execution threshold starts at 5% health (after the follow-up slam).",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "All base moves have finisher animations that execute at relatively high opponent health, enabling rapid kills.",
+      "Vanquish possesses a 360\u00b0 hitbox and bypasses block.",
+      "Decaying Counter deals significant damage (22%) and can extend combos with an Aerial Slam, Vanquish, or Void Steps due t",
+      "Deteriorate is an effective and easy-to-use combo extender.",
+      "Capable of dealing high damage with combos.",
+      "Relatively simple to use, with the exception of Void Steps.",
+      "While Void Steps is difficult to land consistently, its potential damage output is substantial.",
+      "The base moveset deals a total of 59% damage (excluding M1s), making it one of the highest-damage base kits in the game."
+    ],
+    "cons": [
+      "Cannot gain passive effects by defeating dummies or  boss.",
+      "Reliant on successfully executing a finisher on another player to activate the Quirk Snatch passive.",
+      "The follow-up hits of Void Steps are challenging to execute, requiring precise timing for a total of six inputs to achie",
+      "The follow-up hits of Void Steps lack I-frames or hyper-armor even if the initial hit lands, making the move vulnerable ",
+      "Has only two low-damage True Combos in the base kit.",
+      "Moves are easily punishable if missed.",
+      "In exchange for its high potential damage, TRUE EVIL does not pause the ultimate bar's depletion during its animation.",
+      "Stealing 's Spear of Ice passive grants a shorter duration for the ice javelin buff."
+    ]
+  },
+  "Full Throttle": {
+    "based_on": "Tenya Iida (Ingenium)",
+    "cost": "Free",
+    "awakening": "Beyond Speed",
+    "moves": [
+      {
+        "name": "Motor Combo",
+        "damage": "",
+        "cooldown": "25s",
+        "info": ""
+      },
+      {
+        "name": "Recipro Kicks (M1)",
+        "damage": "|4% (per hit), 16% (full chain)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Recipro Assault",
+        "damage": "|8%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Recipro Assault",
+        "damage": "|11%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Recipro Assault",
+        "damage": "|14%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Turbine Drive",
+        "damage": "|6%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Turbine Drive",
+        "damage": "|6% Damage",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Sound Breaker",
+        "damage": "|14%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Sound Breaker",
+        "damage": "|11%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Jet Stream",
+        "damage": "| 6% (initial kick)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Jet Stream",
+        "damage": "|14%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Recipro Assault",
+        "damage": "*Execution threshold: 10% (First Gear), 12% (Second Gear), 16% (Third Gear).",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Turbine Drive",
+        "damage": "*Execution threshold: 9% (ground and air variants). Also triggers on any M1 that",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Turbive Drive Air Variant",
+        "damage": "*Execution threshold: 6% (Can only be performed during the initial hit).",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Sound Breaker",
+        "damage": "* Execution threshold: 15%.",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Recipro Assault can hit grounded players, allowing for maximum damage if the user is quick enough.",
+      "The variants of Recipro Assault stun opponents long enough for an uppercut follow-up.",
+      "Recipro Assault\u2019s range allows the user to hit opponents even if they attempt to evasive with a side dash, due to the fi",
+      "Sound Breaker (Air Variant) is an excellent combo extender.",
+      "Turbine Drive (Ground Variant) can be used as a combo starter or following the second or third gear of Recipro Assault.",
+      "The Air Variant of Turbine Drive resets the user's M1s and can function as an aerial combo extender (unblockable for the",
+      "All variants of Recipro Assault propel the user further than most base moves in the game, making Full Throttle effective",
+      "Despite their considerable startups, the first and second gears of Recipro Assault and Sound Breaker are quick once acti"
+    ],
+    "cons": [
+      "The first and second gears of Recipro Assault have significant endlag (due to covering long distances quickly).",
+      "The first gear of Recipro Assault have a very strict hitbox, making it unreliable on neutral.",
+      "The Motor Combo passive only lasts for 25 seconds after defeating an opponent.",
+      "Sound Breaker is avoidable due to its long startup animation.",
+      "Jetstream (Held) have a significant endlag on top of being extremely predictable.",
+      "Most moves have extreme endlag if they miss.",
+      "Turbo Release is harder to hit due to its smaller hitbox unless the opponent's evasive has been baited.",
+      "If an opponent is familiar with 's ultimate, Chronos can be easily dodged or interrupted."
+    ]
+  },
+  "Winged Assassin": {
+    "based_on": "Hawks (Keigo Takami)",
+    "cost": "Free",
+    "awakening": "Wings of Ruin",
+    "moves": [
+      {
+        "name": "VIP Gamepass",
+        "damage": "* Using Awakening will heal you to 100%, making it easier for your survival unti",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Featherlike Swordsmanship",
+        "damage": "|16% in total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Twin Talon",
+        "damage": "|14% Total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Ditto, but in the air.",
+        "damage": "|6%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Scarlet Dance",
+        "damage": "|10.4% Total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crimson Heaven",
+        "damage": "|7.9% Total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Plume",
+        "damage": "|10.6% Total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Twin Talons",
+        "damage": "|15%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Scarlet Dance",
+        "damage": "|8% Total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Plume",
+        "damage": "|13% Total (1% for each hit)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Death",
+        "damage": "* Execution threshold starts below 15%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Scarlet Dance",
+        "damage": "* Execution threshold starts below 16%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Crimson Heaven",
+        "damage": "* Execution threshold starts below 17%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Plume",
+        "damage": "* Execution threshold starts below 12%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Tree",
+        "damage": "|8% (or 20% on 4th M1)",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Flight allows you to fly high enough for other players to not be able to hit you normally.",
+      "Twin Talons can catch opponents off-guard, on top of the first hit being unblockable.",
+      "Can easily run away with the passive.",
+      "Plume's Flight Variant also travels a great distance if aimed slightly upwards.",
+      "Using Awakening will heal you to 100%, making it easier for your survival until it is added.",
+      "Easy to team with in \"Air Combos\" with Full Throttle users due to the Flight passive.",
+      "Easy to evade certain moves using flight, making it easier to heal during fights",
+      "Hitting someone with Aerial Twin Talons sends both of you and the opponent far away, perfect against teamers."
+    ],
+    "cons": [
+      "No Awakening is built in yet, thus making Ult vs Base confrontations harder.",
+      "Wings cosmetic get in the way, forcing you to zoom out.",
+      "All moves (besides m1s) end flight.",
+      "Relatively low damage output compared to other movesets.",
+      "Landing Aerial Twin Talons and Plume after Crimson Heaven can be deemed challenging with high ping.",
+      "Twin Talons' Flight Variant, despite being the most damage out of the three variants, is slow and predictable.",
+      "The passive is required for most variants of moves, the only exception being Twin Talons' Aerial Variant"
+    ]
+  },
+  "Human Architect": {
+    "based_on": "Overhaul (Kai Chisaki)",
+    "cost": "Free",
+    "awakening": "Flesh Chimera",
+    "moves": [
+      {
+        "name": "Conjure",
+        "damage": "*   Conjure (after Dirty Work) has one of the highest finisher execution thresho",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Stone Weaponry",
+        "damage": "*   Stone Weaponry has a very low finisher execution threshold (8%).",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Roundhouse Spikes (M1)",
+        "damage": "|16% total",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Renovation",
+        "damage": "|11%",
+        "cooldown": "20s",
+        "info": ""
+      },
+      {
+        "name": "Dirty Work",
+        "damage": "|11%",
+        "cooldown": "19s",
+        "info": ""
+      },
+      {
+        "name": "Stone Weaponry",
+        "damage": "|6%",
+        "cooldown": "27s",
+        "info": ""
+      },
+      {
+        "name": "Conjure",
+        "damage": "|14%",
+        "cooldown": "20s",
+        "info": ""
+      },
+      {
+        "name": "Conjure",
+        "damage": "|14%",
+        "cooldown": "20s",
+        "info": ""
+      },
+      {
+        "name": "Conjure",
+        "damage": "|14%",
+        "cooldown": "20s",
+        "info": ""
+      },
+      {
+        "name": "Conjure",
+        "damage": "|16%",
+        "cooldown": "20s",
+        "info": ""
+      },
+      {
+        "name": "Renovation",
+        "damage": "*Execution threshold starts below 14% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Dirty Work",
+        "damage": "*Execution threshold starts below 13% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Stone Weaponry",
+        "damage": "*Execution threshold starts below 8% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Conjure",
+        "damage": "*Execution threshold starts below 13% health.",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Conjure",
+        "damage": "*Execution threshold starts below 13% health.",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "Offer an excellent combo potential, with most moves flowing seamlessly into one another, especially with the different v",
+      "Renovation disables a random move from the opponent's own moveset, creating a significant disadvantage for them in the b",
+      "The pillar created by Dirty Work can be used for an I.W.O. interaction.",
+      "Dirty Works endlag can be oddly deceptive, allowing for an easy block if the opponent punishes slightly late.",
+      "Conjure (after Renovation) is an easy follow-up to the said move.",
+      "Conjure (after Dirty Work) has one of the highest finisher execution thresholds for a base move, finishing at 20% health",
+      "Using Conjure after Stone Weaponry offers a seamless and deadly combo.",
+      "Calamity has a fast startup, and can be followed up with Creation Field seamlessly."
+    ],
+    "cons": [
+      "His base moveset possesses below-average damage by itself, relying more on creative combos to deal maximum damage.",
+      "Stone Weaponry has a very low finisher execution threshold (8%).",
+      "Conjure (Neutral Variant) has extreme endlag if it is blocked or misses.",
+      "The landing shockwave from Dirty Work can sometimes be easily countered by parry moves.",
+      "The pillar created by Dirty Work deals reduced damage as an I.W.O. compared to standard map pillars.",
+      "Disfigurations finisher does not pause the ultimate bar, potentially wasting time for the activation of Final Fusion.",
+      "Activating the Kaiju form requires meeting two conditions: filling the DEATH gauge (a secondary ultimate meter) and then"
+    ]
+  },
+  "The Strongest": {
+    "based_on": "Satoru Gojo (Jujutsu Kaisen)",
+    "cost": "499 Robux (PS+) or 1/1,350,000 NPC chance",
+    "awakening": "Awakening",
+    "moves": [
+      {
+        "name": "YES YES YOU ARE... at least for 24 hours",
+        "damage": "*   If the NPC says \"YES YES YOU ARE... at least for 24 hours\", the player has s",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "The Strongest Punches (M1)",
+        "damage": "|65% (full chain)",
+        "cooldown": "2s",
+        "info": ""
+      },
+      {
+        "name": "Blue",
+        "damage": "|100% (instant kill)",
+        "cooldown": "3s",
+        "info": ""
+      },
+      {
+        "name": "Infinity",
+        "damage": "",
+        "cooldown": "3s",
+        "info": ""
+      },
+      {
+        "name": "Slap",
+        "damage": "|72%",
+        "cooldown": "6s",
+        "info": ""
+      },
+      {
+        "name": "Combo",
+        "damage": "|84%",
+        "cooldown": "6s",
+        "info": ""
+      },
+      {
+        "name": "Purple",
+        "damage": "|100% (instant kill AoE)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Unlimited Void",
+        "damage": "|0.8% (initial hit, then passive DoT within domain if applicable)",
+        "cooldown": "30s",
+        "info": ""
+      },
+      {
+        "name": "Red",
+        "damage": "|100% (instant kill AoE)",
+        "cooldown": "3s",
+        "info": ""
+      },
+      {
+        "name": "Decapitate",
+        "damage": "|100% (instant kill)",
+        "cooldown": "12s",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "All moves deal exceptionally high, often one-shot, damage.",
+      "M1 attacks (The Strongest Punches) are incredibly powerful, capable of defeating opponents in a single combo.",
+      "Infinity provides a near-permanent counter, reflecting most incoming damage back to the attacker.",
+      "Possesses a couple of strong mobility options, especially Blue (if missed).",
+      "Ultimate moves (Purple, Red, Decapitate) are devastating and can eliminate multiple opponents in a single blow.",
+      "Unlimited Void offers powerful crowd control by immobilizing enemies caught in its activation.",
+      "Most moves gains massive amounts of ult if used on people/dummies."
+    ],
+    "cons": [
+      "Extremely low chance of obtaining from the NPC, making it highly inaccessible for most players through that method.",
+      "Permanent access via gamepass is restricted to private servers only.",
+      "Infinity can be bypassed by specific counter moves (e.g., 's Crimson Parry).",
+      "Forced character switch if  spawns.",
+      "If obtained via NPC, access is temporary (24 hours)."
+    ]
+  },
+  "Huge Lady": {
+    "based_on": "Mt. Lady (Yu Takeyama)",
+    "cost": "499 Robux (PS+ only)",
+    "awakening": "Rumbling",
+    "moves": [
+      {
+        "name": "Giant Punches (M1)",
+        "damage": "|Base: 23% (full chain)",
+        "cooldown": "3s",
+        "info": ""
+      },
+      {
+        "name": "Seismic Smash (Transformed M1)",
+        "damage": "|10% per hit (scales with size)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Transform",
+        "damage": "|0%",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Stomp",
+        "damage": "|Base: 23% (scales with size)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Growing By The Day",
+        "damage": "|0%",
+        "cooldown": "",
+        "info": ""
+      }
+    ],
+    "pros": [],
+    "cons": []
+  },
+  "Dullahan": {
+    "based_on": "Dullahan (Celty reference)",
+    "cost": "Unknown",
+    "awakening": "{{Moonlight",
+    "moves": [
+      {
+        "name": "Harrowing Tearing (M1)",
+        "damage": "|20%",
+        "cooldown": "5s",
+        "info": ""
+      },
+      {
+        "name": "Rise of Pumpkins",
+        "damage": "|34,1%",
+        "cooldown": "45s",
+        "info": ""
+      },
+      {
+        "name": "Soul Harvest",
+        "damage": "|15% (First Slash)",
+        "cooldown": "",
+        "info": ""
+      },
+      {
+        "name": "Burn",
+        "damage": "25% (Second Slash w/o Burn)",
+        "cooldown": "45s",
+        "info": ""
+      },
+      {
+        "name": "Ghost Rider",
+        "damage": "|12,7% (Per Swing)",
+        "cooldown": "60s",
+        "info": ""
+      },
+      {
+        "name": "False Sun",
+        "damage": "|21% (Per Pumpkin)",
+        "cooldown": "40s",
+        "info": ""
+      },
+      {
+        "name": "Lunar Blaze (M1s)",
+        "damage": "|32%",
+        "cooldown": "5s",
+        "info": ""
+      }
+    ],
+    "pros": [
+      "All of Dullahan's moves are uninterruptable when start-up is not interrupted.",
+      "False Sun has auto aim and deals a lot of damage.",
+      "The minions from using the Rise of Pumpkins can interrupt other players attempts to attack you."
+    ],
+    "cons": [
+      "Lack of i-Frames after move end leaves Dullahan vulnerable.",
+      "Some moves are punishable after they end."
+    ]
+  }
+}

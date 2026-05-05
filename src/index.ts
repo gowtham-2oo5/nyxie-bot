@@ -11,6 +11,7 @@ import { cleanupExpiredForfeits } from "./lib/forfeit";
 import { cleanupStaleChallenges } from "./lib/cleanup";
 import { api, setClient } from "./api";
 import { setWsClient, handleWsMessage, handleWsClose } from "./lib/ws";
+import { initBrain } from "./lib/brain";
 
 // Load commands
 import "./commands/help";
@@ -40,6 +41,7 @@ client.once(Events.ClientReady, async (c) => {
   await cleanupStaleChallenges();
   setClient(client);
   setWsClient(client);
+  initBrain(client);
   // Pre-fetch all guild members into cache
   for (const guild of client.guilds.cache.values()) {
     await guild.members.fetch().catch(() => {});

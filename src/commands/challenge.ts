@@ -113,14 +113,16 @@ const challengePlayer = async (interaction: ChatInputCommandInteraction) => {
     new ButtonBuilder().setCustomId("challenge_withdraw").setLabel("Withdraw").setStyle(ButtonStyle.Secondary),
   );
 
-  const msg = await interaction.reply({
+  const response = await interaction.reply({
     embeds: [
       new EmbedBuilder().setColor(COLORS.brand).setTitle("⚔️ Challenge!")
         .setDescription(`<@${interaction.user.id}> (${challenger ? `Rank #${challenger.rankPosition}` : "Unranked"}) challenges <@${target.id}> (Rank #${challenged.rankPosition})!\n\nExpires <t:${Math.floor(expiresAt.getTime() / 1000)}:R>`),
     ],
     components: [row],
-    fetchReply: true,
+    withResponse: true,
   });
+
+  const msg = response.resource.message!;
 
   await db.insert(challenges).values({
     guildId,
