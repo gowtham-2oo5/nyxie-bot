@@ -577,9 +577,9 @@ for (const mod of modules) {
 const buildMainMenu = () => {
   const embed = new EmbedBuilder()
     .setColor(COLORS.brand)
-    .setTitle("📖 Nyx Bot — Help")
+    .setTitle("📖 Nyxie — Help")
     .setDescription(
-      "Welcome to **Nyx Bot** — your tournament, ranked ladder, and server management companion.\n\n" +
+      "Welcome to **Nyxie** — your tournament, ranked ladder, and server management companion.\n\n" +
       "Select a module below to learn how it works. Each module has step-by-step guides for every operation.\n\n" +
       "**Quick aliases:** `!t` `!m` `!c` `!lb` `!r` `!p` `!sv` `!h`"
     );

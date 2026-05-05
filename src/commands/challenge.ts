@@ -261,12 +261,6 @@ const handleResultWin = async (interaction: ButtonInteraction) => {
       new ActionRowBuilder<TextInputBuilder>().addComponents(
         new TextInputBuilder().setCustomId("loser_score").setLabel("Loser's score (e.g. 3)").setStyle(TextInputStyle.Short).setRequired(true).setMaxLength(2)
       ),
-      new ActionRowBuilder<TextInputBuilder>().addComponents(
-        new TextInputBuilder().setCustomId("winner_cd").setLabel("Winner CD (none/v/u)").setStyle(TextInputStyle.Short).setRequired(false).setPlaceholder("v")
-      ),
-      new ActionRowBuilder<TextInputBuilder>().addComponents(
-        new TextInputBuilder().setCustomId("loser_cd").setLabel("Loser CD (none/v/u)").setStyle(TextInputStyle.Short).setRequired(false).setPlaceholder("u")
-      ),
     );
 
   await interaction.showModal(modal);
@@ -275,7 +269,7 @@ const handleResultWin = async (interaction: ButtonInteraction) => {
 // ─── Modal: process result with score + cooldowns ───
 
 const handleResultModal = async (interaction: ModalSubmitInteraction) => {
-  await interaction.deferReply({ flags: MessageFlags.Ephemeral });
+  await interaction.deferReply();
 
   // customId: challenge_result_modal_{challengeId}_{winnerId}
   const payload = interaction.customId.replace("challenge_result_modal_", "");
@@ -284,17 +278,6 @@ const handleResultModal = async (interaction: ModalSubmitInteraction) => {
 
   const winnerScore = interaction.fields.getTextInputValue("winner_score");
   const loserScore = interaction.fields.getTextInputValue("loser_score");
-  const winnerCdRaw = interaction.fields.getTextInputValue("winner_cd")?.toLowerCase().trim() || "v";
-  const loserCdRaw = interaction.fields.getTextInputValue("loser_cd")?.toLowerCase().trim() || "u";
-
-  // Normalize: accept shortcuts
-  const normalizeCd = (v: string) => {
-    if (v === "v" || v.startsWith("void")) return "voidable";
-    if (v === "u" || v.startsWith("unavoid")) return "unavoidable";
-    return "none";
-  };
-  const winnerCd = normalizeCd(winnerCdRaw);
-  const loserCd = normalizeCd(loserCdRaw);
 
   const challenge = await db.select().from(challenges).where(eq(challenges.id, challengeId)).then((r) => r[0]);
   if (!challenge || challenge.status !== "accepted")
@@ -315,16 +298,13 @@ const handleResultModal = async (interaction: ModalSubmitInteraction) => {
     .set({ totalLosses: sql`${leaderboard.totalLosses} + 1`, updatedAt: new Date() })
     .where(and(eq(leaderboard.guildId, challenge.guildId), eq(leaderboard.userId, loserId)));
 
-  // Apply cooldowns based on staff input
-  const applyCd = async (userId: string, type: string) => {
-    if (type === "none") return;
-    const expiresAt = new Date(Date.now() + 24 * 60 * 60 * 1000);
-    await db.insert(forfeitCooldowns).values({
-      guildId: challenge.guildId, userId, type, reason: `Set by staff after challenge: ${challenge.challengerUsername} vs ${challenge.challengedUsername}`, expiresAt,
-    });
-  };
-  await applyCd(winnerId, winnerCd);
-  await applyCd(loserId, loserCd);
+  // Auto-apply cooldowns: winner gets voidable, loser gets unavoidable
+  const expiresAt = new Date(Date.now() + 24 * 60 * 60 * 1000);
+  const cdReason = `Challenge result: ${winnerName} ${winnerScore}-${loserScore} ${loserName}`;
+  await db.insert(forfeitCooldowns).values([
+    { guildId: challenge.guildId, userId: winnerId, type: "voidable", reason: cdReason, expiresAt },
+    { guildId: challenge.guildId, userId: loserId, type: "unavoidable", reason: cdReason, expiresAt },
+  ]);
 
   await db.insert(matchLog).values({
     guildId: challenge.guildId, matchType: "challenge", resultType: "normal",
@@ -332,9 +312,11 @@ const handleResultModal = async (interaction: ModalSubmitInteraction) => {
     contextName: "Challenge Match", contextDetail: `${winnerName} ${winnerScore} - ${loserScore} ${loserName}`,
   });
 
+  // Public result embed visible to everyone
   await interaction.editReply({
-    embeds: [new EmbedBuilder().setColor(COLORS.success).setTitle("⚔️ Challenge Complete!")
-      .setDescription(`🏆 **${winnerName}** defeated **${loserName}** (${winnerScore}-${loserScore})\n\nRanks updated.${winnerCd !== "none" ? `\n${winnerName}: ${winnerCd} CD` : ""}${loserCd !== "none" ? `\n${loserName}: ${loserCd} CD` : ""}`)],
+    embeds: [new EmbedBuilder().setColor(COLORS.gold).setTitle("⚔️ Challenge Result")
+      .setDescription(`🏆 **${winnerName}** defeated **${loserName}**\n📊 Score: **${winnerScore} - ${loserScore}**\n\n📋 Ranks updated.\n⏳ Both players on 24hr cooldown.\n↳ ${winnerName}: voidable (use \`/challenge cancelcd\`)\n↳ ${loserName}: unavoidable`)
+      .setTimestamp()],
   });
 
   const { client } = await import("../index");

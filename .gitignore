@@ -16,3 +16,5 @@ dist/
 drizzle/
 
 *.log
+nyxie-memory.db
+

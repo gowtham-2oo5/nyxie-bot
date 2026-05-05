@@ -19,6 +19,8 @@ import { checkForfeitCooldown, applyForfeitCooldowns, voidForfeitCooldown, getAc
 import { getPresenceData, formatActivity, formatStatus } from "../lib/presence";
 import { invalidatePrefixCache } from "../lib/prefix-cache";
 
+import { chat } from "../lib/chat";
+
 // ─── Alias map ───
 
 export const ALIASES: Record<string, string> = {
@@ -390,7 +392,7 @@ const handlers: Record<string, (msg: Message, args: string[]) => Promise<void>> 
       return;
     }
 
-    await reply(msg, new EmbedBuilder().setColor(COLORS.brand).setTitle("Nyx Bot — Commands")
+    await reply(msg, new EmbedBuilder().setColor(COLORS.brand).setTitle("Nyxie — Commands")
       .setDescription("Use `!help <topic>` for details.\n\n**Topics:**\n`tournament` `match` `challenge` `leaderboard` `rank` `profile` `server` `history` `setup` `admin` `register` `forfeit`\n\n**Aliases:**\n`!t` `!m` `!c` `!lb` `!r` `!p` `!sv` `!h`"));
   },
 
@@ -677,6 +679,14 @@ export const parseCommand = (content: string, prefix: string): { command: string
 
 export const handleMessage = async (message: Message) => {
   if (message.author.bot || !message.guild) return;
+
+  // Chatbot response when Nyxie is mentioned
+  if (message.mentions.has(message.client.user!)) {
+    await message.channel.sendTyping();
+    const reply = await chat(message);
+    await message.reply(reply);
+    return;
+  }
 
   const prefix = await getPrefix(message.guildId!);
   if (!message.content.startsWith(prefix)) return;
