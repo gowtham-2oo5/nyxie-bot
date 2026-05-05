@@ -1,11 +1,11 @@
 # Terms of Service
 
-**Last updated:** May 4, 2026
+**Last updated:** May 5, 2026
 
 By using Nyxie ("the Bot"), you agree to these terms.
 
 ## Description
-Nyxie is a Discord bot that provides ranked leaderboards, 1v1 challenges, tournaments, and server management features.
+Nyxie is a Discord bot that provides ranked leaderboards, 1v1 challenges, tournaments, AI-powered chat, and server management features.
 
 ## Eligibility
 You must be at least 13 years old and comply with Discord's Terms of Service to use Nyxie.
@@ -18,6 +18,15 @@ You agree NOT to:
 - Manipulate leaderboard rankings through unauthorized means
 - Use automated tools to interact with the bot (self-bots, macros)
 - Overload the bot's API or WebSocket endpoints
+- Attempt to manipulate, jailbreak, or extract the AI chatbot's system instructions
+- Use the AI chatbot to generate harmful, illegal, or abusive content
+
+## AI Chatbot
+Nyxie includes an AI-powered chatbot feature. By chatting with Nyxie:
+- You acknowledge that responses are AI-generated and may not always be accurate
+- You understand that conversation context is stored locally for continuity
+- You understand that messages are sent to a third-party AI provider (Groq) for processing
+- You agree not to share sensitive personal information (passwords, financial details) in chat with Nyxie
 
 ## Server Admin Responsibilities
 Server administrators who add Nyxie are responsible for:
@@ -36,6 +45,7 @@ We are not responsible for:
 - Loss of data due to server issues or bugs
 - Disputes between players over challenge or tournament results
 - Actions taken by server administrators using admin commands
+- AI chatbot responses or any actions taken based on them
 - Any damages arising from use of the bot
 
 ## Intellectual Property

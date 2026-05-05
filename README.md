@@ -1,6 +1,6 @@
 # Nyxie
 
-A Discord bot for ranked leaderboards, 1v1 challenges, tournaments, and server management.
+A Discord bot for ranked leaderboards, 1v1 challenges, tournaments, AI chatbot, and server management.
 
 ## Tech Stack
 
@@ -9,15 +9,17 @@ A Discord bot for ranked leaderboards, 1v1 challenges, tournaments, and server m
 | Runtime | Bun |
 | Language | TypeScript |
 | Discord | discord.js v14 |
-| Database | MySQL (MariaDB) |
+| Database | MySQL (MariaDB) + SQLite (chat memory) |
 | ORM | Drizzle ORM |
 | REST API | Hono |
 | WebSocket | Bun native |
+| AI | Groq (Llama 3.3 70B) |
 
 ## Features
 
+- **AI Chatbot** — Mention Nyxie to chat. Persistent memory per channel + per user, powered by Groq LLM
 - **Ranked Leaderboard** — Fixed-size ladder with role-based positions, region support, auto-updating channel messages
-- **1v1 Challenges** — Challenge players above you, staff-verified results, 24hr expiry with auto-forfeit
+- **1v1 Challenges** — Challenge players above you, staff-verified results, automatic cooldowns, 24hr expiry with auto-forfeit
 - **Tournaments** — Single-elimination brackets with auto-advancing rounds
 - **Forfeit System** — Voidable/unavoidable cooldowns, admin overrides
 - **REST API** — Leaderboard, player profiles, tournaments, server stats
@@ -42,6 +44,7 @@ DISCORD_CLIENT_ID=
 DATABASE_URL=mysql://user:pass@localhost:3306/nyx_bot
 GUILD_ID=              # optional, for instant slash command updates in dev
 API_PORT=3001          # optional, default 3001
+GROQ_API_KEY=          # for AI chatbot
 ```
 
 ## Discord Developer Portal
@@ -66,6 +69,7 @@ Enable these under **Bot → Privileged Gateway Intents**:
 ### Player Commands
 | Command | Description |
 |---------|-------------|
+| `@Nyxie <anything>` | Chat with Nyxie (AI-powered) |
 | `/challenge player @target` | Challenge a ranked player |
 | `/challenge forfeit <reason>` | Forfeit your accepted challenge |
 | `/challenge cancelcd` | Cancel your voidable cooldown |
@@ -89,6 +93,14 @@ Enable these under **Bot → Privileged Gateway Intents**:
 
 ### Prefix Commands
 All commands available with prefix (default `!`). Aliases: `!t` `!m` `!c` `!lb` `!r` `!p` `!sv` `!h`
+
+## AI Chatbot
+
+Nyxie responds when mentioned. She has:
+- **Channel memory** — remembers last 20 messages per channel (persists across restarts via SQLite)
+- **User memory** — learns facts about users over time (preferences, hobbies, etc.)
+- **Personality** — anime-coded, nonchalant, Gen Z energy, MHA/HBG clan-aware
+- **Hinglish support** — responds in Hindi/English mix when users speak Hinglish
 
 ## WebSocket API
 
@@ -130,7 +142,7 @@ src/
 │   └── schema.ts         # All table definitions
 ├── handlers/
 │   ├── interaction.ts    # Slash, button, select, modal, autocomplete dispatch
-│   └── message.ts        # Prefix command handler
+│   └── message.ts        # Prefix command handler + chatbot trigger
 ├── commands/
 │   ├── help.ts           # Interactive help menu
 │   ├── challenge.ts      # Challenge system
@@ -145,6 +157,8 @@ src/
 │   ├── setup.ts          # Server config
 │   └── admin.ts          # Admin operations
 └── lib/
+    ├── chat.ts           # AI chatbot (Groq LLM)
+    ├── memory.ts         # SQLite chat/user memory
     ├── rank-ops.ts       # Transactional rank operations
     ├── leaderboard.ts    # Role sync, channel refresh
     ├── bracket.ts        # Tournament bracket generation
