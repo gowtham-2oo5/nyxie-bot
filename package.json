@@ -2,13 +2,13 @@
   "name": "nyxie",
   "version": "1.0.0",
   "description": "Nyxie — a discord bot for leaderboard, ranked matches, and server mgmnt :>",
-  "homepage": "https://github.com/gowtham-2oo5/nyx-bot#readme",
+  "homepage": "https://github.com/gowtham-2oo5/nyxie-bot#readme",
   "bugs": {
-    "url": "https://github.com/gowtham-2oo5/nyx-bot/issues"
+    "url": "https://github.com/gowtham-2oo5/nyxie-bot/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gowtham-2oo5/nyx-bot.git"
+    "url": "git+https://github.com/gowtham-2oo5/nyxie-bot.git"
   },
   "license": "ISC",
   "author": "Gowtham A",

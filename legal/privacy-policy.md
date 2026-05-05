@@ -77,5 +77,5 @@ We may update this policy. Changes will be posted on this page with an updated d
 
 ## Contact
 For questions or data deletion requests:
-- GitHub: [github.com/gowtham-2oo5/nyx-bot](https://github.com/gowtham-2oo5/nyx-bot)
+- GitHub: [github.com/gowtham-2oo5/nyxie-bot](https://github.com/gowtham-2oo5/nyxie-bot)
 - Discord: Contact the server admin where Nyxie is installed

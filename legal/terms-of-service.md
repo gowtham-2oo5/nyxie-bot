@@ -61,5 +61,5 @@ We reserve the right to:
 We may update these terms. Continued use of the bot after changes constitutes acceptance.
 
 ## Contact
-- GitHub: [github.com/gowtham-2oo5/nyx-bot](https://github.com/gowtham-2oo5/nyx-bot)
+- GitHub: [github.com/gowtham-2oo5/nyxie-bot](https://github.com/gowtham-2oo5/nyxie-bot)
 - Discord: Contact the server admin where Nyxie is installed
